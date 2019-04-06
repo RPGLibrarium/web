@@ -15,6 +15,22 @@
   text-decoration: underline;
 }
 
+blockquote {
+  --blockquote-hue: 45;
+  --blockquote-color: hsla(var(--blockquote-hue), 100%, 50%, .35);
+  background: var(--blockquote-color);
+  padding-left: .5em;
+  box-shadow: 0 0 0 .75em var(--blockquote-color);
+}
+blockquote > blockquote { --blockquote-hue: 90; }
+blockquote > blockquote > blockquote { --blockquote-hue: 135; }
+blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 180; }
+blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 225; }
+blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 270; }
+blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 315; }
+blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 360; }
+
+
 header.page-header {
   --bg-color: var(--color-cd-light-green);
   background: var(--bg-color);
@@ -51,4 +67,8 @@ header.page-header {
 }
 .page-nav .nav-list li.active {
   background: hsla(38, 0%, 0%, 1);
-}a
+  color: var(--color-cd-light-green);
+}
+.page-nav .nav-list li.active a {
+  color: inherit;
+}
