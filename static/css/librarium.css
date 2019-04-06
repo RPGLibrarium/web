@@ -1,0 +1,45 @@
+:root {
+  --color-cd-dark-green: hsla(123, 56%, 41%, 1);
+  --color-cd-light-green: hsla(86, 63%, 42%, 1);
+  --color-cd-brown-ish: hsla(42, 28%, 50%, 1);
+  --color-cd-light-ish: hsla(48, 9%, 90%, 1);
+  --color-cd-dark-ish: hsla(38, 11%, 20%, 1);
+}
+
+header.page-header {
+  --bg-color: var(--color-cd-light-green);
+  background: var(--bg-color);
+}
+
+.bg-top {
+  height: 14em;
+  box-sizing: border-box;
+  background-image: url('/img/Banner-Frühling.svg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: contain;
+  border: 1em solid transparent;
+}
+
+.page-nav {
+  background: var(--color-cd-dark-ish);
+  height: 4em;
+  padding: 0 1em;
+}
+.page-nav nav, .page-nav nav > * {
+  height: 100%;
+}
+.page-nav ul.nav-list {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.page-nav .nav-list li {
+  height: 100%;
+  display: inline-flex;
+  align-items: center;
+  padding: .5em 1em;
+}
+.page-nav .nav-list li.active {
+  background: hsla(38, 0%, 0%, 1);
+}a

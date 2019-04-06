@@ -2,3 +2,6 @@ baseURL = "http://rpg-librarium.de/"
 languageCode = "de-de"
 title = "RPG Librarium Aachen"
 theme = "ananke"
+
+[params]
+custom_css = ["css/librarium.css"]

@@ -1,0 +1,18 @@
+{{ $url := .URL }}
+<nav class="" role="navigation">
+  <div class="flex-l items-center">
+    {{ partial "i18nlist.html" . }}
+    {{ if .Site.Menus.main }}
+      <ul class="nav-list">
+        {{ range .Site.Menus.main }}
+        <li class="list f5 f4-ns fw4 dib pr3 {{ if eq $url .URL }}active{{ end }}" data-url="{{.URL}}" data-activeUrl="{{$url}}">
+          <a class="hover-white no-underline white-70" href="{{ .URL }}" title="{{ .Name }} page">
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+    {{ partial "social-follow.html" . }}
+  </div>
+</nav>
