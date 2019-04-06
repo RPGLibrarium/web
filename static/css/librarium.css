@@ -46,9 +46,17 @@ header.page-header {
   border: 1em solid transparent;
 }
 
+@media screen and (max-width: 60em) {
+  .bg-top {
+    height: 20vw;
+    border-width: .5em;
+  }
+}
+
 .page-nav {
+  --nav-height: 4em;
   background: var(--color-cd-dark-ish);
-  height: 4em;
+  height: var(--nav-height);
   padding: 0 1em;
 }
 .page-nav nav, .page-nav nav > * {
@@ -71,4 +79,20 @@ header.page-header {
 }
 .page-nav .nav-list li.active a {
   color: inherit;
+}
+
+@media screen and (max-width: 42em) {
+  .page-nav {
+    padding: 0;
+  }
+  .page-nav,
+  .page-nav nav,
+  .page-nav nav > *,
+  .page-nav ul.nav-list {
+    height: auto;
+  }
+  .page-nav .nav-list li {
+    display: flex;
+    height: var(--nav-height);
+  }
 }
