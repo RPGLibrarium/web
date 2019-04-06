@@ -1,0 +1,15 @@
+<footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 mw9 center pa3" role="contentinfo">
+  <div class="flex justify-between">
+  {{ if .Site.Menus.footer }}
+      <ul class="nav-list">
+        {{ range .Site.Menus.footer }}
+        <li class="list f5 f4-ns fw4 dib pr3">
+          <a class="hover-white no-underline white-70" href="{{ .URL }}" title="{{ .Name }} page">
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+</footer>
