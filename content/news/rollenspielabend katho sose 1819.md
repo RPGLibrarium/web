@@ -11,15 +11,15 @@ Mit der Katholischen Hochschule (KatHo) Aachen organisiert der RPG Librarium auc
 
 Wie immer sind wir dafür auch auf die Unterstützung durch engagierte Spielleiter/innen angewiesen! Also hier der Aufruf: Leite eine oder zwei Runden eines Pen&Papers deiner Wahl und trage dich mit deiner Runde im entsprechenden Etherpad ein.
 
-Der Zeitplan sieht wie folgt aus:
-
-Aufbau: ab ca. 17:30 Uhr.
-
-1. Vorstellung der Spielrunden: 18:00 Uhr - 18:30 Uhr
-1. Spielphase: 18:30 Uhr - 20:15 Uhr
-
-2. Vorstellung der Spielrunden: 20:15 Uhr - 20:45 Uhr
-2. Spielphase: 20:45 Uhr - 22:30 Uhr
-
-Abbau: bis max. 23:30 Uhr
+>Der Zeitplan sieht wie folgt aus:
+>
+>Aufbau: ab ca. 17:30 Uhr.
+>
+>1. Vorstellung der Spielrunden: 18:00 Uhr - 18:30 Uhr
+>1. Spielphase: 18:30 Uhr - 20:15 Uhr
+>
+>2. Vorstellung der Spielrunden: 20:15 Uhr - 20:45 Uhr
+>2. Spielphase: 20:45 Uhr - 22:30 Uhr
+>
+>Abbau: bis max. 23:30 Uhr
 

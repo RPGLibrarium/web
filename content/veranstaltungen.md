@@ -14,12 +14,13 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Îdee 
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto://kontakt@rpg-librarium.de).
 
-> Nächstes Treffen am 16. April: Themenabend "Recht, Ordnung & gute Manieren"**
+> Nächstes Treffen am 16. April: **Themenabend "Recht, Ordnung & gute Manieren"**
+>
 > Regeln sind da, um gebrochen zu werden? Wir wollen beim nächsten Monatstreffen diskutieren, wie verschiedene Systeme und Spielrunden sich mit dem Thema „Recht und Ordnung“ auseinandersetzen. Sind götter- oder menschengemachte Gesetze ein Teil des Spiels? Wird generell erwartet, dass Spielcharaktere sich an diese Regeln halten – und was passiert, wenn nicht? Ist Selbstjustiz eine Option, oder hat auch der schäbigste NPC-Bandit ein Gerichtsverfahren verdient? Ist „wetwork“ nur eine weitere lukrative Geldeinnahmequelle? Sind Kollateralschäden im Kampf geächtet oder vollkommen normal? Was passiert mit verletzten Gegnern? Zurücklassen, versorgen, töten?
 >
 > Der Themenabend soll eine offene Diskussion sein; habt ihr also eigene Ideen zum Thema, bringt sie gerne mit – oder lasst sie Jan oder dem Vorstand zukommen!
 >
-> Das Monatstreffen des Librarium mit dem Themenabend „Recht, Ordnung und gute Manieren“ findet am **Dienstag, den 16. April ab 19 Uhr** im [http://www.cafepapillon-ac.de/|Papillon Aachen] (Pontstraße 151) statt - wie immer mit ausreichend Möglichkeit zum Einfach-Nur-Miteinander-Quatschen, Fachsimpeln und gepflegten Pen&Paper-Diskussionen.
+> Das Monatstreffen des Librarium mit dem Themenabend „Recht, Ordnung und gute Manieren“ findet am **Dienstag, den 16. April ab 19 Uhr** im [Papillon Aachen](http://www.cafepapillon-ac.de/) (Pontstraße 151) statt - wie immer mit ausreichend Möglichkeit zum Einfach-Nur-Miteinander-Quatschen, Fachsimpeln und gepflegten Pen&Paper-Diskussionen.
 
 
 
@@ -40,7 +41,7 @@ Wir möchten die Spielleiter*innen für den Abend stellen
 und du kannst eine*r davon sein. 
 Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 
->Der Rollenspielabend mit der Katholischen Hochschule Aachen findet einmal pro Semester statt. Der nächste wird im Sommersemester 2019 statt finden. ^~/tc~
+>Der Rollenspielabend mit der Katholischen Hochschule Aachen findet einmal pro Semester statt. Der nächste wird im Sommersemester 2019 statt finden. 
 >
 >Am **Donnerstag, den 11. April 2019** findet ab 18:00 Uhr der nächste **Rollenspielabend mit der KatHo** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
