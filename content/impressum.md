@@ -25,4 +25,4 @@ Registernummer: VR 5440
 
 # Datenschutzerklärung
 
-Die Datenschutzerklärung zur Benutzung unserer Website kann [hier](/datenschutzerklärung) abgerufen werden.
+Die Datenschutzerklärung zur Benutzung unserer Website kann [hier](/datenschutz) abgerufen werden.
