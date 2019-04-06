@@ -1,0 +1,74 @@
+:root {
+  --color-cd-dark-green: hsla(123, 56%, 41%, 1);
+  --color-cd-light-green: hsla(86, 63%, 42%, 1);
+  --color-cd-brown-ish: hsla(42, 28%, 50%, 1);
+  --color-cd-light-ish: hsla(48, 9%, 90%, 1);
+  --color-cd-dark-ish: hsla(38, 11%, 20%, 1);
+}
+
+.nested-links a {
+  color: var(--color-cd-light-green);
+  text-decoration: none;
+}
+.nested-links a:hover, .nested-links a:focus {
+  color: var(--color-cd-dark-green);
+  text-decoration: underline;
+}
+
+blockquote {
+  --blockquote-hue: 45;
+  --blockquote-color: hsla(var(--blockquote-hue), 100%, 50%, .35);
+  background: var(--blockquote-color);
+  padding-left: .5em;
+  box-shadow: 0 0 0 .75em var(--blockquote-color);
+}
+blockquote > blockquote { --blockquote-hue: 90; }
+blockquote > blockquote > blockquote { --blockquote-hue: 135; }
+blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 180; }
+blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 225; }
+blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 270; }
+blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 315; }
+blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 360; }
+
+
+header.page-header {
+  --bg-color: var(--color-cd-light-green);
+  background: var(--bg-color);
+}
+
+.bg-top {
+  height: 14em;
+  box-sizing: border-box;
+  background-image: url('../img/Banner-Frühling.web.opti.svg');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: contain;
+  border: 1em solid transparent;
+}
+
+.page-nav {
+  background: var(--color-cd-dark-ish);
+  height: 4em;
+  padding: 0 1em;
+}
+.page-nav nav, .page-nav nav > * {
+  height: 100%;
+}
+.page-nav ul.nav-list {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.page-nav .nav-list li {
+  height: 100%;
+  display: inline-flex;
+  align-items: center;
+  padding: .5em 1em;
+}
+.page-nav .nav-list li.active {
+  background: hsla(38, 0%, 0%, 1);
+  color: var(--color-cd-light-green);
+}
+.page-nav .nav-list li.active a {
+  color: inherit;
+}
