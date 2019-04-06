@@ -1,0 +1,4 @@
+baseURL = "http://rpg-librarium.de/"
+languageCode = "de-de"
+title = "RPG Librarium Aachen"
+theme = "ananke"
