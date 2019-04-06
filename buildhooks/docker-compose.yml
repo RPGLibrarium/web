@@ -6,5 +6,6 @@ services:
     volumes:
       - ./webhook:/etc/webhook
       - ./build:/target/
+    tmpfs: /tmp/build
     ports:
       - 127.0.0.1:9000:9000
