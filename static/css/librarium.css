@@ -39,7 +39,7 @@ header.page-header {
 .bg-top {
   height: 14em;
   box-sizing: border-box;
-  background-image: url('/img/Banner-Frühling.web.svg');
+  background-image: url('../img/Banner-Frühling.web.svg');
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
