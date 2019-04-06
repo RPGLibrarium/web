@@ -6,3 +6,6 @@ menu:
   main:
     weight: 500
 ---
+
+Contact Us
+Send a message to us
