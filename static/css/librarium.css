@@ -6,6 +6,15 @@
   --color-cd-dark-ish: hsla(38, 11%, 20%, 1);
 }
 
+.nested-links a {
+  color: var(--color-cd-light-green);
+  text-decoration: none;
+}
+.nested-links a:hover, .nested-links a:focus {
+  color: var(--color-cd-dark-green);
+  text-decoration: underline;
+}
+
 header.page-header {
   --bg-color: var(--color-cd-light-green);
   background: var(--bg-color);
@@ -14,7 +23,7 @@ header.page-header {
 .bg-top {
   height: 14em;
   box-sizing: border-box;
-  background-image: url('/img/Banner-Frühling.svg');
+  background-image: url('/img/Banner-Frühling.web.svg');
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
