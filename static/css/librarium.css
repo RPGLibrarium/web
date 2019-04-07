@@ -6,6 +6,7 @@
   --color-cd-dark-ish: hsla(38, 11%, 20%, 1);
 }
 
+/* generic elements */
 .nested-links a {
   color: var(--color-cd-light-green);
   text-decoration: none;
@@ -30,6 +31,8 @@ blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --
 blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 315; }
 blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote > blockquote { --blockquote-hue: 360; }
 
+
+/* layout elements */
 
 header.page-header {
   --bg-color: var(--color-cd-light-green);
@@ -95,4 +98,36 @@ header.page-header {
     display: flex;
     height: var(--nav-height);
   }
+}
+
+/* content elements */
+.multiversumTable {
+  font-size: .85em;
+}
+.multiversumTable table {
+  border: 0 none;
+  border-collapse: collapse;
+  width: 100%;
+}
+.multiversumTable table th,
+.multiversumTable table td {
+  padding: .21em .5em;
+}
+.multiversumTable table thead th {
+  border-bottom: .2em solid var(--color-cd-dark-ish);
+}
+.multiversumTable table thead th:nth-of-type(1) {
+  min-width: 10em;
+  text-align: left;
+}
+.multiversumTable table tbody td {
+  border: solid var(--color-cd-dark-ish);
+  border-width: .1em 0;
+}
+.multiversumTable table tbody td:first-of-type {
+  white-space: nowrap;
+}
+.multiversumTable table tbody td:last-of-type {
+  text-align: right;
+  white-space: nowrap;
 }
