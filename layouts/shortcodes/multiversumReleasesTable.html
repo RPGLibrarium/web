@@ -1,4 +1,6 @@
+{{/* fetch JSON from file */}}
 {{ $releases := getJSON "/static/multiversum/releases.json" }}
+{{/* generate HTML */}}
 <div class="multiversumTable">
   <table class="multiversumReleases">
     <thead>
@@ -7,7 +9,9 @@
       <th class="size">Größe</th>
     </thead>
     <tbody>
+      {{/* iterate over the entries and sort them descending by the id property */}}
       {{ range sort $releases "id" "desc" }}
+        {{/* compute the pdf file path */}}
         {{ $file := ( printf "/multiversum/%s.pdf" .id ) }}
         <tr>
           <td class="release">
