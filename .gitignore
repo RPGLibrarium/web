@@ -1,1 +1,3 @@
 /public/
+/webhooks-hugo/build/
+/webhooks-hugo/webhooks/secret
