@@ -100,6 +100,54 @@ header.page-header {
   }
 }
 
+.mainLayoutContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.mainLayoutContainer .sidebar {
+  --sidebar-width: 21rem;
+  /* width: var(--sidebar-width); */
+  margin-top: 7rem;
+  margin-right: .5rem;
+}
+.mainLayoutContainer .sidebar .sidebarBlock {
+  border: 1px solid var(--color-cd-brown-ish);
+  border-radius: .5em;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  width: var(--sidebar-width);
+}
+.mainLayoutContainer .sidebar .sidebarBlock>* {
+  padding: .75rem 1rem;
+}
+.mainLayoutContainer .sidebar .sidebarBlock header {
+  font-size: .9em;
+  text-transform: uppercase;
+  color: var(--color-cd-brown-ish);
+  border-bottom: 1px solid var(--color-cd-brown-ish);
+  background-color: var(--color-cd-light-ish);
+}
+@media screen and (max-width: 70em) {
+  .mainLayoutContainer {
+    flex-direction: column;
+  }
+  .mainLayoutContainer .sidebar {
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    display: flex;
+    align-items: flex-start;
+    align-content: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .mainLayoutContainer .sidebar .sidebarBlock {
+    margin: 1rem 1rem;
+  }
+}
+
 /* content elements */
 .multiversumTable {
   font-size: .85em;
