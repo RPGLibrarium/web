@@ -34,7 +34,7 @@ Für unsere Mitglieder bieten wir eine Sammlung von Büchern und Regelwerken im 
 Die Entscheidung, welche Bücher der Sammlung hinzugefügt werden, treffen wir gemeinsam. Dabei bemühen wir uns, vorhandene Wünsche so schnell wie möglich umzusetzen. Wenn bestimmte Titel oft benötigt werden, gibt es natürlich auch die Möglichkeit, mehrere Exemplare eines Buches zu kaufen.
 
 ## Aktueller Bestand
-Hier findest du unseren aktuellen Bestand. Vermisst du etwas? Dann schreib uns eine [E-Mail](mailto://kontakt@rpg-librarium.de).
+Hier findest du unseren aktuellen Bestand. Vermisst du etwas? Dann schreib uns eine [E-Mail](mailto:kontakt@rpg-librarium.de).
 
 > Unsere Seiten befinden sich aktuell in der Migration auf ein neues System.  
 > Der Bücherbestand wird an dieser Stelle bald wieder verfügbar sein!

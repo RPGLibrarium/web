@@ -12,7 +12,7 @@ Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätesten
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Îdee von Abenteuern auf Papier mit vielen Würfeln eigentlich ganz witzig findest und das auch mal spielen möchtest - jede*r, ob Mitglied oder nicht, ist herzlich eingeladen, vorbeizukommen!
 
-Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto://kontakt@rpg-librarium.de).
+Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
 > Nächstes Treffen am 16. April: **Themenabend "Recht, Ordnung & gute Manieren"**
 >
