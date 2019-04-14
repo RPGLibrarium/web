@@ -12,7 +12,7 @@ Der RPG Librarium Aachen e.V. ist eine Community von Rollenspieler*innen der ver
 ## Unser Team
 Unsere Mitglieder wählen jährlich auf der Mitgliederversammlung einen Vorstand, welcher das Jahr über die anfallenden Aufgaben koordiniert. Im Vorstand sind zurzeit  **Franca, Lamin, Yoann, Frieder und Stefan**. Die Vorstandssitzungen sind grundsätzlich öffentlich und freiwilliges zusätzliches Engagement ist gerne willkommen. Auf unseren monatlichen Treffen (jeweils am 16. des Monats ab 19 Uhr, meist entweder im Papillon in der Pontstraße 151 oder im Level 9000 in der Alexanderstraße 37) informieren wir die Anwesenden über die aktuelle Arbeit im Vorstand. Wenn du über die Sitzungstermine des Vorstands auf dem Laufenden gehalten werden möchtest, schreib uns gerne eine E-Mail.
 
-[vorstand@rpg-librarium.de](mailto://vorstand@rpg-librarium.de)
+[vorstand@rpg-librarium.de](mailto:vorstand@rpg-librarium.de)
 RPG Librarium Aachen e.V.
 Postfach 101632
 52016 Aachen
