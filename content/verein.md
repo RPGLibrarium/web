@@ -32,7 +32,12 @@ Du hast Interesse, in einer AG mitzumachen? Schreibe einfach eine Mail an kontak
 Wenn ihr weitere coole Ideen habt oder euch in einer der Arbeitsgruppen engagieren wollt, dann freuen wir uns, von euch zu hören!
 
 ## Du möchtest Mitglied werden?
-Wenn du dem Verein beitreten möchtest, schick uns deinen [Mitgliedsantrag]() per Post oder per E-Mail! Damit der Verein die gewünschten Bücher kaufen kann, fällt für alle Mitglieder ein Mitgliedsbeitrag von 5 € im Monat an. Ein ermäßigter Mitgliedsbeitrag von 2 € ist ebenfalls möglich. Näheres dazu findet man in der Beitragsordnung weiter unten. Wenn du uns nur erstmal kennen lernen möchtest, dann komm doch einfach zu unserem [monatlichen Treffen](/veranstaltungen#Stammtisch) oder einer anderen [Veranstaltung](/veranstaltungen).
+Wenn du dem Verein beitreten möchtest, schick uns deinen [Mitgliedsantrag](/files/Mitgliedsantrag_Datenschutzerklärung.pdf) per Post oder per E-Mail! Damit der Verein die gewünschten Bücher kaufen kann, fällt für alle Mitglieder ein Mitgliedsbeitrag von 5 € im Monat an. Ein ermäßigter Mitgliedsbeitrag von 2 € ist ebenfalls möglich. Näheres dazu findet man in der Beitragsordnung weiter unten. Wenn du uns nur erstmal kennen lernen möchtest, dann komm doch einfach zu unserem [monatlichen Treffen](/veranstaltungen#Stammtisch) oder einer anderen [Veranstaltung](/veranstaltungen).
+
+Wenn du uns (und dir) das Leben einfacher machen möchtest, kannst du uns ein [SEPA-Lastschriftmandat](/files/SEPA_Mandat.pdf) zukommen lassen, damit wir den Mitgliedsbeitrag automatisiert einziehen können.  
+
+- [Mitgliedsantrag und Datenschutzerklärung](/files/Mitgliedsantrag_Datenschutzerklärung.pdf)
+- [SEPA-Lastschriftmandat](/files/SEPA_Mandat.pdf)
 
 ## Satzungen und Ordnungen
 - [Satzung vom RPG Librarium Aachen e.V.](/files/Satzung_RPG_Librarium_Aachen.pdf)
