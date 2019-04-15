@@ -7,7 +7,7 @@
           <p class="f6 b helvetica tracked">
             {{ humanize .Section | upper  }}
           </p>
-          {{ if $.Param "hideHeading" }}{{ else }}
+          {{ if ne .Params.hideHeading true }}
           <h1 class="f1">
             {{ .Title }}
           </h1>
