@@ -1,8 +1,16 @@
-baseURL = "http://rpg-librarium.de/"
+baseURL = "https://rpg-librarium.de/"
 languageCode = "de-de"
 title = "RPG Librarium Aachen"
 theme = "ananke"
-relativeUrls = true
+#relativeUrls = true
 
 [params]
 custom_css = ["css/librarium.css"]
+
+[taxonomies]
+  tag = ""
+
+[sitemap]
+#  changefreq = "monthly"
+#  priority = 0.5
+  filename = "sitemap.xml"
