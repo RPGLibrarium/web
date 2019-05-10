@@ -13,7 +13,7 @@ Schurzelter Straße 469
 52074 Aachen  
 
 Vertreten durch:
-Christine Beck
+Franca auf der Heiden
 
 Kontakt:  
 E-Mail: kontakt@rpg-librarium.de
