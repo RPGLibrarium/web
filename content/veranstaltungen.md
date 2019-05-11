@@ -39,10 +39,11 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 >
 >Am **Dienstag, den 21. Mai 2019** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
->**Wo?:** [**SemiTemp**  (Schinkelstraße 15, nahe RWTH Hauptgebäude und nicht zu verwechseln mit Semi90 oder Temp)](https://goo.gl/maps/swq46aj4Nn32).
+>**Wo?:** [**SemiTemp**](https://goo.gl/maps/swq46aj4Nn32)  (Schinkelstraße 15, nahe RWTH Hauptgebäude und nicht zu verwechseln mit Semi90 oder Temp).
 
 >
 >Wenn du Lust hast, eine Runde zu leiten, brauchen wir folgende Infos von dir:
+>
 >  * Deinen Name?
 >  * Welches System?
 >  * Wie viele Spieler (min/max)?
