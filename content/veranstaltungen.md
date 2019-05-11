@@ -1,3 +1,4 @@
+
 ---
 title: "Veranstaltungen"
 date: 2019-05-11T11:16:00+02:00
@@ -27,7 +28,7 @@ und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) k
 
 ![Rollenspielabend-min](/img/Rollenspielabend-min.jpg)
 
-Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler*innen grob erwartet. Danach suchen sich die Besucher*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden von ca. 18:00 Uhr bis 18:30 Uhr) oder zur zweiten Phase (20:15-20:45 Uhr) da sein solltet. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
+Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler*innen grob erwartet. Danach suchen sich die Besucher*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden von ca. 18:30 Uhr bis 19:00 Uhr) oder zur zweiten Phase (20:45-21:15 Uhr) da sein solltet. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
 Wir möchten die Spielleiter*innen für den Abend stellen
@@ -36,18 +37,19 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 
 >Der Rollenspielabend mit der Katholischen Hochschule Aachen findet einmal pro Semester statt. Der nächste wird im Sommersemester 2019 statt finden.
 >
->Am **Donnerstag, den 11. April 2019** findet ab 18:00 Uhr der nächste **Rollenspielabend mit der KatHo** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
+>Am **Dienstag, den 21. Mai 2019** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
->**Wo?:**Raum 10 der KatHo Aachen, Robert-Schuman-Straße 25, 52066 Aachen, Haltestelle "Bayernallee".
+>**Wo?:** [**SemiTemp**  (Schinkelstraße 15, nahe RWTH Hauptgebäude und nicht zu verwechseln mit Semi90 oder Temp)](https://goo.gl/maps/swq46aj4Nn32).
+
 >
 >Wenn du Lust hast, eine Runde zu leiten, brauchen wir folgende Infos von dir:
-Deinen Name?
-Welches System?
-Wie viele Spieler (min/max)?
+>  * Deinen Name?
+>  * Welches System?
+>  * Wie viele Spieler (min/max)?
 >
->Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend_Katho_11_04_2019) ein.
+>Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend-Librarium-Fachschaft_2019-05-21) ein.
 
-Der Rollenspielabend mit der FSMPI der RWTH findet einmal pro Semester statt. Der nächste wird im Sommersemester 2019 statt finden - vermutlich Ende Mai, der Termin wird bald hier veröffentlicht.
+Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Der nächste wird im Wintersemester 2019/20 statt finden - vermutlich Ende November, der Termin wird bald hier veröffentlicht.
 
 
 
