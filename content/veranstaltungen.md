@@ -1,6 +1,7 @@
+
 ---
 title: "Veranstaltungen"
-date: 2019-04-06T10:29:45+02:00
+date: 2019-05-11T11:16:00+02:00
 draft: false
 menu:
   main:
@@ -14,19 +15,12 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Îdee 
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> Nächstes Treffen am 16. April: **Themenabend "Recht, Ordnung & gute Manieren"**
+
+> **16. Mai: Rollenspieltest "Party-RPGs"**
 >
-> Regeln sind da, um gebrochen zu werden? Wir wollen beim nächsten Monatstreffen diskutieren, wie verschiedene Systeme und Spielrunden sich mit dem Thema „Recht und Ordnung“ auseinandersetzen. Sind götter- oder menschengemachte Gesetze ein Teil des Spiels? Wird generell erwartet, dass Spielcharaktere sich an diese Regeln halten – und was passiert, wenn nicht? Ist Selbstjustiz eine Option, oder hat auch der schäbigste NPC-Bandit ein Gerichtsverfahren verdient? Ist „wetwork“ nur eine weitere lukrative Geldeinnahmequelle? Sind Kollateralschäden im Kampf geächtet oder vollkommen normal? Was passiert mit verletzten Gegnern? Zurücklassen, versorgen, töten?
+> Du wolltest schon immer eine terroristische Qualle oder einen babyfressenden Kobold spielen? Geht klar! Im Mai steht jene Art von Rollenspiel im Vordergrund, die man am liebsten spät abends spielt und nicht hinterfragt. Ob man sie als Party-Rollenspiele, Quatsch-Pen&Paper oder Bier&Brezel-Systeme bezeichnet, ist egal. Simpel, schnell, skurril und humorvoll wird es beim nächsten Monatstreffen des Librarium. Wer eine Spielrunde dieser Kategorie mitbringen möchte, sei herzlich dazu eingeladen.
 >
-> Der Themenabend soll eine offene Diskussion sein; habt ihr also eigene Ideen zum Thema, bringt sie gerne mit – oder lasst sie Jan oder dem Vorstand zukommen!
->
-> Das Monatstreffen des Librarium mit dem Themenabend „Recht, Ordnung und gute Manieren“ findet am **Dienstag, den 16. April ab 19 Uhr** im [Papillon Aachen](http://www.cafepapillon-ac.de/) (Pontstraße 151) statt - wie immer mit ausreichend Möglichkeit zum Einfach-Nur-Miteinander-Quatschen, Fachsimpeln und gepflegten Pen&Paper-Diskussionen.
-
-
-
-
-
-
+> Der Rollenspieltest des Librarium findet am Donnerstag, den 16. Mai ab 19 Uhr im Level 9000 (Alexanderstraße 37) statt.
 
 ## Rollenspielabende für Neulinge
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://www.fsmpi.rwth-aachen.de) für Mathe, Physik und Informatik] an der RWTH
@@ -34,7 +28,7 @@ und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) k
 
 ![Rollenspielabend-min](/img/Rollenspielabend-min.jpg)
 
-Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler*innen grob erwartet. Danach suchen sich die Besucher*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden von ca. 18:00 Uhr bis 18:30 Uhr) oder zur zweiten Phase (20:15-20:45 Uhr) da sein solltet. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
+Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler*innen grob erwartet. Danach suchen sich die Besucher*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden von ca. 18:30 Uhr bis 19:00 Uhr) oder zur zweiten Phase (20:45-21:15 Uhr) da sein solltet. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
 Wir möchten die Spielleiter*innen für den Abend stellen
@@ -43,18 +37,20 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 
 >Der Rollenspielabend mit der Katholischen Hochschule Aachen findet einmal pro Semester statt. Der nächste wird im Sommersemester 2019 statt finden.
 >
->Am **Donnerstag, den 11. April 2019** findet ab 18:00 Uhr der nächste **Rollenspielabend mit der KatHo** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
+>Am **Dienstag, den 21. Mai 2019** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
->**Wo?:**Raum 10 der KatHo Aachen, Robert-Schuman-Straße 25, 52066 Aachen, Haltestelle "Bayernallee".
+>**Wo?:** [**SemiTemp**](https://goo.gl/maps/swq46aj4Nn32)  (Schinkelstraße 15, nahe RWTH Hauptgebäude und nicht zu verwechseln mit Semi90 oder Temp).
+
 >
 >Wenn du Lust hast, eine Runde zu leiten, brauchen wir folgende Infos von dir:
-Deinen Name?
-Welches System?
-Wie viele Spieler (min/max)?
 >
->Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend_Katho_11_04_2019) ein.
+>  * Deinen Name?
+>  * Welches System?
+>  * Wie viele Spieler (min/max)?
+>
+>Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend-Librarium-Fachschaft_2019-05-21) ein.
 
-Der Rollenspielabend mit der FSMPI der RWTH findet einmal pro Semester statt. Der nächste wird im Sommersemester 2019 statt finden - vermutlich Ende Mai, der Termin wird bald hier veröffentlicht.
+Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Der nächste wird im Wintersemester 2019/20 statt finden - vermutlich Ende November, der Termin wird bald hier veröffentlicht.
 
 
 
@@ -143,6 +139,10 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 
 
 ## Vergangene Veranstaltungen
+
+**16. April: Themenabend "Recht, Ordnung & gute Manieren"**
+Regeln sind da, um gebrochen zu werden? Wir wollen beim nächsten Monatstreffen diskutieren, wie verschiedene Systeme und Spielrunden sich mit dem Thema „Recht und Ordnung“ auseinandersetzen. Sind götter- oder menschengemachte Gesetze ein Teil des Spiels? Wird generell erwartet, dass Spielcharaktere sich an diese Regeln halten – und was passiert, wenn nicht? Ist Selbstjustiz eine Option, oder hat auch der schäbigste NPC-Bandit ein Gerichtsverfahren verdient? Ist „wetwork“ nur eine weitere lukrative Geldeinnahmequelle? Sind Kollateralschäden im Kampf geächtet oder vollkommen normal? Was passiert mit verletzten Gegnern? Zurücklassen, versorgen, töten?
+
 **16. Februar: Rollenspieltests "Science Fiction & Science Fantasy"**
 Vor langer Zeit in einer weit entfernten Galaxis schreiben wir das Jahr 2200. Dies sind die Abenteuer des RPG Librarium. In den Schatten des Aachener Sprawls zählen nur Laser & das Feeling beim Würfeln... Und sag mir nie, wie meine Chancen stehen!
 
