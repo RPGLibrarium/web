@@ -16,7 +16,7 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Îdee 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
 
-> **16. April: Rollenspieltest "Party-RPGs"**
+> **16. Mai: Rollenspieltest "Party-RPGs"**
 >
 > Du wolltest schon immer eine terroristische Qualle oder einen babyfressenden Kobold spielen? Geht klar! Im Mai steht jene Art von Rollenspiel im Vordergrund, die man am liebsten spät abends spielt und nicht hinterfragt. Ob man sie als Party-Rollenspiele, Quatsch-Pen&Paper oder Bier&Brezel-Systeme bezeichnet, ist egal. Simpel, schnell, skurril und humorvoll wird es beim nächsten Monatstreffen des Librarium. Wer eine Spielrunde dieser Kategorie mitbringen möchte, sei herzlich dazu eingeladen.
 >
