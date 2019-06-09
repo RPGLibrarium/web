@@ -15,7 +15,7 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
->*16. Juni 2019: Sommerfest des RPG Librarium*
+>**16. Juni 2019: Sommerfest des RPG Librarium**
 >Am Sonntag, den 16. Juni, findet ab 15 Uhr das Sommerfest des Librarium
 auf der [Grillwiese](https://www.openstreetmap.org/?mlat=50.77201&mlon=6.06670#map=19/50.77201/6.06670) im Aachener Westpark statt. Wir stellen einen Grill
 bereit, ihr bringt mit, was euch schmeckt. Außerdem nehmen wir ein paar
