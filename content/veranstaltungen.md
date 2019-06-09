@@ -1,7 +1,7 @@
 
 ---
 title: "Veranstaltungen"
-date: 2019-05-11T11:16:00+02:00
+date: 2019-06-09T11:16:00+02:00
 draft: false
 menu:
   main:
@@ -15,13 +15,13 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
+>*16. Juni 2019: Sommerfest des RPG Librarium*
+>Am Sonntag, den 16. Juni, findet ab 15 Uhr das Sommerfest des Librarium
+auf der [Grillwiese](https://www.openstreetmap.org/?mlat=50.77201&mlon=6.06670#map=19/50.77201/6.06670) im Aachener Westpark statt. Wir stellen einen Grill
+bereit, ihr bringt mit, was euch schmeckt. Außerdem nehmen wir ein paar
+P&P- (=Park & Picknick) Spiele mit. Wir freuen uns auf euch!
 
-> **16. Mai: Rollenspieltest "Party-RPGs"**
->
-> Du wolltest schon immer eine terroristische Qualle oder einen babyfressenden Kobold spielen? Geht klar! Im Mai steht jene Art von Rollenspiel im Vordergrund, die man am liebsten spät abends spielt und nicht hinterfragt. Ob man sie als Party-Rollenspiele, Quatsch-Pen&Paper oder Bier&Brezel-Systeme bezeichnet, ist egal. Simpel, schnell, skurril und humorvoll wird es beim nächsten Monatstreffen des Librarium. Wer eine Spielrunde dieser Kategorie mitbringen möchte, sei herzlich dazu eingeladen.
->
-> Der Rollenspieltest des Librarium findet am Donnerstag, den 16. Mai ab 19 Uhr im Level 9000 (Alexanderstraße 37) statt.
-
+<!--
 ## Rollenspielabende für Neulinge
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH
 und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
@@ -56,7 +56,7 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Der nächste wird im Wintersemester 2019/20 statt finden -- vermutlich Ende November, der Termin wird bald hier veröffentlicht.
 
-
+-->
 
 ## Freizeit
 Wir bieten regelmäßig eine Freizeit über ein verlängertes Wochenende an. Dann möchten wir uns mit euch für ein paar Tage dem Alltag entziehen und uns gemeinsam in einer Jugendherberge dem Pen & Paper widmen.
@@ -127,8 +127,6 @@ Die Anmeldefrist ist leider abgelaufen.
 
 2016, 2017 und 2018 haben wir die [FeenCon](http://www.feencon.de/) in Bonn besucht. Das ist auch 2019 geplant. Weitere Informationen findet ihr dann an dieser Stelle und erhaltet sie über unseren Newsletter. Aktuell gibt es keine konkreten Planungen, weitere Conventions oder Messen zu besuchen - aber das kann sich schnell ändern. Am besten den Newsletter abonnieren, um auf dem Laufenden zu bleiben!
 
-
-
 >Vom 21.-22. Juli 2018 findet die FeenCon in Bonn - Bad Godesberg statt, eine Convention mit Pen&Paper-Spielrunden, Workshops, Shops mit Würfeln, Bücher und Spielen, Stände von Künstlern, Lesungen von Autoren... kurz: allem, was das Rollenspielherz begehrt. Wie in den vergangenen Jahren möchten wir dort am Samstag, den 21. Juli, gemeinsam hinfahren, denn zusammen fährt es sich im Zug nicht so allein, und eine Convention macht noch mehr Spaß mit Freunden. Wie immer gilt: Ob Vereinsmitglied oder nicht - du (ja, du!) bist herzlich eingeladen!
 >
 >Hier also die technischen Daten:
@@ -148,8 +146,10 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 
 
 ## Vergangene Veranstaltungen
+#### 16. Mai 2019: Rollenspieltest "Party-RPGs"
+Du wolltest schon immer eine terroristische Qualle oder einen babyfressenden Kobold spielen? Geht klar! Im Mai steht jene Art von Rollenspiel im Vordergrund, die man am liebsten spät abends spielt und nicht hinterfragt. Ob man sie als Party-Rollenspiele, Quatsch-Pen&Paper oder Bier&Brezel-Systeme bezeichnet, ist egal. Simpel, schnell, skurril und humorvoll wird es beim nächsten Monatstreffen des Librarium. Wer eine Spielrunde dieser Kategorie mitbringen möchte, sei herzlich dazu eingeladen.
 
-#### 16. April: Themenabend "Recht, Ordnung & gute Manieren"
+#### 16. April 2019: Themenabend "Recht, Ordnung & gute Manieren"
 Regeln sind da, um gebrochen zu werden?
 Wir wollen beim nächsten Monatstreffen diskutieren, wie verschiedene Systeme und Spielrunden sich mit dem Thema „Recht und Ordnung“ auseinandersetzen.
 Sind götter- oder menschengemachte Gesetze ein Teil des Spiels?
@@ -159,23 +159,23 @@ Ist „wetwork“ nur eine weitere lukrative Geldeinnahmequelle?
 Sind Kollateralschäden im Kampf geächtet oder vollkommen normal?
 Was passiert mit verletzten Gegnern? Zurücklassen, versorgen, töten?
 
-#### 16. Februar: Rollenspieltests "Science Fiction & Science Fantasy"
+#### 16. Februar 2019: Rollenspieltests "Science Fiction & Science Fantasy"
 Vor langer Zeit in einer weit entfernten Galaxis schreiben wir das Jahr 2200.
 Dies sind die Abenteuer des RPG Librarium.
 In den Schatten des Aachener Sprawls zählen nur Laser & das Feeling beim Würfeln... Und sag mir nie, wie meine Chancen stehen!
 
-#### 16. Januar: Vortrag "Roll Inclusive - Diversity im Rollenspiel"
+#### 16. Januar 2019: Vortrag "Roll Inclusive - Diversity im Rollenspiel"
 In Kooperation mit dem Queerreferat Aachen darf der RPG Librarium im Januar die drei Autor/innen Aşkın-Hayat Doğan, Frank Reiss und Judith Vogt begrüßen!
 Wir freuen uns auf einen Vortrag zum Thema „Diversity und Repräsentation im Rollenspiel“ mit einer Präsentation ihres Projektes [„Roll Inclusive“](https://www.feder-und-schwert.com/2018/11/roll-inclusive-die-ankuendigung/) bzw. des gleichnamigen Essay-Bands, welcher im Frühjahr 2019 erscheint.
 Anschließend haben wir die Möglichkeit, im Rahmen kleiner Spielrunden mit den Autor/innen direkt in die vorgestellte Thematik einzusteigen.
 
-#### 16. Dezember: Weihnachtstaverne
+#### 16. Dezember 2018: Weihnachtstaverne
 Der RPG Librarium lädt zum letzten Monatstreffen 2018 in die Weihnachtstaverne ein.
 Denn traditionellerweise sind Gasthäuser ja die Orte, wo Geschichten beginnen, enden, und die auch währenddessen gern frequentiert werden.
 Ladet euren Freundeskreis ein, ladet eure Spielrunden ein, lasst uns erzählen, Spaß haben und auf alle Abenteuer - fiktive und reale - des letzten Jahres anstoßen!
 
 
-#### 16. November: Offene Spielrunden
+#### 16. November 2018: Offene Spielrunden
 Wir treffen uns zu einem gemütlichen Abend im Level 9000, zum Quatschen, Fachsimpeln und natürlich zum Pen & Paper spielen.
 Es gibt keine spezifische Planung - aber wenn wir Würfel mitbringen und jede/r, der/die Lust hat, einen kleinen One-Shot eines Pen & Papers mitbringt, was kann dann noch schiefgehen?
 Außerdem ist das eine ausgezeichnete Möglichkeit, sich für den Rollenspielabend mit der Fachschaft I/1 aufzuwärmen.
