@@ -8,6 +8,8 @@ menu:
     weight: 300
 ---
 
+> Die Anmeldung zur Freizeit 2020 ist geöffnet! Mehr Infos findet ihr [weiter unten](#freizeit)
+
 ## Monatliches Treffen
 Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
 
@@ -57,6 +59,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Der nächst
 -->
 
 ## Freizeit
+<!--
 Wir bieten regelmäßig eine Freizeit über ein verlängertes Wochenende an. Dann möchten wir uns mit euch für ein paar Tage dem Alltag entziehen und uns gemeinsam in einer Jugendherberge dem Pen & Paper widmen.
 
 Wir planen Einsteiger- und Veteranenrunden für verschiedene Systeme:
@@ -74,17 +77,12 @@ Außerdem gibt es auch immer Raum für
 * und ein gemütliches Stöbern in der Librarium eigenen Büchersammlung.
 
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
-<!-- Wir haben dafür 3 mögliche Termine ins Auge gefasst und möchten von euch wissen, welcher am besten passt.
-Wenn ihr also Lust habt für fünf Tage in eine schöne und abgelegene Jugendherberge zu fahren, um wahlweise Auszuschlafen, Rollenspiele zu spielen oder Zeit mit Freunden zu verbringen,
-tragt euch bitte unverbindlich in [den Terminplaner](https://terminplaner.dfn.de/foodle.php?id=nu6h13byz143pqhe) ein. -->
+
 Die offizielle Anmeldung folgt dann bald.
-
-Die Teilnahmebetrag läge ungefähr bei 150 € pro Person.
-
-<!--
+-->
 Es ist soweit.
 Wir möchten uns mit euch für ein paar Tage dem Alltag entziehen
-und uns gemeinsam in [Jugendherberge Freusburg](http://www.jugendherberge.de/de-de/jugendherbergen/freusburg359/portraet) dem Pen & Paper spielen widmen.
+und uns gemeinsam in der [Jugendherberge Freusburg](http://www.jugendherberge.de/de-de/jugendherbergen/freusburg359/portraet) dem Pen & Paper spielen widmen.
 
 Geplant haben wir Einsteiger- und Veteranenrunden für verschiedene Systeme, z.B.:
 
@@ -94,37 +92,42 @@ Geplant haben wir Einsteiger- und Veteranenrunden für verschiedene Systeme, z.B
 * Shadowrun,
 * Hollow Earth,
 * und alles wofür sich sonst noch Meister und Spieler finden lassen.
-Außerdem wird es Raum geben für
+
+Außerdem wird es Raum geben für:
+
 * anregende Gespräche,
 * Gesellschaftsspiele,
 * Spaziergänge in der Umgebung,
 * und ein gemütliches Stöbern in der Librarium eigenen Büchersammlung.
 
-**Zeitraum:** 02.01.2019 15 Uhr bis 06.01.2019 12 Uhr
+**Zeitraum:** 02.01. bis 06.01.2020 (4 Übernachtungen)
 
 **Unterbringung:**
 
-*Jugendherberge Freusburg
-*Mehr-Bett Zimmern mit je Dusche und Badezimmer
-*mindestens ein Seminarraum zum spielen
-*Verpflegung mit Vollpension
+* Jugendherberge Freusburg
+* Mehr-Bett Zimmern mit je Dusche und Badezimmer
+* mindestens ein Seminarraum zum spielen
+* Verpflegung mit Vollpension
 
-**Anreise:** Auf eigene Kosten. Der RE9 fährt bis Bahnhof (Kirchen). Von dort sind es nochmal 30 Minuten zu Fuß. Wir planen ein Auto-Shuttle vom Bahnhof zur Burg.
+**Anreise:** Auf eigene Kosten. Der RE9 fährt bis Bahnhof (Kirchen). Von dort sind es nochmal 30 Minuten zu Fuß. Wir planen ein Auto-Shuttle vom Bahnhof zur Burg.  
+Wie letztes Jahr möchten wir auch diesmal wieder eine Fahrgemeinschaft organisieren, sodass niemand alleine Zug fahren muss. Für alle mit NRW-Ticket: die Anreise ist problemlos damit möglich. Wir stellen gerne den Kontakt zwischen Anreisenden ohne NRW-Ticket her, damit ihr euch gemeinsam ein Gruppenticket kaufen könnt. Schreibt uns einfach eine kurze Mail.
 
 **Kosten:**
 bis 26 Jahre: 165 €  
-27 und älter: 185 €
+27 und älter: 185 €  
 Der Unterschied entsteht durch die Preisstaffelung nach Alter der Jugendherberge. Die entgültigen Preise können abweichen.
 
 ### Anmeldung
+[Anmeldung](mailto:vorstand@rpg-librarium.de?subject=Librarium%20Freizeit%202020&body=Lieber%20Vorstand%2C%0Aich%20melde%20mich%20vom%2002.01.%20bis%2006.01.2020%20zur%20Librarium-Freizeit%20an.%0ADie%20Anmeldung%20ist%20erst%20ab%20Zahlung%20des%20Teilnahmebeitrags%20verbindlich.%0AMeine%20Anmeldedaten%20sind%3A%0A%0AName%3A%0AAlter%3A%0AAnschrift%3A%0AMail%3A%0ABemerkungen%20(Nahrungsmittelrestriktionen%20o.%C3%A4.)%3A%0A%0ASch%C3%B6ne%20Gr%C3%BC%C3%9Fe) per E-Mail.
 
-Die Anmeldefrist ist leider abgelaufen.
--->
+**Frist:** Auch wenn es bis jetzt immer möglich war Menschen nachzumelden, bitten wir um eure Anmeldungen bis zum **20. Oktober 2019**  
+Nach der Anmeldung erhaltet ihr von uns eine Bestätigung per Mail mit den Zahlungsinformationen. Bitte zahlt innerhalb von 2 Wochen die Teilnahmegebühr auf das angegebene Konto. Erst mit der Bezahlung wird die Teilnahme verbindlich.
 
 ## Conventions
 
-2016, 2017 und 2018 haben wir die [FeenCon](http://www.feencon.de/) in Bonn besucht. Das ist auch 2019 geplant. Weitere Informationen findet ihr dann an dieser Stelle und erhaltet sie über unseren Newsletter. Aktuell gibt es keine konkreten Planungen, weitere Conventions oder Messen zu besuchen - aber das kann sich schnell ändern. Am besten den Newsletter abonnieren, um auf dem Laufenden zu bleiben!
+2016, 2017, 2018 und 2019 haben wir die [FeenCon](http://www.feencon.de/) in Bonn besucht. Das ist auch 2020 geplant. Weitere Informationen findet ihr dann an dieser Stelle und erhaltet sie über unseren Newsletter. Aktuell gibt es keine konkreten Planungen, weitere Conventions oder Messen zu besuchen - aber das kann sich schnell ändern. Am besten den Newsletter abonnieren, um auf dem Laufenden zu bleiben!
 
+<!--
 >Vom 21.-22. Juli 2018 findet die FeenCon in Bonn - Bad Godesberg statt, eine Convention mit Pen&Paper-Spielrunden, Workshops, Shops mit Würfeln, Bücher und Spielen, Stände von Künstlern, Lesungen von Autoren... kurz: allem, was das Rollenspielherz begehrt. Wie in den vergangenen Jahren möchten wir dort am Samstag, den 21. Juli, gemeinsam hinfahren, denn zusammen fährt es sich im Zug nicht so allein, und eine Convention macht noch mehr Spaß mit Freunden. Wie immer gilt: Ob Vereinsmitglied oder nicht - du (ja, du!) bist herzlich eingeladen!
 >
 >Hier also die technischen Daten:
@@ -141,7 +144,7 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 >
 >Der Eintritt für Samstag beträgt 8 €. Mehr Details und einen Programmflyer findet ihr auf der Website der FeenCon.
 
-
+-->
 
 ## Vergangene Veranstaltungen
 #### 16. Juli 2019: Themenabend "Götter und Paladine"
