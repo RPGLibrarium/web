@@ -1,7 +1,7 @@
 
 ---
 title: "Veranstaltungen"
-date: 2019-06-09T11:16:00+02:00
+date: 2019-07-30T11:16:00+02:00
 draft: false
 menu:
   main:
@@ -15,11 +15,9 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
->**16. Juni 2019: Sommerfest des RPG Librarium**
->Am Sonntag, den 16. Juni, findet ab 15 Uhr das Sommerfest des Librarium
-auf der [Grillwiese](https://www.openstreetmap.org/?mlat=50.77201&mlon=6.06670#map=19/50.77201/6.06670) im Aachener Westpark statt. Wir stellen einen Grill
-bereit, ihr bringt mit, was euch schmeckt. Außerdem nehmen wir ein paar
-P&P- (=Park & Picknick) Spiele mit. Wir freuen uns auf euch!
+>**16. August 2019: Microscope**
+>Wirf mit uns einen Blick durch die fraktale Brille in eine Welt, die entsteht, während wir sie beobachten. Microscope ist eine kompaktes Weltenbausystem, bei welchem ihr die Geschichte einer Welt schreibt, indem ihr Einfluss auf die prägenden Ereignisse nehmt.
+>Neugierig? Oder verwirrt? Wir treffen uns um 19 Uhr im Papillon und probieren es aus.
 
 <!--
 ## Rollenspielabende für Neulinge
@@ -146,6 +144,15 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 
 
 ## Vergangene Veranstaltungen
+#### 16. Juli 2019: Themenabend "Götter und Paladine"
+Götter gibt es oder gibt es nicht, je nachdem, wen man fragt. Wie steht es um die Götter im Rollenspiel? Wo lösen sie Konflikte und wo schaffen sie Neue? Von Paladin bis Dämonenpaktierer, alle sind willkommen!
+
+#### 16. Juni 2019: Sommerfest
+Wir wollen gemeinsam im Westpark grillen. Wir stellen einen Grill
+bereit, ihr bringt mit, was euch schmeckt. Außerdem nehmen wir ein paar
+P&P- (=Park & Picknick) Spiele mit. Wir freuen uns auf euch!
+
+
 #### 16. Mai 2019: Rollenspieltest "Party-RPGs"
 Du wolltest schon immer eine terroristische Qualle oder einen babyfressenden Kobold spielen? Geht klar! Im Mai steht jene Art von Rollenspiel im Vordergrund, die man am liebsten spät abends spielt und nicht hinterfragt. Ob man sie als Party-Rollenspiele, Quatsch-Pen&Paper oder Bier&Brezel-Systeme bezeichnet, ist egal. Simpel, schnell, skurril und humorvoll wird es beim nächsten Monatstreffen des Librarium. Wer eine Spielrunde dieser Kategorie mitbringen möchte, sei herzlich dazu eingeladen.
 
