@@ -1,0 +1,26 @@
+{{/* fetch JSON from file */}}
+{{ $titles := getJSON "https://liberation.rpg-librarium.de/v1/titles" }}
+{{/* generate HTML */}}
+<div class="multiversumTable">
+  <table class="titles">
+    <thead>
+      <th class="title">Title</th>
+      <th class="system">System</th>
+      <th class="language">Sprache</th>
+    </thead>
+    <tbody>
+      {{/* iterate over the entries and sort them descending by the id property */}}
+      {{ range sort $titles.titles ".system.name" "asc"}}
+        {{/* compute the pdf file path */}}
+        <tr>
+          <td class="title">
+              {{ .name }}
+          </td>
+          <td class="system">
+            {{ .system.name }}
+          </td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
