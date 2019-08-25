@@ -113,8 +113,8 @@ Außerdem wird es Raum geben für:
 Wie letztes Jahr möchten wir auch diesmal wieder eine Fahrgemeinschaft organisieren, sodass niemand alleine Zug fahren muss. Für alle mit NRW-Ticket: die Anreise ist problemlos damit möglich. Wir stellen gerne den Kontakt zwischen Anreisenden ohne NRW-Ticket her, damit ihr euch gemeinsam ein Gruppenticket kaufen könnt. Schreibt uns einfach eine kurze Mail.
 
 **Kosten:**
-bis 26 Jahre: 165 €  
-27 und älter: 185 €  
+bis 26 Jahre: 170 €  
+27 und älter: 190 €  
 Der Unterschied entsteht durch die Preisstaffelung nach Alter der Jugendherberge. Die entgültigen Preise können abweichen.
 
 ### Anmeldung
