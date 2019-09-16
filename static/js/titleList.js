@@ -57,7 +57,7 @@ function doTheMagic(data) {
     return el;
   };
   let container = _C('div', {id:'titleListContainer'});
-  container.appendChild(renderFullList());
+  container.appendChild(renderStaticLikeList());
   document.querySelector('table.titles').replaceWith(container);
 
   function renderFullList() {
@@ -96,6 +96,39 @@ function doTheMagic(data) {
           }));
         })
     })
+
+    return table;
+  }
+
+  function renderStaticLikeList() {
+    let table = _C('table', {
+      classes:['titles', 'static-like-list'],
+      children: [
+        _C('thead', {children:[
+          _C('tr', {children:[
+            _C('th', {classes:['title'], text:'Titel'}),
+            _C('th', {classes:['system'], text:'System'}),
+          ]})
+        ]}),
+      ]
+    });
+    let tbody = _C('tbody');
+    table.appendChild(tbody);
+    data.systems.forEach(sys => {
+      sys.titles.forEach(tId => {
+        let title = data.titlesMap[tId];
+        tbody.appendChild(_C('tr', {children:[
+          _C('td', {
+            classes: ['title'],
+            text: title.name,
+          }),
+          _C('td', {
+            classes: ['system'],
+            text: sys.name,
+          }),
+        ]}));
+      });
+    });
 
     return table;
   }
