@@ -150,6 +150,35 @@ header.page-header {
 
 /* content elements */
 
+.titlesTable .styleSelect {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  margin-bottom: .5em;
+}
+.titlesTable .styleSelect > * {
+  margin: .2em 1em .2em 0;
+}
+.titlesTable .styleSelect input[type=radio] {
+  display: none;
+}
+.titlesTable .styleSelect label[for] {
+  display: inline-block;
+  cursor: pointer;
+  user-select: none;
+  padding: .2em .5em;
+  border: .1em solid var(--color-cd-dark-ish);
+  color: var(--color-cd-light-green);
+}
+.titlesTable .styleSelect label[for]:hover {
+  border-color: var(--color-cd-dark-green);
+}
+.titlesTable .styleSelect input[type=radio]:checked + label[for] {
+  background: var(--color-cd-dark-green);
+  border-color: var(--color-cd-dark-green);
+  color: var(--color-cd-light-ish);
+}
+
 .titles.full-list .title {
   text-align: left;
 }

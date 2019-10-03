@@ -47,6 +47,19 @@ function processTitleData(titlesData) {
 }
 
 function doTheMagic(data) {
+  const _LIST_STYLES = [
+    {
+      id: 'static',
+      renderFn: renderStaticLikeList,
+      name: 'Einfach Alles',
+      description: 'eine einfache Liste mit allen Titeln',
+    },{
+      id: 'grouped',
+      renderFn: renderFullList,
+      name: 'Gruppiert',
+      description: 'eine etwas weniger einfache Liste, gruppiert nach Systemen',
+    },
+  ];
   const _C = (tag, opts={}) => {
     let el = document.createElement(tag);
     if (opts.classes) opts.classes.forEach(c => el.classList.add(c));
@@ -56,9 +69,70 @@ function doTheMagic(data) {
     if (opts.attrs) Object.keys(opts.attrs).forEach(k=>el.setAttribute(k, opts.attrs[k]));
     return el;
   };
+  const titlesRoot = document.querySelector('.titlesTable');
   let container = _C('div', {id:'titleListContainer'});
   container.appendChild(renderStaticLikeList());
-  document.querySelector('table.titles').replaceWith(container);
+  titlesRoot.querySelector('table.titles').replaceWith(container);
+  titlesRoot.prepend(renderStyleSelector());
+
+  function renderStyleSelector() {
+    let element = _C('div', {
+      classes:['styleSelect'],
+      children: [
+        _C('span', {text: 'Ansicht:'}),
+        ... _LIST_STYLES.flatMap(style => {
+          let inputId = `_listStyleSelect_${style.id}`;
+          let input = _C('input', {
+            id: inputId,
+            attrs: {
+              type: 'radio',
+              name: '_listStyleSelect',
+              value: style.id,
+            },
+          });
+          let label = _C('label', {
+            attrs: {
+              for: inputId,
+              title: style.description,
+              tabindex: 0,
+              role: 'button',
+            },
+            text: style.name,
+          });
+          let changeStyle = newStyle => {
+            console.log('new style: ', newStyle);
+          }
+          let labelListener = evt => {
+            let target = evt.target;
+            if (evt.type === 'click'
+                || (evt.type === 'keydown'
+                  && [' ', 'Enter'].includes(evt.key))) {
+              evt.preventDefault();
+              input.checked = true;
+              changeStyle(style.id);
+            }
+          };
+          label.addEventListener('click', labelListener);
+          label.addEventListener('keydown', labelListener);
+          input.addEventListener('change', evt => {
+            if (input.checked) {
+              changeStyle(style.id);
+            }
+          });
+          return [input, label];
+        })
+      ],
+    });
+    let styleChangeListener = evt => {
+      let target = evt.target;
+      console.log(evt);
+      if (target.matches('input[type=radio]:checked')) {
+        let newStyle = target.value;
+        console.log('new Style:', newStyle);
+      }
+    };
+    return element;
+  }
 
   function renderFullList() {
     let table = _C('table', {
