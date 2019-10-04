@@ -170,13 +170,16 @@ header.page-header {
   border: .1em solid var(--color-cd-dark-ish);
   color: var(--color-cd-light-green);
 }
-.titlesTable .styleSelect label[for]:hover {
+.titlesTable .styleSelect label[for]:hover,
+.titlesTable .styleSelect label[for]:focus {
   border-color: var(--color-cd-dark-green);
+  color: var(--color-cd-dark-green);
 }
 .titlesTable .styleSelect input[type=radio]:checked + label[for] {
   background: var(--color-cd-dark-green);
   border-color: var(--color-cd-dark-green);
   color: var(--color-cd-light-ish);
+  cursor: default;
 }
 
 .titles.full-list .title {

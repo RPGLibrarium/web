@@ -1,3 +1,5 @@
+'use strict';
+
 const LIBERATION_BASE = 'https://liberation.rpg-librarium.de/v1';
 const _DEBUG_PRINT = text => thing => (console.debug(text, thing), thing);
 const _FORMAT_DATE = date => date.toLocaleString('de-DE', {
@@ -70,10 +72,43 @@ function doTheMagic(data) {
     return el;
   };
   const titlesRoot = document.querySelector('.titlesTable');
+  let activeStyle = _LIST_STYLES[0].id; // default style
+  let activeStyleNode = null;
+  const styleSelector = renderStyleSelector();
   let container = _C('div', {id:'titleListContainer'});
-  container.appendChild(renderStaticLikeList());
+  changeStyle(activeStyle);
   titlesRoot.querySelector('table.titles').replaceWith(container);
-  titlesRoot.prepend(renderStyleSelector());
+  titlesRoot.prepend(styleSelector);
+
+  function changeStyle(newStyleId) {
+    // retrieve style info
+    let filtered = _LIST_STYLES.filter(s => s.id === newStyleId);
+    if (filtered.length !== 1) {
+      console.debug('could not find list style ', newStyleId);
+      changeStyle(activeStyle);
+      return false;
+    }
+    let newStyle = filtered[0];
+    let previousStyle = activeStyle;
+    activeStyle = newStyle;
+
+    // update selector
+    styleSelector
+      .querySelector(`input[type=radio][value=${newStyle.id}]`)
+      .checked = true;
+
+    // apply style, if not already active
+    let prevNode = container.querySelector('.titles');
+    if (previousStyle.id === newStyle.id && prevNode) {
+      return true;
+    }
+    let newNode = newStyle.renderFn();
+    if (prevNode) {
+      prevNode.replaceWith(newNode);
+    } else {
+      container.appendChild(newNode);
+    }
+  }
 
   function renderStyleSelector() {
     let element = _C('div', {
@@ -99,9 +134,6 @@ function doTheMagic(data) {
             },
             text: style.name,
           });
-          let changeStyle = newStyle => {
-            console.log('new style: ', newStyle);
-          }
           let labelListener = evt => {
             let target = evt.target;
             if (evt.type === 'click'
@@ -123,14 +155,6 @@ function doTheMagic(data) {
         })
       ],
     });
-    let styleChangeListener = evt => {
-      let target = evt.target;
-      console.log(evt);
-      if (target.matches('input[type=radio]:checked')) {
-        let newStyle = target.value;
-        console.log('new Style:', newStyle);
-      }
-    };
     return element;
   }
 
@@ -188,9 +212,10 @@ function doTheMagic(data) {
     });
     let tbody = _C('tbody');
     table.appendChild(tbody);
-    data.systems.forEach(sys => {
-      sys.titles.forEach(tId => {
-        let title = data.titlesMap[tId];
+    data.titles
+      .sort((a,b) => a.name.localeCompare(b.name))
+      .forEach(title => {
+        let sys = title.system;
         tbody.appendChild(_C('tr', {children:[
           _C('td', {
             classes: ['title'],
@@ -202,7 +227,6 @@ function doTheMagic(data) {
           }),
         ]}));
       });
-    });
 
     return table;
   }
