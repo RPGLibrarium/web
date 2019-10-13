@@ -17,9 +17,12 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
->**16. August 2019: Microscope**
->Wirf mit uns einen Blick durch die fraktale Brille in eine Welt, die entsteht, während wir sie beobachten. Microscope ist eine kompaktes Weltenbausystem, bei welchem ihr die Geschichte einer Welt schreibt, indem ihr Einfluss auf die prägenden Ereignisse nehmt.
->Neugierig? Oder verwirrt? Wir treffen uns um 19 Uhr im Papillon und probieren es aus.
+>**16. August 2019: Roll to fail? Roll to forward! _oder_ Dramatische Proben**
+>_Tja, leider nicht geschafft!_ oder so ähnlich erklingt es vom Spieltisch, wenn beim Rollenspiel bei einer Probe mal wieder die gewünschte Zahl nicht erwürfelt worden ist. Häufig führen vergeigte Proben ins erzählerische Nichts. Die Spielerin hat einfach nicht erreicht war sie wollte. Die Handlung ist abgebrochen, der Erzählfluss kommt zum Erliegen. Nächster Spieler an der Reihe!
+>Oder es tritt das komplette Gegenteil ein, von dem was erstrebt war, obwohl kein Patzer geworfen worden ist...
+>In diesem Workshop - der sich an Spielleiter und Spieler gleichermaßen richtet - wollen wir uns mal anschauen, wie wir Würfelwürfe noch spannender interpretieren können. Muss ich denn immer vom Baum fallen, wenn mir die Kletterprobe nicht gelungen ist? Oder entdecken mich automatisch die Wachen, wenn ich die Schleichenprobe nicht schaffe? Laufe ich mal wieder blind durch die Gegend, wenn mein Wahrnehmungswurf daneben war?
+Der Workshop bezieht sich nicht auf ein bestimmtes System.
+> Wir treffen uns um 19 Uhr im Papillon.
 
 <!--
 ## Rollenspielabende für Neulinge
@@ -147,6 +150,14 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. September 2019: Charakter
+"Ich wollte schon immer einen Charakter für Rollenspielsystem X erstellen!" Aber wo fängt man da an? Das coole Konzept ist da, die finstere Backstory, die witzige Einzigartigkeit... aber wie zum Teufel gießt man das in Regelmechaniken und Zahlenwerte? Wie stark darf meine Zwergenbarbarin eigentlich werden? Was sind die besten Zaubersprüche für einen Magiekundigen in Dungeons & Dragons? Welche der zigtausend identisch aussehenden Knarren sollte mein Shadowrunner haben? Kann man einen DSA-Charakter erstellen ohne ein dreijähriges Studium der Aventuristik?
+
+Wir treffen uns zum gemeinsamen Charakterbasteln. Regelwerke sind vorhanden und die erfahrenen Spielleiter des Librarium stehen für Fragen bereit. Am Ende des Abends haben hoffentlich viele Helden in spe das Licht der Welt erblickt. Du kennst ein Spielsystem besonders gut und hast Lust, anderen Leute beim Erschaffen eines neuen Charakters zu helfen? Dann füge hier die obligatorische Aufforderung für dein Engagement ein!
+
+#### 16. August 2019: Microscope
+Wirf mit uns einen Blick durch die fraktale Brille in eine Welt, die entsteht, während wir sie beobachten. Microscope ist eine kompaktes Weltenbausystem, bei welchem ihr die Geschichte einer Welt schreibt, indem ihr Einfluss auf die prägenden Ereignisse nehmt.
+
 #### 16. Juli 2019: Themenabend "Götter und Paladine"
 Götter gibt es oder gibt es nicht, je nachdem, wen man fragt. Wie steht es um die Götter im Rollenspiel? Wo lösen sie Konflikte und wo schaffen sie Neue? Von Paladin bis Dämonenpaktierer, alle sind willkommen!
 
