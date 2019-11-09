@@ -17,18 +17,16 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. Oktober 2019: Roll to fail? Roll to forward! _oder_ Dramatische Proben**
+> **16. November 2019: Monatliches Treffen**
 >
-> _Tja, leider nicht geschafft!_ oder so ähnlich erklingt es vom Spieltisch, wenn beim Rollenspiel bei einer Probe mal wieder die gewünschte Zahl nicht erwürfelt worden ist. Häufig führen vergeigte Proben ins erzählerische Nichts. Die Spielerin hat einfach nicht erreicht war sie wollte. Die Handlung ist abgebrochen, der Erzählfluss kommt zum Erliegen. Nächster Spieler an der Reihe!  
-> Oder es tritt das komplette Gegenteil ein, von dem was erstrebt war, obwohl kein Patzer geworfen worden ist...  
-> In diesem Workshop - der sich an Spielleiter und Spieler gleichermaßen richtet - wollen wir uns mal anschauen, wie wir Würfelwürfe noch spannender interpretieren können. Muss ich denn immer vom Baum fallen, wenn mir die Kletterprobe nicht gelungen ist? Oder entdecken mich automatisch die Wachen, wenn ich die Schleichenprobe nicht schaffe? Laufe ich mal wieder blind durch die Gegend, wenn mein Wahrnehmungswurf daneben war?  
-> Der Workshop bezieht sich nicht auf ein bestimmtes System.  
-> Wir treffen uns um 19 Uhr im Papillon.
+> Ohne spezielles Thema, aber nichtsdestotrotz guter Dinge laden wir herzlich ein zum Einfach-Nur-Quatschen-und-Geschichten-Erzählen beim monatlichen Treffen des Librarium. Bringt eure Bücherwünsche für zukünftige Bücherkäufe des Vereins mit - wir haben noch Budget!
 
-<!--
+> Wir treffen uns am Samstag, den 16. November, ab 19 Uhr im Level 9000.
+
+
+
 ## Rollenspielabende für Neulinge
-Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH
-und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
+Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
 Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler*innen einen Einblick in verschiedene Pen & Paper Systeme und Spielstile zu geben.
 
 ![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
@@ -42,10 +40,7 @@ Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
 Wir möchten die Spielleiter*innen für den Abend stellen und du kannst eine*r davon sein.
 Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 
->Der Rollenspielabend mit der Katholischen Hochschule Aachen findet einmal pro Semester statt.
-> Der nächste wird im Sommersemester 2019 statt finden.
->
->Am **Dienstag, den 21. Mai 2019** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
+>Am **Montag, den 25. November 2019** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
 >**Wo?:** [**SemiTemp**](https://goo.gl/maps/swq46aj4Nn32)  (Schinkelstraße 15, nahe RWTH Hauptgebäude und nicht zu verwechseln mit Semi90 oder Temp).
 
@@ -55,12 +50,13 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 >  * Deinen Name?
 >  * Welches System?
 >  * Wie viele Spieler (min/max)?
+>  * Leitest du eine oder zwei Runden?
 >
->Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend-Librarium-Fachschaft_2019-05-21) ein.
+>Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend-Librarium-Fachschaft_2019-11-25) ein.
 
-Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Der nächste wird im Wintersemester 2019/20 statt finden -- vermutlich Ende November, der Termin wird bald hier veröffentlicht.
+Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
 
--->
+
 
 ## Freizeit
 <!--
@@ -159,7 +155,13 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
-#### 16. September 2019: Charakter
+
+#### 16. Oktober 2019: Roll to fail? Roll to forward! _oder_ Dramatische Proben**
+_Tja, leider nicht geschafft!_ oder so ähnlich erklingt es vom Spieltisch, wenn beim Rollenspiel bei einer Probe mal wieder die gewünschte Zahl nicht erwürfelt worden ist. Häufig führen vergeigte Proben ins erzählerische Nichts. Die Spielerin hat einfach nicht erreicht war sie wollte. Die Handlung ist abgebrochen, der Erzählfluss kommt zum Erliegen. Nächster Spieler an der Reihe! Oder es tritt das komplette Gegenteil ein, von dem was erstrebt war, obwohl kein Patzer geworfen worden ist... 
+
+In diesem Workshop - der sich an Spielleiter und Spieler gleichermaßen richtet - wollen wir uns mal anschauen, wie wir Würfelwürfe noch spannender interpretieren können. Muss ich denn immer vom Baum fallen, wenn mir die Kletterprobe nicht gelungen ist? Oder entdecken mich automatisch die Wachen, wenn ich die Schleichenprobe nicht schaffe? Laufe ich mal wieder blind durch die Gegend, wenn mein Wahrnehmungswurf daneben war? Der Workshop bezieht sich nicht auf ein bestimmtes System. 
+
+#### 16. September 2019: Charaktere Basteln
 "Ich wollte schon immer einen Charakter für Rollenspielsystem X erstellen!" Aber wo fängt man da an? Das coole Konzept ist da, die finstere Backstory, die witzige Einzigartigkeit... aber wie zum Teufel gießt man das in Regelmechaniken und Zahlenwerte? Wie stark darf meine Zwergenbarbarin eigentlich werden? Was sind die besten Zaubersprüche für einen Magiekundigen in Dungeons & Dragons? Welche der zigtausend identisch aussehenden Knarren sollte mein Shadowrunner haben? Kann man einen DSA-Charakter erstellen ohne ein dreijähriges Studium der Aventuristik?
 
 Wir treffen uns zum gemeinsamen Charakterbasteln. Regelwerke sind vorhanden und die erfahrenen Spielleiter des Librarium stehen für Fragen bereit. Am Ende des Abends haben hoffentlich viele Helden in spe das Licht der Welt erblickt. Du kennst ein Spielsystem besonders gut und hast Lust, anderen Leute beim Erschaffen eines neuen Charakters zu helfen? Dann füge hier die obligatorische Aufforderung für dein Engagement ein!
