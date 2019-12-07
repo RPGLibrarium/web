@@ -17,11 +17,20 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. November 2019: Monatliches Treffen**
+> **16. Dezember 2019: Weihnachtsfeier**
 >
-> Ohne spezielles Thema, aber nichtsdestotrotz guter Dinge laden wir herzlich ein zum Einfach-Nur-Quatschen-und-Geschichten-Erzählen beim monatlichen Treffen des Librarium. Bringt eure Bücherwünsche für zukünftige Bücherkäufe des Vereins mit - wir haben noch Budget!
+> Spekulatius werden anstelle von Chips zur Spielrunde mitgebracht.
+Spielrunden fordern lang ersehnte magische Items nicht mehr mit "Bitte,
+bitte!" vom Spielleiter, sondern mit "Du brauchst mir dann outgame
+nichts zu Weihnachten schenken!". Verwandte fragen nach Geschenkwünschen
+und bekommen seitenlange Listen mit Rollenspielbuchtiteln als Antwort.
+Und ein Dutzend Weihnachtsfeiern blockiert mögliche Pen&Paper-Spieltermine.
 
-> Wir treffen uns am Samstag, den 16. November, ab 19 Uhr im Level 9000.
+>Zum Beispiel: Die Weihnachtsfeier des Librarium. Wir laden ein zur
+weihnachtlichen Heldentaverne, um mit euch gemeinsam das Jahr ausklingen
+zu lassen. Wir freuen uns auf euch!
+
+> **Wir treffen uns am Montag, den 16. Dezember, ab 19 Uhr im Papillon.**
 
 
 
@@ -155,6 +164,9 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. November 2019: Monatstreffen
+Ohne spezielles Thema, aber nichtsdestotrotz guter Dinge laden wir herzlich ein zum Einfach-Nur-Quatschen-und-Geschichten-Erzählen beim monatlichen Treffen des Librarium. Bringt eure Bücherwünsche für zukünftige Bücherkäufe des Vereins mit - wir haben noch Budget!
 
 #### 16. Oktober 2019: Roll to fail? Roll to forward! _oder_ Dramatische Proben**
 _Tja, leider nicht geschafft!_ oder so ähnlich erklingt es vom Spieltisch, wenn beim Rollenspiel bei einer Probe mal wieder die gewünschte Zahl nicht erwürfelt worden ist. Häufig führen vergeigte Proben ins erzählerische Nichts. Die Spielerin hat einfach nicht erreicht war sie wollte. Die Handlung ist abgebrochen, der Erzählfluss kommt zum Erliegen. Nächster Spieler an der Reihe! Oder es tritt das komplette Gegenteil ein, von dem was erstrebt war, obwohl kein Patzer geworfen worden ist... 
