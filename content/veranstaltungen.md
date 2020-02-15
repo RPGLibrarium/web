@@ -8,7 +8,9 @@ menu:
     weight: 300
 ---
 
+<!--
 > Die Anmeldung zur Freizeit 2020 ist geschlossen! Aber vielleicht können wir euch noch nachmelden. Mehr Infos findet ihr [weiter unten](#freizeit)
+-->
 
 ## Monatliches Treffen
 Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
@@ -17,22 +19,29 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. Dezember 2019: Weihnachtsfeier**
->
-> Spekulatius werden anstelle von Chips zur Spielrunde mitgebracht.
-Spielrunden fordern lang ersehnte magische Items nicht mehr mit "Bitte,
-bitte!" vom Spielleiter, sondern mit "Du brauchst mir dann outgame
-nichts zu Weihnachten schenken!". Verwandte fragen nach Geschenkwünschen
-und bekommen seitenlange Listen mit Rollenspielbuchtiteln als Antwort.
-Und ein Dutzend Weihnachtsfeiern blockiert mögliche Pen&Paper-Spieltermine.
+> **16. Februar 2020: Mitgliederversammlung**
 
->Zum Beispiel: Die Weihnachtsfeier des Librarium. Wir laden ein zur
-weihnachtlichen Heldentaverne, um mit euch gemeinsam das Jahr ausklingen
-zu lassen. Wir freuen uns auf euch!
+> Es findet um 15:00 Uhr die (öffentliche) Mitgliederversammlung vom RPG Librarium statt. 
+Dort berichtet der amtierende Vorstand über das vergangene Jahr, es finden Wahlen zur 
+Besetzung des Vorstands und der Kassenprüfer für das Jahr 2020/21 statt und schöne Dinge 
+wie Wünsche, Pläne oder die nächste Freizeit werden gemeinsam beschlossen. Mitglieder 
+haben bereits eine ausführliche Einladung bekommen, doch die Mitgliederversammlung steht 
+allen Interessierten offen. Falls ihr also Interesse habt beizuwohnen, kommt vorbei. 
 
-> **Wir treffen uns am Montag, den 16. Dezember, ab 19 Uhr im Papillon.**
+> **Wir treffen uns am Sonntag, den 16. Februar 2020, ab 15 Uhr im Papillon (Aachen, Pontstr. 151)**
 
+Im Anschluss: 
 
+> **16. Februar 2020: Monatstreffen**
+
+> Nach der Mitgliederversammlung und einer Verschnaufpause findet dann wie gewohnt um 19:30 Uhr 
+(selber Ort, selber Raum) auch unser Monatstreffen statt. Die grauen Hirnzellen müssen nicht 
+mehr allzu sehr strapaziert werden, stattdessen treffen wir uns zu Karten- und Brettspielen. 
+Spiele sind auch bereits organisiert, aber wir möchten euch natürlich nicht davor abhalten, 
+Schmuckstücke aus eurer persönlichen Sammlung mitzubringen. Zur vorherigen Anmeldung von Gefahrstoffen 
+wie Monopoly oder Mensch Ärger Dich Nicht wird gebeten.
+
+> **Wir treffen uns am Sonntag, den 16. Februar 2020, ab 19:30 Uhr im Papillon (Aachen, Pontstr. 151)**
 
 ## Rollenspielabende für Neulinge
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
@@ -164,6 +173,19 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. Dezember 2019: Weihnachtsfeier
+Spekulatius werden anstelle von Chips zur Spielrunde mitgebracht.
+Spielrunden fordern lang ersehnte magische Items nicht mehr mit "Bitte,
+bitte!" vom Spielleiter, sondern mit "Du brauchst mir dann outgame
+nichts zu Weihnachten schenken!". Verwandte fragen nach Geschenkwünschen
+und bekommen seitenlange Listen mit Rollenspielbuchtiteln als Antwort.
+Und ein Dutzend Weihnachtsfeiern blockiert mögliche Pen&Paper-Spieltermine.
+
+Zum Beispiel: Die Weihnachtsfeier des Librarium. Wir laden ein zur
+weihnachtlichen Heldentaverne, um mit euch gemeinsam das Jahr ausklingen
+zu lassen. Wir freuen uns auf euch!
+
 
 #### 16. November 2019: Monatstreffen
 Ohne spezielles Thema, aber nichtsdestotrotz guter Dinge laden wir herzlich ein zum Einfach-Nur-Quatschen-und-Geschichten-Erzählen beim monatlichen Treffen des Librarium. Bringt eure Bücherwünsche für zukünftige Bücherkäufe des Vereins mit - wir haben noch Budget!
