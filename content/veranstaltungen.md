@@ -18,11 +18,13 @@ Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätesten
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee von Abenteuern auf Papier mit vielen Würfeln eigentlich ganz witzig findest und das auch mal spielen möchtest -- jede*r, ob Mitglied oder nicht, ist herzlich eingeladen, vorbeizukommen!
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
+
 > **16. März 2020: Charakterportraits zeichnen**
 
 > Kennt ihr das: ihr habt euch das absolut epischste Charakter-Design ausgedacht, aber niemand kann in euren Kopf sehen, um es zu betrachten? Das muss nicht so bleiben! Mit den magischen [1] Utensilien wie Bleistift und Papier kann man Dinge aus seinem Kopf in die Köpfe anderer bringen. Beim nächsten Monatstreffen machen wir einen kreativen Abend, bei dem Don zeigt, was man tun kann, um ein einfaches Charakterportrait zu zeichnen. Es wird Erklärungen für den Aufbau eines Kopfes und Körpers geben, sowie ein paar Tipps und Tricks, wie man sich das Zeichnen leichter macht, wenn es nur darum geht, ab und zu ein bisschen was zu malen. Don beantwortet auch gerne alle weiterführenden Fragen.[2] Wer andere Materialien als Bleistift und Papier ausprobieren will, darf sich bei Don oder dem Vorstand melden!
 
 > [1] keine Gewähr auf tatsächliche Magie
+
 > [2] bei sehr obskuren Fragen kann der Wahrheitsgehalt der Antwort schwanken
 
 > **Wir treffen uns am Montag, den 16. März, ab 19 Uhr im Level 9000.**
