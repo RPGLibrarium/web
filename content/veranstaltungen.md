@@ -21,7 +21,8 @@ Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, 
 
 > **16. März 2020: Charakterportraits zeichnen**
 
-> Kennt ihr das: ihr habt euch das absolut epischste Charakter-Design ausgedacht, aber niemand kann in euren Kopf sehen, um es zu betrachten? Das muss nicht so bleiben! Mit den magischen [1] Utensilien wie Bleistift und Papier kann man Dinge aus seinem Kopf in die Köpfe anderer bringen. Beim nächsten Monatstreffen machen wir einen kreativen Abend, bei dem Don zeigt, was man tun kann, um ein einfaches Charakterportrait zu zeichnen. Es wird Erklärungen für den Aufbau eines Kopfes und Körpers geben, sowie ein paar Tipps und Tricks, wie man sich das Zeichnen leichter macht, wenn es nur darum geht, ab und zu ein bisschen was zu malen. Don beantwortet auch gerne alle weiterführenden Fragen.[2] Wer andere Materialien als Bleistift und Papier ausprobieren will, darf sich bei Don oder dem Vorstand melden!
+> Kennt ihr das: ihr habt euch das absolut epischste Charakter-Design ausgedacht, aber niemand kann in euren Kopf sehen, um es zu betrachten? Das muss nicht so bleiben! Mit den magischen [1] Utensilien wie Bleistift und Papier kann man Dinge aus seinem Kopf in die Köpfe anderer bringen. Beim nächsten Monatstreffen machen wir einen kreativen Abend, bei dem Don zeigt, was man tun kann, um ein einfaches Charakterportrait zu zeichnen. Es wird Erklärungen für den Aufbau eines Kopfes und Körpers geben, sowie ein paar Tipps und Tricks, wie man sich das Zeichnen leichter macht, wenn es nur darum geht, ab und zu ein bisschen was zu malen. Don beantwortet auch gerne alle weiterführenden Fragen.[2] 
+> Wer andere Materialien als Bleistift und Papier ausprobieren will, darf sich bei Don oder dem Vorstand melden!
 
 > [1] keine Gewähr auf tatsächliche Magie
 
