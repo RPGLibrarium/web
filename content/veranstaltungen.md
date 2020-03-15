@@ -19,7 +19,11 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. März 2020: Charakterportraits zeichnen**
+> <span style="color:red">**UPDATE!**</span>
+
+> <span style="color:red">**Leider fällt das März-Monatstreffen kurzfristig aus. Nach den aktuellen Leitlinien vom Land und vom Robert-Koch-Institut können wir als Vorstand nicht gewährleisten, dass das Risiko auf einem für uns als Verein vertretbaren geringen Level ist. Wir hoffen, dass ihr unsere Entscheidung versteht und dass sie so spontan kommt. Das Thema "Charaktere zeichnen" natürlich nur aufgeschoben und nicht aufgehoben - im April geht's hoffentlich wie gehabt weiter mit...**</span>
+
+> **16. April 2020 *(?)*: Charakterportraits zeichnen**
 
 > Kennt ihr das: ihr habt euch das absolut epischste Charakter-Design ausgedacht, aber niemand kann in euren Kopf sehen, um es zu betrachten? Das muss nicht so bleiben! Mit den magischen [1] Utensilien wie Bleistift und Papier kann man Dinge aus seinem Kopf in die Köpfe anderer bringen. Beim nächsten Monatstreffen machen wir einen kreativen Abend, bei dem Don zeigt, was man tun kann, um ein einfaches Charakterportrait zu zeichnen. Es wird Erklärungen für den Aufbau eines Kopfes und Körpers geben, sowie ein paar Tipps und Tricks, wie man sich das Zeichnen leichter macht, wenn es nur darum geht, ab und zu ein bisschen was zu malen. Don beantwortet auch gerne alle weiterführenden Fragen.[2] 
 > Wer andere Materialien als Bleistift und Papier ausprobieren will, darf sich bei Don oder dem Vorstand melden!
@@ -28,7 +32,7 @@ Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, 
 
 > [2] bei sehr obskuren Fragen kann der Wahrheitsgehalt der Antwort schwanken
 
-> **Wir treffen uns am Montag, den 16. März, ab 19 Uhr im Level 9000.**
+
 
 
 ## Rollenspielabende für Neulinge
