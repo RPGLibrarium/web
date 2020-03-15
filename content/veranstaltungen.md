@@ -21,7 +21,9 @@ Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, 
 
 > <span style="color:blue">**UPDATE!**</span>
 
-> <span style="color:blue">**Leider fällt das März-Monatstreffen kurzfristig aus. Nach den aktuellen Leitlinien vom Land und vom Robert-Koch-Institut können wir als Vorstand nicht gewährleisten, dass das Risiko auf einem für uns als Verein vertretbaren geringen Level ist. Wir hoffen, dass ihr unsere Entscheidung versteht und dass sie so spontan kommt. Das Thema "Charaktere zeichnen" natürlich nur aufgeschoben und nicht aufgehoben - im April geht's hoffentlich wie gehabt weiter mit...**</span>
+> <span style="color:blue">**Leider fällt das März-Monatstreffen kurzfristig aus. Nach den aktuellen Leitlinien vom Land und vom Robert-Koch-Institut können wir als Vorstand nicht gewährleisten, dass Ansteckungsrisiken auf einem für uns als Verein vertretbaren geringen Level ist. Dabei geht es gleichermaßen um eure Gesundheit als auch um die unserer Mitmenschen. Wir hoffen, dass ihr unsere Entscheidung versteht; und die Tatsache, dass sie so spontan kommt.** </span>
+
+> <span style="color:blue">**Das Thema "Charaktere zeichnen" natürlich nur aufgeschoben und nicht aufgehoben - im April geht's hoffentlich wie gehabt weiter mit...**</span>
 
 > **16. April 2020 *(?)*: Charakterportraits zeichnen**
 
