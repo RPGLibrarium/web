@@ -1,4 +1,4 @@
-
+﻿
 ---
 title: "Veranstaltungen"
 date: 2019-07-30T11:16:00+02:00
@@ -19,29 +19,23 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. Februar 2020: Mitgliederversammlung**
+> <span style="color:blue">**UPDATE!**</span>
 
-> Es findet um 15:00 Uhr die (öffentliche) Mitgliederversammlung vom RPG Librarium statt. 
-Dort berichtet der amtierende Vorstand über das vergangene Jahr, es finden Wahlen zur 
-Besetzung des Vorstands und der Kassenprüfer für das Jahr 2020/21 statt und schöne Dinge 
-wie Wünsche, Pläne oder die nächste Freizeit werden gemeinsam beschlossen. Mitglieder 
-haben bereits eine ausführliche Einladung bekommen, doch die Mitgliederversammlung steht 
-allen Interessierten offen. Falls ihr also Interesse habt beizuwohnen, kommt vorbei. 
+> <span style="color:blue">**Leider fällt das März-Monatstreffen kurzfristig aus. Nach den aktuellen Leitlinien vom Land und vom Robert-Koch-Institut können wir als Vorstand nicht gewährleisten, dass Ansteckungsrisiken auf einem für uns als Verein vertretbaren geringen Level ist. Dabei geht es gleichermaßen um eure Gesundheit als auch um die unserer Mitmenschen. Wir hoffen, dass ihr unsere Entscheidung versteht; und die Tatsache, dass sie so spontan kommt.** </span>
 
-> **Wir treffen uns am Sonntag, den 16. Februar 2020, ab 15 Uhr im Papillon (Aachen, Pontstr. 151)**
+> <span style="color:blue">**Das Thema "Charaktere zeichnen" natürlich nur aufgeschoben und nicht aufgehoben - im April geht's hoffentlich wie gehabt weiter mit...**</span>
 
-Im Anschluss: 
+> **16. April 2020 *(?)*: Charakterportraits zeichnen**
 
-> **16. Februar 2020: Monatstreffen**
+> Kennt ihr das: ihr habt euch das absolut epischste Charakter-Design ausgedacht, aber niemand kann in euren Kopf sehen, um es zu betrachten? Das muss nicht so bleiben! Mit den magischen [1] Utensilien wie Bleistift und Papier kann man Dinge aus seinem Kopf in die Köpfe anderer bringen. Beim nächsten Monatstreffen machen wir einen kreativen Abend, bei dem Don zeigt, was man tun kann, um ein einfaches Charakterportrait zu zeichnen. Es wird Erklärungen für den Aufbau eines Kopfes und Körpers geben, sowie ein paar Tipps und Tricks, wie man sich das Zeichnen leichter macht, wenn es nur darum geht, ab und zu ein bisschen was zu malen. Don beantwortet auch gerne alle weiterführenden Fragen.[2] 
+> Wer andere Materialien als Bleistift und Papier ausprobieren will, darf sich bei Don oder dem Vorstand melden!
 
-> Nach der Mitgliederversammlung und einer Verschnaufpause findet dann wie gewohnt um 19:30 Uhr 
-(selber Ort, selber Raum) auch unser Monatstreffen statt. Die grauen Hirnzellen müssen nicht 
-mehr allzu sehr strapaziert werden, stattdessen treffen wir uns zu Karten- und Brettspielen. 
-Spiele sind auch bereits organisiert, aber wir möchten euch natürlich nicht davor abhalten, 
-Schmuckstücke aus eurer persönlichen Sammlung mitzubringen. Zur vorherigen Anmeldung von Gefahrstoffen 
-wie Monopoly oder Mensch Ärger Dich Nicht wird gebeten.
+> [1] keine Gewähr auf tatsächliche Magie
 
-> **Wir treffen uns am Sonntag, den 16. Februar 2020, ab 19:30 Uhr im Papillon (Aachen, Pontstr. 151)**
+> [2] bei sehr obskuren Fragen kann der Wahrheitsgehalt der Antwort schwanken
+
+
+
 
 ## Rollenspielabende für Neulinge
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
@@ -173,6 +167,9 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. Februar 2020: Monatstreffen
+Nach der Mitgliederversammlung und einer Verschnaufpause findet auch unser Monatstreffen statt. Die grauen Hirnzellen müssen nicht mehr allzu sehr strapaziert werden, stattdessen treffen wir uns zu Karten- und Brettspielen. Spiele sind auch bereits organisiert, aber wir möchten euch natürlich nicht davor abhalten, Schmuckstücke aus eurer persönlichen Sammlung mitzubringen. Zur vorherigen Anmeldung von Gefahrstoffen wie Monopoly oder Mensch Ärger Dich Nicht wird gebeten.
 
 #### 16. Dezember 2019: Weihnachtsfeier
 Spekulatius werden anstelle von Chips zur Spielrunde mitgebracht.
