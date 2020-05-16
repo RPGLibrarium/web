@@ -19,20 +19,20 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> <span style="color:blue">**UPDATE!**</span>
+> **16. Mai 2020: Tavernentreffen digital**
 
-> <span style="color:blue">**Leider fällt das März-Monatstreffen kurzfristig aus. Nach den aktuellen Leitlinien vom Land und vom Robert-Koch-Institut können wir als Vorstand nicht gewährleisten, dass Ansteckungsrisiken auf einem für uns als Verein vertretbaren geringen Level ist. Dabei geht es gleichermaßen um eure Gesundheit als auch um die unserer Mitmenschen. Wir hoffen, dass ihr unsere Entscheidung versteht; und die Tatsache, dass sie so spontan kommt.** </span>
+> Das Konzept "Einfach mal so treffen und quatschen" ist momentan so eine Sache, aber das Gute daran: Beim digitalen Tavernentreffen muss man seine Pommes mit niemandem teilen. Wir haben zur allgemeinen Unterhaltung eine RPG-Variante von skribbl.io vorbereitet (manchen sicher auch unter dem Namen "Montagsmaler" bekannt) und freuen uns auf euer Erscheinen!
 
-> <span style="color:blue">**Das Thema "Charaktere zeichnen" natürlich nur aufgeschoben und nicht aufgehoben - im April geht's hoffentlich wie gehabt weiter mit...**</span>
+> Das Monatstreffen findet statt am **Samstag, den 16. Mai, ab 19 Uhr** wieder in unserem [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
 
-> **16. April 2020 *(?)*: Charakterportraits zeichnen**
 
-> Kennt ihr das: ihr habt euch das absolut epischste Charakter-Design ausgedacht, aber niemand kann in euren Kopf sehen, um es zu betrachten? Das muss nicht so bleiben! Mit den magischen [1] Utensilien wie Bleistift und Papier kann man Dinge aus seinem Kopf in die Köpfe anderer bringen. Beim nächsten Monatstreffen machen wir einen kreativen Abend, bei dem Don zeigt, was man tun kann, um ein einfaches Charakterportrait zu zeichnen. Es wird Erklärungen für den Aufbau eines Kopfes und Körpers geben, sowie ein paar Tipps und Tricks, wie man sich das Zeichnen leichter macht, wenn es nur darum geht, ab und zu ein bisschen was zu malen. Don beantwortet auch gerne alle weiterführenden Fragen.[2] 
-> Wer andere Materialien als Bleistift und Papier ausprobieren will, darf sich bei Don oder dem Vorstand melden!
+> **16. April 2020: Einführung in Roll20**
 
-> [1] keine Gewähr auf tatsächliche Magie
+> Roll20 ist eine Plattform für Online-Rollenspiel, mit integriertem Videochat, digitalen Würfeln, Tools für Battlemaps und allem, was die digitale Pen&Paper-Runde benötigt - und genug Funktionen, um Neulinge völlig zu überfordern. Beim nächsten Monatstreffen wird euch Lamin eine Einführung in das Spielen via Roll20 geben, sodass keine Reallife-Rollenspielrunde in die Zwangspause verdammt werden muss.
 
-> [2] bei sehr obskuren Fragen kann der Wahrheitsgehalt der Antwort schwanken
+>Und damit niemand von euch seine sorgsam gehamsterten Klopapiervorräte aus den Augen lassen muss, findet das Monatstreffen im April ebenfalls online statt, und zwar über das System Jitsi. Es muss keine Software installiert und kein Account erstellt werden, ein Klick auf den Link genügt (in den allermeisten Fällen). Probiert es trotzdem mal vorher aus, damit die „Technik spinnt mal wieder“-Zeit begrenzt bleibt.
+
+> Das Monatstreffen findet statt am **Donnerstag, den 16. April, ab 19 Uhr** und zwar in unserem [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
 
 
 
@@ -167,6 +167,8 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. März 2020: Leider ausgefallen
 
 #### 16. Februar 2020: Monatstreffen
 Nach der Mitgliederversammlung und einer Verschnaufpause findet auch unser Monatstreffen statt. Die grauen Hirnzellen müssen nicht mehr allzu sehr strapaziert werden, stattdessen treffen wir uns zu Karten- und Brettspielen. Spiele sind auch bereits organisiert, aber wir möchten euch natürlich nicht davor abhalten, Schmuckstücke aus eurer persönlichen Sammlung mitzubringen. Zur vorherigen Anmeldung von Gefahrstoffen wie Monopoly oder Mensch Ärger Dich Nicht wird gebeten.
