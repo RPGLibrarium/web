@@ -71,7 +71,6 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 
 ## Freizeit
-<!--
 Wir bieten regelmäßig eine Freizeit über ein verlängertes Wochenende an. Dann möchten wir uns mit euch für ein paar Tage dem Alltag entziehen und uns gemeinsam in einer Jugendherberge dem Pen & Paper widmen.
 
 Wir planen Einsteiger- und Veteranenrunden für verschiedene Systeme:
@@ -91,7 +90,8 @@ Außerdem gibt es auch immer Raum für
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
 
 Die offizielle Anmeldung folgt dann bald.
--->
+
+<!--
 Es ist soweit.
 Wir möchten uns mit euch für ein paar Tage dem Alltag entziehen
 und uns gemeinsam in der [Jugendherberge Freusburg](http://www.jugendherberge.de/de-de/jugendherbergen/freusburg359/portraet) dem Pen & Paper spielen widmen.
@@ -128,7 +128,7 @@ Wie letztes Jahr möchten wir auch diesmal wieder eine Fahrgemeinschaft organisi
 bis 26 Jahre: 170 €  
 27 und älter: 190 €  
 Der Unterschied entsteht durch die Preisstaffelung nach Alter der Jugendherberge. Die endgültigen Preise können abweichen.
-
+-->
 <!--
 ### Anmeldung
 [Anmeldung](mailto:vorstand@rpg-librarium.de?subject=Librarium%20Freizeit%202020&body=Lieber%20Vorstand%2C%0Aich%20melde%20mich%20vom%2002.01.%20bis%2006.01.2020%20zur%20Librarium-Freizeit%20an.%0ADie%20Anmeldung%20ist%20erst%20ab%20Zahlung%20des%20Teilnahmebeitrags%20verbindlich.%0AMeine%20Anmeldedaten%20sind%3A%0A%0AName%3A%0AAlter%3A%0AAnschrift%3A%0AMail%3A%0ABemerkungen%20(Nahrungsmittelrestriktionen%20o.%C3%A4.)%3A%0A%0ASch%C3%B6ne%20Gr%C3%BC%C3%9Fe) per E-Mail.
