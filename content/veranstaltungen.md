@@ -13,7 +13,7 @@ menu:
 -->
 
 ## Monatliches Treffen
-Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
+Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler\*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee von Abenteuern auf Papier mit vielen Würfeln eigentlich ganz witzig findest und das auch mal spielen möchtest -- jede*r, ob Mitglied oder nicht, ist herzlich eingeladen, vorbeizukommen!
 
@@ -39,17 +39,17 @@ Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, 
 
 ## Rollenspielabende für Neulinge
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
-Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler*innen einen Einblick in verschiedene Pen & Paper Systeme und Spielstile zu geben.
+Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*innen einen Einblick in verschiedene Pen & Paper Systeme und Spielstile zu geben.
 
 ![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
 
-Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler*innen grob erwartet.
-Danach suchen sich die Besucher*innen eine Runde aus und können sofort loslegen.
+Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler\*innen grob erwartet.
+Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen.
 Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden von ca. 18:30 Uhr bis 19:00 Uhr) oder zur zweiten Phase (20:45 Uhr bis 21:15 Uhr) da sein solltet.
 Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
-Wir möchten die Spielleiter*innen für den Abend stellen und du kannst eine*r davon sein.
+Wir möchten die Spielleiter\*innen für den Abend stellen und du kannst eine\*r davon sein.
 Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 
 >Am **Montag, den 25. November 2019** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
@@ -67,7 +67,6 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 >Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend-Librarium-Fachschaft_2019-11-25) ein.
 
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
-
 
 
 ## Freizeit
@@ -112,7 +111,7 @@ Außerdem wird es Raum geben für:
 * Spaziergänge in der Umgebung,
 * und ein gemütliches Stöbern in der Librarium eigenen Büchersammlung.
 
-**Zeitraum:** 02.01. bis 06.01.2020 (4 Übernachtungen)
+**Zeitraum:** 02.01. bis 06.01.2021 (4 Übernachtungen)
 
 **Unterbringung:**
 
@@ -124,18 +123,27 @@ Außerdem wird es Raum geben für:
 **Anreise:** Auf eigene Kosten. Der RE9 fährt bis Bahnhof (Kirchen). Von dort sind es nochmal 30 Minuten zu Fuß. Wir planen ein Auto-Shuttle vom Bahnhof zur Burg.  
 Wie letztes Jahr möchten wir auch diesmal wieder eine Fahrgemeinschaft organisieren, sodass niemand alleine Zug fahren muss. Für alle mit NRW-Ticket: die Anreise ist problemlos damit möglich. Wir stellen gerne den Kontakt zwischen Anreisenden ohne NRW-Ticket her, damit ihr euch gemeinsam ein Gruppenticket kaufen könnt. Schreibt uns einfach eine kurze Mail.
 
+**Eure Mithilfe:** Wie jedes Jahr könnt ihr uns bei einigen Dingen helfen. Schreibt es einfach mit in die Anmeldung oder meldet euch gesondert beim [Vorstand](mailto:vorstand@rpg-librarium.de).
+
+* großer Wasserkocher 
+* Drucker
+* Snackseinkauf (Budget 40€)
+* Materialtransport (Aachen <-> Freusburg; 2m² Gepäck; 1 Mitfahrer; Vergütung nach BRKG)
+* Spielleiter für Weltenbrücken
+
 **Kosten:**
-bis 26 Jahre: 170 €  
-27 und älter: 190 €  
+bis 26 Jahre: 190 €  
+27 und älter: 210 €  
 Der Unterschied entsteht durch die Preisstaffelung nach Alter der Jugendherberge. Die endgültigen Preise können abweichen.
--->
-<!--
+
 ### Anmeldung
-[Anmeldung](mailto:vorstand@rpg-librarium.de?subject=Librarium%20Freizeit%202020&body=Lieber%20Vorstand%2C%0Aich%20melde%20mich%20vom%2002.01.%20bis%2006.01.2020%20zur%20Librarium-Freizeit%20an.%0ADie%20Anmeldung%20ist%20erst%20ab%20Zahlung%20des%20Teilnahmebeitrags%20verbindlich.%0AMeine%20Anmeldedaten%20sind%3A%0A%0AName%3A%0AAlter%3A%0AAnschrift%3A%0AMail%3A%0ABemerkungen%20(Nahrungsmittelrestriktionen%20o.%C3%A4.)%3A%0A%0ASch%C3%B6ne%20Gr%C3%BC%C3%9Fe) per E-Mail.
+[Anmeldung (Mailto Link)](mailto:vorstand@rpg-librarium.de?subject=Librarium%20Freizeit%202020&body=Lieber%20Vorstand%2C%0Aich%20melde%20mich%20vom%2002.01.%20bis%2006.01.2020%20zur%20Librarium-Freizeit%20an.%0ADie%20Anmeldung%20ist%20erst%20ab%20Zahlung%20des%20Teilnahmebeitrags%20verbindlich.%0AMeine%20Anmeldedaten%20sind%3A%0A%0AName%3A%0AAlter%3A%0AAnschrift%3A%0AMail%3A%0ABemerkungen%20(Nahrungsmittelrestriktionen%20o.%C3%A4.)%3A%0A%0ASch%C3%B6ne%20Gr%C3%BC%C3%9Fe) per E-Mail.
 
-**Frist:** Auch wenn es bis jetzt immer möglich war Menschen nachzumelden, bitten wir um eure Anmeldungen bis zum **20. Oktober 2019**  
+**Frist:** Wir bitten um eure Anmeldungen bis zum **20. Oktober 2020**, eine Nachmeldung ist voraussichtlich **nicht** möglich.
 Nach der Anmeldung erhaltet ihr von uns eine Bestätigung per Mail mit den Zahlungsinformationen. Bitte zahlt innerhalb von 2 Wochen die Teilnahmegebühr auf das angegebene Konto. Erst mit der Bezahlung wird die Teilnahme verbindlich.
+-->
 
+<!--
 ### Nachmeldung
 Wir jedes Jahr können wir noch versuchen Menschen bei der Jugendherberge nachzumelden. Leider ist die Stornierung ab jetzt aber nicht mehr kostenfrei. Deshalb benötigen wir von euch vorab eine verbindliche Zusage, damit das Risiko nicht auf dem Verein liegt. Dafür musst du uns eine [Anmeldungs Mail über diesen Mailto-Link](mailto:vorstand@rpg-librarium.de?subject=Librarium%20Freizeit%202020&body=Lieber%20Vorstand%2C%0A%0Aich%20melde%20mich%20verbindlich%20vom%2002.01.%20bis%2006.01.2020%20zur%20Librarium-Freizeit%20an.%20Die%20Vorauszahlung%20des%20Teilnahmebeitrag%20%C3%BCberweise%20ich%20nach%20dem%20Erhalt%20der%20Zahlungsaufforderung.%20Mir%20ist%20bewusst%2C%20dass%20der%20RPG%20Librarium%20Aachen%20e.V.%20erst%20die%20Teilname%20garantieren%20kann%2C%20wenn%20eine%20Zusage%20der%20Jugendherberge%20vorliegt.%20%20%0A%0AName%3A%0AAlter%3A%0AAnschrift%3A%0AMail%3A%0ABemerkungen%20(Nahrungsmittelrestriktionen%20o.%C3%A4.)%3A%0A%0ASch%C3%B6ne%20Gr%C3%BC%C3%9Fe) schicken.
 Du bekommst von uns dann eine Mail mit einer Rechnung für die Anzahlung. Erst wenn wir deine verbindliche Zusage haben, können wir dich bei der Jugendherberge anmelden. Sollte die Jugendherberge kein Bett mehr freihaben haben, bekommst Du deine Anzahlung selbstverständlich zurück.
@@ -352,7 +360,7 @@ Malte wird uns das Old-School-RPG in Mesopotamien vorstellen.
 Die sagenumwobene Piratenschatzkarte oder der taktische Grundriss des Konzerngeländes, die interstellaren Handelsrouten oder der Stadtplan aus der Touristeninfo – am 16. September soll es um Kartenmaterial im Rollenspiel gehen.
 Im Rahmen eines Workshops werden wir diskutieren, welche Erfahrungen ihr mit Karten im Pen & Paper habt, welche Arten von Karten es eigentlich gibt, wie Karten Informationen transportieren, wann die Verwendung von Karten sinnvoll (oder auch nicht sinnvoll) ist und woher man – ganz praktisch – eigentlich Kartenmaterial für sein Abenteuer bekommt.
 Zum Abschluss dürft ihr selbst kreativ werden.
-Der Workshop von Franca und Jan richtet sich thematisch insbesondere an aktive und werdende Spielleiter*innen, aber natürlich ist auch jede/r andere willkommen, mitzudiskutieren!
+Der Workshop von Franca und Jan richtet sich thematisch insbesondere an aktive und werdende Spielleiter\*innen, aber natürlich ist auch jede/r andere willkommen, mitzudiskutieren!
 Ebenfalls dürfen eigene Karten, die euch aus irgendeinem Grund besonders gefallen, gerne als Anschauungsobjekte mitgebracht werden!
 
 #### 16. August 2017: Rollenspieltest "Midgard"
@@ -388,7 +396,7 @@ Der geplante Ostermuffelbrunch ("Librunchium") entfällt leider.
 Die Thematik dieses Treffens ist ein bisschen düster. Habt ihr als Spieler*in oder Leiter*in schon einmal in der Situation gesteckt, dass eine witzige Runde auf einmal mit sehr ernsten Themen konfrontiert wurde und eventuell gar nicht klar ist, wie man diese angehen soll?
 Uns allen ist bewusst, dass der Kampf und somit Gewalt ein Teil von Pen&Paper-Rollenspiel ist, doch was, wenn auch mal andere Facetten beleuchtet werden?
 Sexueller Missbrauch, Folter und Verstümmelungen sind dabei Themen, die oft am Spieltisch ausgelassen werden.
-Kann man solch eine Materie benutzen, um Spieler*innen eine Reaktion zu entlocken?
+Kann man solch eine Materie benutzen, um Spieler\*innen eine Reaktion zu entlocken?
 Darf man das überhaupt und wenn ja, wie macht man das?
 All das werden wir in Cays Workshop zu "Sex, Rape and Gore - Gewalt im Rollenspiel", zusammen mit euch, erörtern.
 
@@ -397,7 +405,7 @@ In diesem, von Laura vorgestellten System geht es darum, als Kuscheltier die ver
 Um sich seinen Helden gut vorstellen zu können, könnt ihr also sehr gerne ein Kuscheltier/Charakter eurer Wahl mitbringen.
 
 #### 16. Januar 2017: Workshop "Wie mache ich ein Abenteuer?"
-Thibauds Workshop richtet sich vor allem an Spielleiter*innen, die eine Idee für ein Abenteuer haben, aber nicht wissen, wie sie dieses adäquat vorbereiten.
+Thibauds Workshop richtet sich vor allem an Spielleiter\*innen, die eine Idee für ein Abenteuer haben, aber nicht wissen, wie sie dieses adäquat vorbereiten.
 Häufig wird dann auf fertig geschriebene Szenarien zurückgegriffen, die dann doch manchmal ans Geld gehen und leider auch nicht immer gut geschrieben sind.
 Auf diesem Stammtisch werden ein paar Methoden besprochen, wie man von einer Idee zum Konzept kommt.
 Außerdem gehen wir auch auf die allgemeine Struktur von Abenteuern ein, sowie die Unterteilung in  Kampagne, Abenteuer, Kapitel und Szene.
@@ -413,6 +421,6 @@ Den*die Gewinner*in erkennen wir daran, welches Mitbringsel als erstes weg ist.
 #### 16. November 2016: Workshop "Wie geht Spielleiten?"
 Hast du schon einige Regelwerke zuhause liegen, aber traust dich nicht Spielrunde zu veranstalten?
 Die kleinen Tipps und Tricks, die dir diesen Einstieg erleichtern sollen, kannst du dir hier in einem Workshop von Christine und Richard abholen.
-Für die erfahrenen Spielleiter*innen unter uns gibt es gleichzeitig die Gelegenheit, vom eigenen Einstieg zu erzählen.
-Natürlich sind auch viele Spieler*innen und Spielleiter*innen dabei, die bereit sind, bei der brennende RPG-Krise am eigenen Tisch zu  helfen.
-Anschließend wollen wir auch in die Praxis gehen, und die Einsteiger*innen bei der Durchführung ihrer ersten Spielrunde begleiten.
+Für die erfahrenen Spielleiter\*innen unter uns gibt es gleichzeitig die Gelegenheit, vom eigenen Einstieg zu erzählen.
+Natürlich sind auch viele Spieler\*innen und Spielleiter\*innen dabei, die bereit sind, bei der brennende RPG-Krise am eigenen Tisch zu  helfen.
+Anschließend wollen wir auch in die Praxis gehen, und die Einsteiger\*innen bei der Durchführung ihrer ersten Spielrunde begleiten.
