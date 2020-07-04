@@ -263,3 +263,45 @@ table.titles tbody td,
   text-align: right;
   white-space: nowrap;
 }
+
+
+@media screen and (max-width: 70em) {
+  .multiversumTable table,
+  .multiversumTable table,
+  .multiversumTable th,
+  .multiversumTable td {
+    display: block;
+  }
+  .multiversumTable tr {
+    display: block;
+    border: solid var(--color-cd-dark-ish);
+    border-width: 0 0 .1em 0;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
+  .multiversumTable table thead th,
+  .multiversumTable table tbody td {
+    border: 0 none;
+    padding: .05em .5em;
+  }
+  .multiversumTable table thead th.release,
+  .multiversumTable table tbody td.release {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .multiversumTable table thead th.quote {
+    display: none;
+  }
+  .multiversumTable table tbody td.quote {
+    grid-column: 1 / 3;
+    grid-row: 2;
+  }
+  .multiversumTable table thead th.size,
+  .multiversumTable table tbody td.size {
+    font-size: .8em;
+    color: var(--color-cd-brown-ish);
+    grid-column: 2;
+    grid-row: 1;
+    text-align: right;
+  }
+}

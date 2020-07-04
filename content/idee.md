@@ -36,7 +36,7 @@ Die Entscheidung, welche Bücher der Sammlung hinzugefügt werden, treffen wir g
 ## Aktueller Bestand
 Hier findest du unseren aktuellen Bestand. Vermisst du etwas? Dann schreib uns eine [E-Mail](mailto:kontakt@rpg-librarium.de).
 
-{{% titlesTable %}}
+{{< titlesTable >}}
 
 <!--{trackerfilter filters="16/t:18/d" displayList="y" line="y" noflipflop="y" trackerId="3" fields="18:16" showlinks="r" max="-1"}
 -->

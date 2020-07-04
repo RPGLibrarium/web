@@ -13,4 +13,4 @@ Dafür ist die Redaktion natürlich auch auf eure Hilfe angewiesen.
 Sendet deshalb hemmungslos Textbeiträge, Annoncen, Charakternachrufe, Illustrationen und beliebigen weiteren *"Schund"* an die [Redaktion](mailto:multiversum@rpg-librarium.de)!
 
 
-{{% multiversumReleasesTable %}}
+{{< multiversumReleasesTable >}}
