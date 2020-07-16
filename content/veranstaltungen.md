@@ -8,9 +8,7 @@ menu:
     weight: 300
 ---
 
-<!--
-> Die Anmeldung zur Freizeit 2020 ist geschlossen! Aber vielleicht können wir euch noch nachmelden. Mehr Infos findet ihr [weiter unten](#freizeit)
--->
+> Die Anmeldung zur Freizeit 2020 ist geöffnet! Anmeldung und Infos sind [weiter unten](#freizeit)
 
 ## Monatliches Treffen
 Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler\*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
@@ -19,27 +17,18 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. Juni 2020: Spielleiternotizen im Pen&Paper**
+> **16. Juli 2020: Kaffe und Kuchen**
+> Aber kommen wir zu dem Teil, warum Sie überhaupt von mir hören. Zentrale will, dass Sie diesen 16., also übermorgen, auf eine äußerst prekäre Mission ausfahren.
 
-> Der Termin steht, das Zimmer ist aufgeräumt [1], die Matheabgabe ist fertig, die Snacks sind gekauft [2], die Spieler sind heiß, die guten und bösen Geister wurden besänftigt, die Ahnen angerufen. Ein finaler Blick in die Notizen von letzter... Notizen? Welche Notizen? Was haben die Spieler letzte Woche eigentlich gemacht?
+> "Oma Muirarbil" hat um 19:00 Uhr zum digitalen "Kaffee Kuchen" geladen.
 
-> Wie man sich als SL sinnvoll Notizen macht, die kollektive Amnesie vermeidet und überprüft, ob die Helden wirklich - wie sie behaupten - das Schwert der Legendären Awesomeness gefunden haben, das möchten wir beim nächsten Monatstreffen im Rahmen eines Workshops mit euch diskutieren!
+> Wie, was das für Codenamen sein sollen? Wer Oma Muirarbil ist? Auf diese Information habe ich, ähm, kein Zugriff. Es ist definitiv kein Pseudonym für mich! Und ich schreibe Sie und alle anderen Agenten im Verteiler auch definitiv nicht einfach nur so an, weil ich einsam bin. Jedenfalls treffen wir uns bei mir zuhause, die Internet-Adresse kommt gleich. Es muss auch kein Kaffee sein, Tee und Kakao ist auch gut. Und Kekse oder Eis statt Kuchen gehen natürlich auch! Ach, und viel Glück, Agent. Nachfolgend die Informationen direkt von Zentrale für Sie:
 
-> [1] Aktuell zu verstehen als: Der Teil des Zimmers, den die Webcam erfasst.
+> Das anstehende (digitale) Monatstreffen ist ohne übergeordnetes Thema und findet am Donnerstag, den 16. Juli, ab 19:00 Uhr statt. 
 
-> [2] Derzeit: Private Nervennahrung des SL. Steht links neben der Webcam im toten Winkel.
+> Adresse: https://meet.jit.si/RPG-Librarium-Monatstreffen
 
-> Wir treffen uns für den Workshop "Spielleiternotizen im Pen&Paper" am **Dienstag, den 16. Juni, ab 19 Uhr**, und zwar digital im [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
-
->
-
-> **16. Mai 2020: Tavernentreffen digital**
-
-> Das Konzept "Einfach mal so treffen und quatschen" ist momentan so eine Sache, aber das Gute daran: Beim digitalen Tavernentreffen muss man seine Pommes mit niemandem teilen. Wir haben zur allgemeinen Unterhaltung eine RPG-Variante von skribbl.io vorbereitet (manchen sicher auch unter dem Namen "Montagsmaler" bekannt) und freuen uns auf euer Erscheinen!
-
-> Das Monatstreffen findet statt am **Samstag, den 16. Mai, ab 19 Uhr** wieder in unserem [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
-
-
+> (Das Erscheinen mit großelterntauglichem Porzellan, Süßspeise und Heißgetränk ist ausdrücklich erlaubt) 
 
 ## Rollenspielabende für Neulinge
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
@@ -74,6 +63,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 
 ## Freizeit
+<!--
 Wir bieten regelmäßig eine Freizeit über ein verlängertes Wochenende an. Dann möchten wir uns mit euch für ein paar Tage dem Alltag entziehen und uns gemeinsam in einer Jugendherberge dem Pen & Paper widmen.
 
 Wir planen Einsteiger- und Veteranenrunden für verschiedene Systeme:
@@ -93,8 +83,7 @@ Außerdem gibt es auch immer Raum für
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
 
 Die offizielle Anmeldung folgt dann bald.
-
-<!--
+-->
 Es ist soweit.
 Wir möchten uns mit euch für ein paar Tage dem Alltag entziehen
 und uns gemeinsam in der [Jugendherberge Freusburg](http://www.jugendherberge.de/de-de/jugendherbergen/freusburg359/portraet) dem Pen & Paper spielen widmen.
@@ -145,7 +134,6 @@ Der Unterschied entsteht durch die Preisstaffelung nach Alter der Jugendherberge
 
 **Frist:** Wir bitten um eure Anmeldungen bis zum **20. Oktober 2020**, eine Nachmeldung ist voraussichtlich **nicht** möglich.
 Nach der Anmeldung erhaltet ihr von uns eine Bestätigung per Mail mit den Zahlungsinformationen. Bitte zahlt innerhalb von 2 Wochen die Teilnahmegebühr auf das angegebene Konto. Erst mit der Bezahlung wird die Teilnahme verbindlich.
--->
 
 <!--
 ### Nachmeldung
@@ -179,6 +167,16 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. Juni 2020: Spielleiternotizen im Pen&Paper
+Der Termin steht, das Zimmer ist aufgeräumt [1], die Matheabgabe ist fertig, die Snacks sind gekauft [2], die Spieler sind heiß, die guten und bösen Geister wurden besänftigt, die Ahnen angerufen. Ein finaler Blick in die Notizen von letzter... Notizen? Welche Notizen? Was haben die Spieler letzte Woche eigentlich gemacht?
+Wie man sich als SL sinnvoll Notizen macht, die kollektive Amnesie vermeidet und überprüft, ob die Helden wirklich - wie sie behaupten - das Schwert der Legendären Awesomeness gefunden haben, das möchten wir beim nächsten Monatstreffen im Rahmen eines Workshops mit euch diskutieren!
+
+[1] Aktuell zu verstehen als: Der Teil des Zimmers, den die Webcam erfasst.  
+[2] Derzeit: Private Nervennahrung des SL. Steht links neben der Webcam im toten Winkel.
+
+#### 16. Mai 2020: Tavernentreffen digital
+Das Konzept "Einfach mal so treffen und quatschen" ist momentan so eine Sache, aber das Gute daran: Beim digitalen Tavernentreffen muss man seine Pommes mit niemandem teilen. Wir haben zur allgemeinen Unterhaltung eine RPG-Variante von skribbl.io vorbereitet (manchen sicher auch unter dem Namen "Montagsmaler" bekannt) und freuen uns auf euer Erscheinen!
 
 #### 16. April 2020: Einführung in Roll20
 Roll20 ist eine Plattform für Online-Rollenspiel, mit integriertem Videochat, digitalen Würfeln, Tools für Battlemaps und allem, was die digitale Pen&Paper-Runde benötigt - und genug Funktionen, um Neulinge völlig zu überfordern. Beim nächsten Monatstreffen wird euch Lamin eine Einführung in das Spielen via Roll20 geben, sodass keine Reallife-Rollenspielrunde in die Zwangspause verdammt werden muss.
