@@ -135,6 +135,13 @@ Der Unterschied entsteht durch die Preisstaffelung nach Alter der Jugendherberge
 **Frist:** Wir bitten um eure Anmeldungen bis zum **20. Oktober 2020**, eine Nachmeldung ist voraussichtlich **nicht** möglich.
 Nach der Anmeldung erhaltet ihr von uns eine Bestätigung per Mail mit den Zahlungsinformationen. Bitte zahlt innerhalb von 2 Wochen die Teilnahmegebühr auf das angegebene Konto. Erst mit der Bezahlung wird die Teilnahme verbindlich.
 
+### Anmeldung für Nerds
+Weil sich einige beklagt haben, dass ihre E-Mail-Clients nicht mit Mailto-Links umgehen können, könnt ihr auch alternativ diesen wunderbaren TLS Service nutzen. Ganz ohne E-Mail-Client 🎉
+
+```
+ ncat --ssl-verify rpg-librarium.de 8080
+```
+
 <!--
 ### Nachmeldung
 Wir jedes Jahr können wir noch versuchen Menschen bei der Jugendherberge nachzumelden. Leider ist die Stornierung ab jetzt aber nicht mehr kostenfrei. Deshalb benötigen wir von euch vorab eine verbindliche Zusage, damit das Risiko nicht auf dem Verein liegt. Dafür musst du uns eine [Anmeldungs Mail über diesen Mailto-Link](mailto:vorstand@rpg-librarium.de?subject=Librarium%20Freizeit%202021&body=Lieber%20Vorstand%2C%0A%0Aich%20melde%20mich%20verbindlich%20vom%2002.01.%20bis%2006.01.2021%20zur%20Librarium-Freizeit%20an.%20Die%20Vorauszahlung%20des%20Teilnahmebeitrag%20%C3%BCberweise%20ich%20nach%20dem%20Erhalt%20der%20Zahlungsaufforderung.%20Mir%20ist%20bewusst%2C%20dass%20der%20RPG%20Librarium%20Aachen%20e.V.%20erst%20die%20Teilname%20garantieren%20kann%2C%20wenn%20eine%20Zusage%20der%20Jugendherberge%20vorliegt.%20%20%0A%0AName%3A%0AAlter%3A%0AAnschrift%3A%0AMail%3A%0ABemerkungen%20(Nahrungsmittelrestriktionen%20o.%C3%A4.)%3A%0A%0ASch%C3%B6ne%20Gr%C3%BC%C3%9Fe) schicken.
