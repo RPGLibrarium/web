@@ -17,18 +17,12 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. Juli 2020: Kaffe und Kuchen**
-> Aber kommen wir zu dem Teil, warum Sie überhaupt von mir hören. Zentrale will, dass Sie diesen 16., also übermorgen, auf eine äußerst prekäre Mission ausfahren.
+> **16. September 2020: Piraten, Weltraumschurken & Machoweiber**
 
-> "Oma Muirarbil" hat um 19:00 Uhr zum digitalen "Kaffee Kuchen" geladen.
+> Im September stellt euch Franca drei Regelsysteme aus der Librarium-Sammlung vor. Freut euch auf das draufgängerische Mantel & Degen - Setting "7te See", die Space Opera für Schurken und Rebellen "Am Rande des Imperiums" in der Welt von Star Wars, und den krawalligen Pulp-Humor der "Machoweiber mit dicken Kanonen". 
 
-> Wie, was das für Codenamen sein sollen? Wer Oma Muirarbil ist? Auf diese Information habe ich, ähm, kein Zugriff. Es ist definitiv kein Pseudonym für mich! Und ich schreibe Sie und alle anderen Agenten im Verteiler auch definitiv nicht einfach nur so an, weil ich einsam bin. Jedenfalls treffen wir uns bei mir zuhause, die Internet-Adresse kommt gleich. Es muss auch kein Kaffee sein, Tee und Kakao ist auch gut. Und Kekse oder Eis statt Kuchen gehen natürlich auch! Ach, und viel Glück, Agent. Nachfolgend die Informationen direkt von Zentrale für Sie:
+> Wir treffen uns für die Vorstellung der drei Regelsysteme am Mittwoch, den 16. September, ab 19 Uhr, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
 
-> Das anstehende (digitale) Monatstreffen ist ohne übergeordnetes Thema und findet am Donnerstag, den 16. Juli, ab 19:00 Uhr statt. 
-
-> Adresse: https://meet.jit.si/RPG-Librarium-Monatstreffen
-
-> (Das Erscheinen mit großelterntauglichem Porzellan, Süßspeise und Heißgetränk ist ausdrücklich erlaubt) 
 
 ## Rollenspielabende für Neulinge
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
@@ -174,6 +168,12 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. August 2020: Apocalypse World, Numenera, Conspire, Schrecken aus der Tiefe
+Lasst euch von Lamin in das Obskuriositätenkabinett aus unserem Bücherschrank entführen und entdeckt neue Rollenspielsysteme, von denen ihr bisher vielleicht nur am Rande etwas gehört habt. 4 Systeme, ihre Regeln und Spielwelten erwarten euch beim nächsten Monatstreffen. Neben dem belesenen Lamin sind dabei: Apocalypse World, Numenera, Conspire und Schrecken aus der Tiefe.
+
+#### 16. Juli 2020: Kaffee & Kuchen
+Zentrale will, dass Sie diesen 16., also übermorgen, auf eine äußerst prekäre Mission ausfahren: "Oma Muirarbil" hat um 19:00 Uhr zum digitalen "Kaffee Kuchen" geladen. Wie, was das für Codenamen sein sollen? Wer Oma Muirarbil ist? Auf diese Information habe ich, ähm, kein Zugriff. Es ist definitiv kein Pseudonym für mich! Und ich schreibe Sie und alle anderen Agenten im Verteiler auch definitiv nicht einfach nur so an, weil ich einsam bin. Jedenfalls treffen wir uns bei mir zuhause, die Internet-Adresse kommt gleich. Es muss auch kein Kaffee sein, Tee und Kakao ist auch gut. Und Kekse oder Eis statt Kuchen gehen natürlich auch! Ach, und viel Glück, Agent. 
 
 #### 16. Juni 2020: Spielleiternotizen im Pen&Paper
 Der Termin steht, das Zimmer ist aufgeräumt [1], die Matheabgabe ist fertig, die Snacks sind gekauft [2], die Spieler sind heiß, die guten und bösen Geister wurden besänftigt, die Ahnen angerufen. Ein finaler Blick in die Notizen von letzter... Notizen? Welche Notizen? Was haben die Spieler letzte Woche eigentlich gemacht?
