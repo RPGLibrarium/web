@@ -9,6 +9,7 @@ menu:
 ---
 
 > Die Anmeldung zur Freizeit 2020 ist geöffnet! Anmeldung und Infos sind [weiter unten](#freizeit)
+> Wir suchen Spielleiter/innen für den digitalen [Rollenspielabend](#rollenspielabende für neulinge) am 13. November 2020!
 
 ## Monatliches Treffen
 Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler\*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
@@ -23,7 +24,7 @@ Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, 
 
 > Beim nächsten Monatstreffen schauen wir den drei Systemen mal unter den Buchdeckel. Wie wird gewürfelt, wie funktioniert Magie, wie sieht die Spielwelt aus und wen spielt man eigentlich? Da unsere Sammlung für diese Editionen am größten ist, betrachten wir D&D 5, DSA 4.1 und Shadowrun 5.
 
-> Wir treffen uns für die Vorstellung der drei Regelsysteme am Freitag, den 16. Oktober, ab 19 Uhr, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
+> Wir treffen uns für die Vorstellung der drei Regelsysteme am **Freitag, den 16. Oktober, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
 
 
 ## Rollenspielabende für Neulinge
@@ -32,6 +33,7 @@ Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*i
 
 ![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
 
+<!--
 Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler\*innen grob erwartet.
 Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen.
 Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden von ca. 18:30 Uhr bis 19:00 Uhr) oder zur zweiten Phase (20:45 Uhr bis 21:15 Uhr) da sein solltet.
@@ -56,6 +58,22 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 >Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend-Librarium-Fachschaft_2019-11-25) ein.
 
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
+
+-->
+
+>Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:00 Uhr**. Wir suchen aktuell **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
+
+>Die momentane Planung sieht vor, dass wir die Anmeldung der Runden über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) stattfinden lassen. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. Die Begrüßung der Teilnehmer/innen wird entweder über einen eigenen Jitsi-Server oder über einen Youtube-/Twitch-Stream stattfinden. Den entsprechenden Link werdet ihr dann hier finden. Die Spielrunden werden je nach Vorliebe der Spielleitung z.B. über Jitsi, Discord oder Roll20 stattfinden, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden.
+
+>Geplanter Ablauf (aktueller Stand):
+
+>1. Begrüßung: 18:30 Uhr - 19:00 Uhr
+>1. Spielphase: 19:00 Uhr - 21:00 Uhr
+>2. Begrüßung: 21:00 Uhr - 21:30 Uhr
+>2. Spielphase: 21:30 Uhr - 23:30 Uhr
+
+>Die Anmeldung für **Spielinteressierte** wird ab dem **Montag, dem 9. November 2020 ab 12:00 Uhr** möglich sein. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen vermutlich nicht möglich sein, aber wir halten euch auf dem Laufenden!
+
 
 
 ## Freizeit
