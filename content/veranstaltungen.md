@@ -10,7 +10,7 @@ menu:
 
 > Die Anmeldung zur Freizeit 2020 ist geöffnet! Anmeldung und Infos sind [weiter unten](#freizeit)
 
-> Wir suchen Spielleiter/innen für den digitalen [Rollenspielabend](#rollenspielabende für neulinge) am 13. November 2020!
+> Wir suchen Spielleiter/innen für den digitalen [Rollenspielabend](#rollenspielabend) am 13. November 2020!
 
 ## Monatliches Treffen
 Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler\*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
@@ -29,6 +29,7 @@ Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, 
 
 
 ## Rollenspielabende für Neulinge
+<a name="rollenspielabend"></a>
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
 Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*innen einen Einblick in verschiedene Pen & Paper Systeme und Spielstile zu geben.
 
