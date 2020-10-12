@@ -9,6 +9,7 @@ menu:
 ---
 
 > Die Anmeldung zur Freizeit 2020 ist geöffnet! Anmeldung und Infos sind [weiter unten](#freizeit)
+
 > Wir suchen Spielleiter/innen für den digitalen [Rollenspielabend](#rollenspielabende für neulinge) am 13. November 2020!
 
 ## Monatliches Treffen
@@ -61,7 +62,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 -->
 
->Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:00 Uhr**. Wir suchen aktuell **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
+>Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:30 Uhr**. Wir suchen aktuell **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
 >Die momentane Planung sieht vor, dass wir die Anmeldung der Runden über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) stattfinden lassen. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. 
 
