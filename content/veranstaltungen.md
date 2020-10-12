@@ -27,9 +27,9 @@ Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, 
 
 > Wir treffen uns für die Vorstellung der drei Regelsysteme am **Freitag, den 16. Oktober, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
 
-
-## Rollenspielabende für Neulinge
 <a name="rollenspielabend"></a>
+## Rollenspielabende für Neulinge
+
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
 Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*innen einen Einblick in verschiedene Pen & Paper Systeme und Spielstile zu geben.
 
