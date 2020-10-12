@@ -67,12 +67,18 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >Die Begrüßung der Teilnehmer/innen wird entweder über einen eigenen Jitsi-Server oder über einen Youtube-/Twitch-Stream stattfinden. Den entsprechenden Link werdet ihr dann hier finden. Die Spielrunden werden je nach Vorliebe der Spielleitung z.B. über Jitsi, Discord oder Roll20 stattfinden, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden.
 
+>
 >**Geplanter Ablauf (Stand 12.10.20):**
 
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr
+
 >Spielphase 1: 19:00 Uhr - 21:00 Uhr
+
 >Begrüßung 2: 21:00 Uhr - 21:30 Uhr
+
 >Spielphase 2: 21:30 Uhr - 23:30 Uhr
+
+>
 
 >Die Anmeldung für **Spielinteressierte** wird ab dem **Montag, dem 9. November 2020 ab 12:00 Uhr** möglich sein. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen vermutlich nicht möglich sein, aber wir halten euch auf dem Laufenden!
 
