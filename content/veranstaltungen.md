@@ -65,15 +65,12 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >Die momentane Planung sieht vor, dass wir die Anmeldung der Runden über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) stattfinden lassen. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. 
 
-><br/>
 
 >**Geplanter Ablauf (Stand 12.10.20)**<br/>
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
 >Spielphase 1: 19:00 Uhr - 21:00 Uhr<br/>
 >Begrüßung 2: 21:00 Uhr - 21:30 Uhr<br/>
 >Spielphase 2: 21:30 Uhr - 23:30 Uhr
-
-><br/>
 
 >Die Begrüßung der Teilnehmer/innen wird entweder über einen eigenen Jitsi-Server oder über einen Youtube-/Twitch-Stream stattfinden. Den entsprechenden Link werdet ihr dann hier finden. Die Spielrunden werden je nach Vorliebe der Spielleitung z.B. über Jitsi, Discord oder Roll20 stattfinden, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden.
 
