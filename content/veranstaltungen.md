@@ -63,9 +63,11 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 -->
 
->Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:30 Uhr**. Wir suchen aktuell **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
+>Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:30 Uhr**. Wir freuen uns immer über weitere **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
->Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. Interessierte Spieler/innen können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served".
+>Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. 
+
+>Interessierte **Spieler/innen** können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served".
 
 >**Geplanter Ablauf** (Stand 08.11.20)<br/>
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
