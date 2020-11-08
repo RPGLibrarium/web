@@ -10,7 +10,7 @@ menu:
 
 > Die Anmeldung zur Freizeit 2020 ist geöffnet! Anmeldung und Infos sind [weiter unten](#freizeit)
 
-> Wir suchen Spielleiter/innen für den digitalen [Rollenspielabend](#rollenspielabend) am 13. November 2020!
+> Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 13. November 2020!
 
 ## Monatliches Treffen
 Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler\*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
@@ -67,7 +67,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. Interessierte Spieler/innen können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served".
 
->**Geplanter Ablauf (Stand 12.10.20)**<br/>
+>**Geplanter Ablauf** (Stand 08.11.20)<br/>
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
 >Spielphase 1: 19:00 Uhr - 21:00 Uhr<br/>
 >Begrüßung 2: 21:00 Uhr - 21:30 Uhr<br/>
