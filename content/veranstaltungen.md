@@ -67,7 +67,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. 
 
->Interessierte **Spieler/innen** können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served".
+>Interessierte **Spieler/innen** können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served". Bitte meldet euch rechtzeitig an, damit die SLs einen Überblick haben, wie viele Leute sie erwarten können. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen nicht möglich sein.
 
 >**Geplanter Ablauf** (Stand 08.11.20)<br/>
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
@@ -78,9 +78,6 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 >Die Begrüßung der Teilnehmer/innen wird per [YouTube-Livestream](https://www.youtube.com/channel/UCPECWOdg3R9ctupYE7TT0Pg
 ) um 18:30 Uhr stattfinden. Bitte seid pünktlich! Die Spielrunden spielen (je nach Vorliebe der Spielleitung) z.B. über Jitsi, Discord oder Roll20, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden.
 
-><br/>
-
->Die Anmeldung für **Spielinteressierte** wird ab dem **Montag, dem 9. November 2020 ab 12:00 Uhr** möglich sein. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen vermutlich nicht möglich sein, aber wir halten euch auf dem Laufenden!
 
 
 
