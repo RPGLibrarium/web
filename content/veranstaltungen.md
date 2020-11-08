@@ -65,8 +65,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:30 Uhr**. Wir suchen aktuell **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
->Die momentane Planung sieht vor, dass wir die Anmeldung der Runden über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) stattfinden lassen. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. 
-
+>Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. Interessierte Spieler/innen können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served".
 
 >**Geplanter Ablauf (Stand 12.10.20)**<br/>
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
@@ -74,7 +73,8 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 >Begrüßung 2: 21:00 Uhr - 21:30 Uhr<br/>
 >Spielphase 2: 21:30 Uhr - 23:30 Uhr
 
->Die Begrüßung der Teilnehmer/innen wird entweder über einen eigenen Jitsi-Server oder über einen Youtube-/Twitch-Stream stattfinden. Den entsprechenden Link werdet ihr dann hier finden. Die Spielrunden werden je nach Vorliebe der Spielleitung z.B. über Jitsi, Discord oder Roll20 stattfinden, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden.
+>Die Begrüßung der Teilnehmer/innen wird per [YouTube-Livestream](https://www.youtube.com/channel/UCPECWOdg3R9ctupYE7TT0Pg
+) um 18:30 Uhr stattfinden. Bitte seid pünktlich! Die Spielrunden spielen (je nach Vorliebe der Spielleitung) z.B. über Jitsi, Discord oder Roll20, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden.
 
 ><br/>
 
