@@ -67,7 +67,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. 
 
->Interessierte **Spieler/innen** können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served". Bitte meldet euch rechtzeitig an, damit die SLs einen Überblick haben, wie viele Leute sie erwarten können. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen nicht möglich sein.
+>Interessierte **Spieler/innen** können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served". Bitte meldet euch frühzeitig an, damit die SLs einen Überblick haben, wie viele Leute sie erwarten können. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen nicht möglich sein.
 
 >**Geplanter Ablauf** (Stand 08.11.20)<br/>
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
