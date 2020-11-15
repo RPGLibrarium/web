@@ -8,10 +8,6 @@ menu:
     weight: 300
 ---
 
-> Die Anmeldung zur Freizeit 2020 ist geöffnet! Anmeldung und Infos sind [weiter unten](#freizeit)
-
-> Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 13. November 2020!
-
 ## Monatliches Treffen
 Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler\*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
 
@@ -65,7 +61,7 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
 
 -->
-
+<!--
 
 >Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:30 Uhr**. Wir freuen uns immer über weitere **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
@@ -84,7 +80,9 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >Unser **[Frageraum](https://meet.jit.si/Rollenspielabend-Librarium-2020)** ist während des Rollenspielabends für euch da, wenn es um organisatorische, technische, rollenspiel- und vereinsbezogene Fragen geht oder ihr einfach nur über Pen&Paper quatschen wollt! Während der beiden Begrüßungs-Livestreams ist hier vermutlich keiner von uns, aber sonst den ganzen Abend.
 
+-->
 
+>Wir bedanken uns herzlich bei allen Spielleiter/innen, die uns bei unserem ersten digitalen Rollenspielabend mit der Fachschaft I/1 am Freitag, den 13. November 2020 unterstützt haben! Der nächste Rollenspielabend für Neulinge wird voraussichtlich in den ersten Wochen des Sommersemesters 2021 stattfinden.
 
 
 ## Freizeit
