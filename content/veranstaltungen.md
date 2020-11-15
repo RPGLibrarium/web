@@ -19,13 +19,16 @@ Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee v
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. Oktober 2020: Berüchtigte Berühmtheiten im Rollenspielregal**
+> **16. November 2020: Workshop "Immersion im Rollenspiel" / Meet & Greet**
 
-> In den letzten zwei Monaten haben wir euch einige der außergewöhnlichen und unbekannten Rollenspiele aus unserer Sammlung vorgstellt. Dieses Mal geht es in die andere Richtung: Mit Dungeons and Dragons, Das Schwarze Auge und Shadowrun haben wir in unserer Sammlung drei der wohl bekanntesten und größten Rollenspielsysteme. Viele von uns haben wahrscheinlich schon einige davon ausprobiert und sich von den anderen fern gehalten. D&D ist nur Monster schnetzeln, in DSA gibt es für alles eine Regel und in Shadowrun braucht man mehr Würfel als in zwei Hände passen - solche Sachen habt ihr vielleicht schon gehört.
+>Du kletterst die letzten Sprossen der Leiter zum Dach hinauf, Rost und abblätternde Farbe unter deinen Handschuhen. Über dir erstreckt sich ein wolkenverhangener Nachthimmel, unter dir das Straßengewirr von Chiba City voller hupender Autos und Neonreklamen. Ein Blick auf deine Armbanduhr verrät dir, dass du dich beeilen musst. In wenigen Sekunden ist deine Drohne startbereit, die Hebel und Schrauben findest du auch im Dämmerlicht ohne Probleme. Mit einem leisen Surren erhebt sich die Drohne vom Dach und fliegt ihrem Ziel entgegen...
 
-> Beim nächsten Monatstreffen schauen wir den drei Systemen mal unter den Buchdeckel. Wie wird gewürfelt, wie funktioniert Magie, wie sieht die Spielwelt aus und wen spielt man eigentlich? Da unsere Sammlung für diese Editionen am größten ist, betrachten wir D&D 5, DSA 4.1 und Shadowrun 5.
+>Dieses Mal dreht sich in einem kleinen Workshop alles um das Thema "Immersion". Wie entführt ihr eure Spieler/innen in andere Welten oder lasst euch selbst entführen? Was bedeutet Immersion, wofür braucht man sie im Rollenspiel und wie erschafft man eigentlich Atmosphäre im Spiel?
 
-> Wir treffen uns für die Vorstellung der drei Regelsysteme am **Freitag, den 16. Oktober, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
+>Neben dem Workshop gibt's wie immer natürlich alle Zeit der Welt zum Quatschen, Kennenlernen, Geschichten erzählen und gepflegtem Fachsimpeln.
+
+>Wir treffen uns am **Montag, den 16. November, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) und freuen uns insbesondere über alle neue Besucher/innen.
+
 
 <a name="rollenspielabend"></a>
 ## Rollenspielabende für Neulinge
@@ -62,6 +65,7 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
 
 -->
+
 
 >Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:30 Uhr**. Wir freuen uns immer über weitere **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
@@ -195,6 +199,10 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. Oktober 2020: Berüchtigte Berühmtheiten im Rollenspielregal
+In den letzten zwei Monaten haben wir euch einige der außergewöhnlichen und unbekannten Rollenspiele aus unserer Sammlung vorgstellt. Dieses Mal geht es in die andere Richtung: Mit Dungeons and Dragons, Das Schwarze Auge und Shadowrun haben wir in unserer Sammlung drei der wohl bekanntesten und größten Rollenspielsysteme. Viele von uns haben wahrscheinlich schon einige davon ausprobiert und sich von den anderen fern gehalten. D&D ist nur Monster schnetzeln, in DSA gibt es für alles eine Regel und in Shadowrun braucht man mehr Würfel als in zwei Hände passen - solche Sachen habt ihr vielleicht schon gehört.
+
+Beim nächsten Monatstreffen schauen wir den drei Systemen mal unter den Buchdeckel. Wie wird gewürfelt, wie funktioniert Magie, wie sieht die Spielwelt aus und wen spielt man eigentlich? Da unsere Sammlung für diese Editionen am größten ist, betrachten wir D&D 5, DSA 4.1 und Shadowrun 5.
 
 #### 16. September 2020: Piraten, Weltraumschurken & Machoweiber**
 Im September stellt euch Franca drei Regelsysteme aus der Librarium-Sammlung vor. Freut euch auf das draufgängerische Mantel & Degen - Setting "7te See", die Space Opera für Schurken und Rebellen "Am Rande des Imperiums" in der Welt von Star Wars, und den krawalligen Pulp-Humor der "Machoweiber mit dicken Kanonen". 
