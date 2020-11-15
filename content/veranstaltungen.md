@@ -8,12 +8,12 @@ menu:
     weight: 300
 ---
 
-## Monatliches Treffen
-Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler\*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
+## Monatstreffen
+Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, anstehende und/oder erträumte Projekt zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensein eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
 
-Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee von Abenteuern auf Papier mit vielen Würfeln eigentlich ganz witzig findest und das auch mal spielen möchtest -- jede*r, ob Mitglied oder nicht, ist herzlich eingeladen, vorbeizukommen!
+Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
-Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
+Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 
 > **16. November 2020: Workshop "Immersion im Rollenspiel" / Meet & Greet**
 
@@ -24,6 +24,8 @@ Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, 
 >Neben dem Workshop gibt's wie immer natürlich alle Zeit der Welt zum Quatschen, Kennenlernen, Geschichten erzählen und gepflegtem Fachsimpeln.
 
 >Wir treffen uns am **Montag, den 16. November, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) und freuen uns insbesondere über alle neue Besucher/innen.
+
+Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
 
 <a name="rollenspielabend"></a>
@@ -82,7 +84,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 -->
 
->Wir bedanken uns herzlich bei allen Spielleiter/innen, die uns bei unserem ersten digitalen Rollenspielabend mit der Fachschaft I/1 am Freitag, den 13. November 2020 unterstützt haben! Der nächste Rollenspielabend für Neulinge wird voraussichtlich in den ersten Wochen des Sommersemesters 2021 stattfinden.
+>Wir bedanken uns herzlich bei allen Spielleiter/innen, die uns bei unserem ersten digitalen Rollenspielabend mit der Fachschaft I/1 am Freitag, den 13. November 2020 unterstützt haben! Der nächste Rollenspielabend für Einsteiger/innen wird voraussichtlich in den ersten Wochen des Sommersemesters 2021 stattfinden.
 
 
 ## Freizeit
@@ -91,17 +93,22 @@ Wir bieten regelmäßig eine Freizeit über ein verlängertes Wochenende an. Dan
 
 Wir planen Einsteiger- und Veteranenrunden für verschiedene Systeme:
 
-* DSA 4 & 5,
-* Cthulhu,
-* Shadowrun,
-* und alles wofür sich sonst noch Meister und Spieler finden lassen.
+* Das Schwarze Auge
+* Dungeons & Dragons
+* Shadowrun
+* Cthulhu
+* Traveller
+* Power, Plüsch & Plunder
+* Microscope
+* InSpectres
+* ... und alles wofür sich sonst noch SLs und Spieler/innen finden lassen.
 
-Außerdem gibt es auch immer Raum für
+Außerdem gibt es immer Zeit für:
 
-* anregende Gespräche,
-* Gesellschaftsspiele,
-* Spaziergänge in der Umgebung,
-* und ein gemütliches Stöbern in der Librarium eigenen Büchersammlung.
+* anregende Gespräche
+* Gesellschaftsspiele
+* Wanderungen in der Umgebung
+* und ein gemütliches Stöbern in der Librarium-eigenen Büchersammlung.
 
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
 
@@ -111,21 +118,24 @@ Es ist soweit.
 Wir möchten uns mit euch für ein paar Tage dem Alltag entziehen
 und uns gemeinsam in der [Jugendherberge Freusburg](http://www.jugendherberge.de/de-de/jugendherbergen/freusburg359/portraet) dem Pen & Paper spielen widmen.
 
-Geplant haben wir Einsteiger- und Veteranenrunden für verschiedene Systeme, z.B.:
+Es gibt Spielrunden verschiedenster Rollenspielsysteme, darunter normalerweise:
 
-* DSA 4 & 5,
-* Cthulhu,
-* Power Plüsch und Plunder,
-* Shadowrun,
-* Hollow Earth,
-* und alles wofür sich sonst noch Meister und Spieler finden lassen.
+* Das Schwarze Auge
+* Dungeons & Dragons
+* Shadowrun
+* Cthulhu
+* Traveller
+* Power, Plüsch & Plunder
+* Microscope
+* InSpectres
+* ... und alles wofür sich sonst noch SLs und Spieler/innen finden lassen.
 
 Außerdem wird es Raum geben für:
 
-* anregende Gespräche,
-* Gesellschaftsspiele,
-* Spaziergänge in der Umgebung,
-* und ein gemütliches Stöbern in der Librarium eigenen Büchersammlung.
+* anregende Gespräche
+* Gesellschaftsspiele
+* Wanderungen in der Umgebung
+* und ein gemütliches Stöbern in der Librarium-eigenen Büchersammlung.
 
 **Zeitraum:** 02.01. bis 06.01.2021 (4 Übernachtungen)
 
