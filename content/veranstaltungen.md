@@ -8,8 +8,8 @@ menu:
     weight: 300
 ---
 
-Hier geht's zur digitalen [Librarium-Freizeit](#freizeit)!
-...und hier zu den [Weltenbrücken](#weltenbruecken)!
+Hier geht's zur digitalen [Librarium-Freizeit 2021](#freizeit)!
+...und hier zu den [Weltenbrücken 2021](#weltenbruecken)!
 
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
@@ -111,7 +111,7 @@ Außerdem gibt es immer Zeit für:
 * Wanderungen in der Umgebung
 * und ein gemütliches Stöbern in der Librarium-eigenen Büchersammlung.
 
-...und natürlich unser wildes Spielsystem-Crossover "Weltenbrücken", das einzige Pen & Paper für 20+ Leute.
+...und natürlich unser wildes Spielsystem-Crossover ["Weltenbrücken"](#weltenbruecken), das einzige Pen & Paper für 20+ Leute.
 
 <!--
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
@@ -200,8 +200,9 @@ Du bekommst von uns dann eine Mail mit einer Rechnung für die Anzahlung. Erst w
 <a name="weltenbruecken"></a>
 
 ## Weltenbrücken 
-
->Die Freizeit ist nicht genug. Das uns in den letzten beiden Jahre liebgewordene, verrückte spielweltübergreifende Massen-Rollenspiel "Weltenbrücken" geht online, und zwar am **Samstag, den 30. Januar 2021, von 14-18 Uhr**. Für die straffe Organisation der Rundenwechsel benötigen wir eine verbindliche Anmeldung von euch bis zum **3. Januar 2021 um 18 Uhr**.
+Was wäre, wenn die Grenzen zwischen unseren Spielwelten verschwimmen? Das Weltgefüge zerbricht, die fiktiven Realitäten verschmelzen? Wenn sich ein DSA-Magier in der hochtechnologisierten Welt von Shadowrun wiederfindet? Wenn ein Shadowrunner auf cthulhoide Schrecken trifft? Wenn die quietschbunten Kuscheltiere aus Plüsch, Power & Plunder sich mitten in einem Dungeon Crawl wiederfinden? Das Projekt "Weltenbrücken" ist ein skurriles, anarchisches Crossover-Rollenspiel, in dem beliebig viele Spieler/innen zwischen den Spieltischen und damit den verschiedensten Spielwelten hin- und herwechseln. Die Idee entstand auf der Librarium-Freizeit 2018 und wurde 2019 und 2020 tatsächlich umgesetzt. Seitdem behaupten wir stolz, dass "Weltenbrücken" der Höhepunkt einer jeden Librarium-Freizeit ist. 
+ 
+>Das uns in den letzten beiden Jahre liebgewordene, verrückte spielweltübergreifende Massen-Rollenspiel "Weltenbrücken" geht online, und zwar am **Samstag, den 30. Januar 2021, von 14-18 Uhr**. Für die Organisation der Rundenwechsel benötigen wir eine verbindliche Anmeldung von euch bis zum **3. Januar 2021 um 18 Uhr**.
 
 >Außerdem suchen wir natürlich schon Spielleiter/innen, die sich vorstellen können, beim Weltenwandelwahnsinn zu spielleiten. Meldet euch in beiden Fällen an vorstand@rpg-librarium.de. Voraussichtlich wird Weltenbrücken über Jitsi stattfinden und ein Intro gibt es vermutlich per YouTube-Livestream. Informationen folgen!
 
