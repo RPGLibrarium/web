@@ -9,6 +9,7 @@ menu:
 ---
 
 Hier geht's zur digitalen [Librarium-Freizeit](#freizeit)!
+...und hier zu den [Weltenbrücken](#weltenbruecken)!
 
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
@@ -110,20 +111,21 @@ Außerdem gibt es immer Zeit für:
 * Wanderungen in der Umgebung
 * und ein gemütliches Stöbern in der Librarium-eigenen Büchersammlung.
 
+...und natürlich unser wildes Spielsystem-Crossover "Weltenbrücken", das einzige Pen & Paper für 20+ Leute.
+
 <!--
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
 
 Die offizielle Anmeldung folgt dann bald.
 -->
 
->Am Wochenende vom **2. bis 3. Januar 2021** findet die erste digitale Freizeit des Librarium statt. Wir haben uns entschieden, für das Experiment einen Discord-Server aufzusetzen, wo ihr ein schwarzes Brett für Spielrunden finden werdet, mehrere Sprachchannels als digitale Spieltische und den ein oder anderen Channel als "Taverne" zum einfach so Quatschen.
+>Am Wochenende vom **2. bis 3. Januar 2021** findet die erste digitale Freizeit des Librarium statt. Wir haben uns entschieden, dafür einen Discord-Server aufzusetzen, wo ihr ein schwarzes Brett für Spielrunden finden werdet, mehrere Sprachchannels als digitale Spieltische und den ein oder anderen Channel als "Taverne" zum einfach so Quatschen.
 
 >Wie auch bei der Freizeit auf der Freusburg sind wir natürlich auf euer Engagement angewesen, dass die Freizeit lebendig wird und wir freuen uns auf Spielrunden und Workshops, die ihr anbietet!
 
->Wenn ihr Lust habt, bei der Freizeit in der Matrix dabei zu sein, schreibt uns eine Mail an vorstand@rpg-librarium.de und ihr erhaltet am 1. Januar 2021 einen Einladungslink für den Server. Los geht's mit den ersten Spielrunden am Samstag ab ca. 10 Uhr. Ab dann kann rund um die Uhr gespielt, gequatscht und geworkshopt werden. Es gibt keinen Anmeldeschluss, aber frühzeitige Anmeldungen vereinfachen uns die Planung.
+>Wenn ihr Lust habt, bei der Freizeit dabei zu sein, schreibt uns eine Mail an vorstand@rpg-librarium.de und ihr erhaltet am 1. Januar 2021 einen Einladungslink für den Server. Los geht's mit den ersten Spielrunden am Samstag ab ca. 10 Uhr. Ab dann kann rund um die Uhr gespielt, gequatscht und geworkshopt werden. Es gibt keinen Anmeldeschluss, aber frühzeitige Anmeldungen vereinfachen uns die Planung.
 
 >Wir möchten Spiel- und Diskussionsrunden gerne auf den Zeitraum des Wochenendes fokussieren, aber der Server selbst wird noch bis zum 10. Januar 2021 bestehen bleiben - für Runden, die noch nicht beendet wurden und Gespräche, die noch zu Ende geführt werden müssen.
-
 
 <!--
 Es ist soweit.
@@ -194,6 +196,15 @@ Du bekommst von uns dann eine Mail mit einer Rechnung für die Anzahlung. Erst w
 
 **Frist:** Um die Jugendherberge nicht zu häufig zu nerven, werden wir die Nachmeldungen gesammelt vornehmen. Bitte melde dich bis zum **20. November** über den oben stehenden Link nach.
 -->
+
+<a name="weltenbruecken"></a>
+
+##Weltenbrücken 
+
+Die Freizeit ist nicht genug. Das uns in den letzten beiden Jahre liebgewordene, verrückte spielweltübergreifende Massen-Rollenspiel "Weltenbrücken" geht online, und zwar am *Samstag, den 30. Januar 2021, von 14-18 Uhr*. Für die straffe Organisation der Rundenwechsel benötigen wir eine verbindliche Anmeldung von euch bis zum *3. Januar 2021 um 18 Uhr*.
+
+Außerdem suchen wir natürlich schon Spielleiter/innen, die sich vorstellen können, beim Weltenwandelwahnsinn zu spielleiten. Meldet euch in beiden Fällen an vorstand@rpg-librarium.de. Voraussichtlich wird Weltenbrücken über Jitsi stattfinden und ein Intro gibt es vermutlich per YouTube-Livestream. Informationen folgen!
+
 
 ## Conventions
 
