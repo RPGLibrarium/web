@@ -8,6 +8,7 @@ menu:
     weight: 300
 ---
 
+Hier geht's zur digitalen Freizeit! [freizeit](#freizeit)
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
 
@@ -84,9 +85,9 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >Wir bedanken uns herzlich bei allen Spielleiter/innen, die uns bei unserem ersten digitalen Rollenspielabend mit der Fachschaft I/1 am Freitag, den 13. November 2020 unterstützt haben! Der nächste Rollenspielabend für Einsteiger/innen wird voraussichtlich in den ersten Wochen des Sommersemesters 2021 stattfinden.
 
-
+<a name="freizeit"></a>
 ## Freizeit
-<!--
+
 Wir bieten regelmäßig eine Freizeit über ein verlängertes Wochenende an. Dann möchten wir uns mit euch für ein paar Tage dem Alltag entziehen und uns gemeinsam in einer Jugendherberge dem Pen & Paper widmen.
 
 Wir planen Einsteiger- und Veteranenrunden für verschiedene Systeme:
@@ -108,10 +109,22 @@ Außerdem gibt es immer Zeit für:
 * Wanderungen in der Umgebung
 * und ein gemütliches Stöbern in der Librarium-eigenen Büchersammlung.
 
+<!--
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
 
 Die offizielle Anmeldung folgt dann bald.
 -->
+
+>Am Wochenende vom *2. bis 3. Januar 2021* findet die erste digitale Freizeit des Librarium statt. Wir haben uns entschieden, für das Experiment einen Discord-Server aufzusetzen, wo ihr ein schwarzes Brett für Spielrunden finden werdet, mehrere Sprachchannels als digitale Spieltische und den ein oder anderen Channel als "Taverne" zum einfach so Quatschen.
+
+>Wie auch bei der Freizeit auf der Freusburg sind wir natürlich auf euer Engagement angewesen, dass die Freizeit lebendig wird und wir freuen uns auf Spielrunden und Workshops, die ihr anbietet!
+
+>Wenn ihr Lust habt, bei der Freizeit in der Matrix dabei zu sein, schreibt uns eine Mail an vorstand@rpg-librarium.de und ihr erhaltet am 1. Januar 2021 einen Einladungslink für den Server. Los geht's mit den ersten Spielrunden am Samstag ab ca. 10 Uhr. Ab dann kann rund um die Uhr gespielt, gequatscht und geworkshopt werden. Es gibt keinen Anmeldeschluss, aber frühzeitige Anmeldungen vereinfachen uns die Planung.
+
+>Wir möchten Spiel- und Diskussionsrunden gerne auf den Zeitraum des Wochenendes fokussieren, aber der Server selbst wird noch bis zum 10. Januar 2021 bestehen bleiben - für Runden, die noch nicht beendet wurden und Gespräche, die noch zu Ende geführt werden müssen.
+
+
+<!--
 Es ist soweit.
 Wir möchten uns mit euch für ein paar Tage dem Alltag entziehen
 und uns gemeinsam in der [Jugendherberge Freusburg](http://www.jugendherberge.de/de-de/jugendherbergen/freusburg359/portraet) dem Pen & Paper spielen widmen.
@@ -172,7 +185,7 @@ Weil sich einige beklagt haben, dass ihre E-Mail-Clients nicht mit Mailto-Links 
 ```
  ncat --ssl-verify rpg-librarium.de 8080
 ```
-
+-->
 <!--
 ### Nachmeldung
 Wir jedes Jahr können wir noch versuchen Menschen bei der Jugendherberge nachzumelden. Leider ist die Stornierung ab jetzt aber nicht mehr kostenfrei. Deshalb benötigen wir von euch vorab eine verbindliche Zusage, damit das Risiko nicht auf dem Verein liegt. Dafür musst du uns eine [Anmeldungs Mail über diesen Mailto-Link](mailto:vorstand@rpg-librarium.de?subject=Librarium%20Freizeit%202021&body=Lieber%20Vorstand%2C%0A%0Aich%20melde%20mich%20verbindlich%20vom%2002.01.%20bis%2006.01.2021%20zur%20Librarium-Freizeit%20an.%20Die%20Vorauszahlung%20des%20Teilnahmebeitrag%20%C3%BCberweise%20ich%20nach%20dem%20Erhalt%20der%20Zahlungsaufforderung.%20Mir%20ist%20bewusst%2C%20dass%20der%20RPG%20Librarium%20Aachen%20e.V.%20erst%20die%20Teilname%20garantieren%20kann%2C%20wenn%20eine%20Zusage%20der%20Jugendherberge%20vorliegt.%20%20%0A%0AName%3A%0AAlter%3A%0AAnschrift%3A%0AMail%3A%0ABemerkungen%20(Nahrungsmittelrestriktionen%20o.%C3%A4.)%3A%0A%0ASch%C3%B6ne%20Gr%C3%BC%C3%9Fe) schicken.
