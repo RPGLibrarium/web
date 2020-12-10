@@ -8,7 +8,8 @@ menu:
     weight: 300
 ---
 
-Hier geht's zur digitalen Freizeit! [freizeit](#freizeit)
+Hier geht's zur digitalen [Librarium-Freizeit](#freizeit)!
+
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
 
@@ -115,7 +116,7 @@ Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
 Die offizielle Anmeldung folgt dann bald.
 -->
 
->Am Wochenende vom *2. bis 3. Januar 2021* findet die erste digitale Freizeit des Librarium statt. Wir haben uns entschieden, für das Experiment einen Discord-Server aufzusetzen, wo ihr ein schwarzes Brett für Spielrunden finden werdet, mehrere Sprachchannels als digitale Spieltische und den ein oder anderen Channel als "Taverne" zum einfach so Quatschen.
+>Am Wochenende vom **2. bis 3. Januar 2021** findet die erste digitale Freizeit des Librarium statt. Wir haben uns entschieden, für das Experiment einen Discord-Server aufzusetzen, wo ihr ein schwarzes Brett für Spielrunden finden werdet, mehrere Sprachchannels als digitale Spieltische und den ein oder anderen Channel als "Taverne" zum einfach so Quatschen.
 
 >Wie auch bei der Freizeit auf der Freusburg sind wir natürlich auf euer Engagement angewesen, dass die Freizeit lebendig wird und wir freuen uns auf Spielrunden und Workshops, die ihr anbietet!
 
