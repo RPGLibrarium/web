@@ -14,15 +14,11 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 
 
-> **16. November 2020: Workshop "Immersion im Rollenspiel" / Meet & Greet**
+> **16. Dezember 2020: Dungeon Crawl X-Mas Edition**
 
->Du kletterst die letzten Sprossen der Leiter zum Dach hinauf, Rost und abblätternde Farbe unter deinen Handschuhen. Über dir erstreckt sich ein wolkenverhangener Nachthimmel, unter dir das Straßengewirr von Chiba City voller hupender Autos und Neonreklamen. Ein Blick auf deine Armbanduhr verrät dir, dass du dich beeilen musst. In wenigen Sekunden ist deine Drohne startbereit, die Hebel und Schrauben findest du auch im Dämmerlicht ohne Probleme. Mit einem leisen Surren erhebt sich die Drohne vom Dach und fliegt ihrem Ziel entgegen...
+>Werde Teil des einzigartigen Dungeon-Creators des Librarium! Wir basteln zusammen den gefährlichsten! den epischsten! den weihnachtlichsten! Dungeon Crawl der Librarium-Historie. Schnappt euch Kakao und Glühwein und kommt zur jährlichen Librarium-Weihnachtsfeier, auf dass wir gemeinsam mit der Schar der Goblins frohlocken und am Ende der Quest reichlich Loot unter dem Tannenbaum finden mögen.
 
->Dieses Mal dreht sich in einem kleinen Workshop alles um das Thema "Immersion". Wie entführt ihr eure Spieler/innen in andere Welten oder lasst euch selbst entführen? Was bedeutet Immersion, wofür braucht man sie im Rollenspiel und wie erschafft man eigentlich Atmosphäre im Spiel?
-
->Neben dem Workshop gibt's wie immer natürlich alle Zeit der Welt zum Quatschen, Kennenlernen, Geschichten erzählen und gepflegtem Fachsimpeln.
-
->Wir treffen uns am **Montag, den 16. November, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) und freuen uns insbesondere über alle neue Besucher/innen.
+>Wir treffen uns am **Mittwoch, den 16. Dezember, ab 19 Uhr**, zu Dungeon Crawl und Weihnachtsfeier digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen).
 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
@@ -209,6 +205,11 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. November 2020: Workshop "Immersion im Rollenspiel"
+Du kletterst die letzten Sprossen der Leiter zum Dach hinauf, Rost und abblätternde Farbe unter deinen Handschuhen. Über dir erstreckt sich ein wolkenverhangener Nachthimmel, unter dir das Straßengewirr von Chiba City voller hupender Autos und Neonreklamen. Ein Blick auf deine Armbanduhr verrät dir, dass du dich beeilen musst. In wenigen Sekunden ist deine Drohne startbereit, die Hebel und Schrauben findest du auch im Dämmerlicht ohne Probleme. Mit einem leisen Surren erhebt sich die Drohne vom Dach und fliegt ihrem Ziel entgegen...
+Dieses Mal dreht sich in einem kleinen Workshop alles um das Thema "Immersion". Wie entführt ihr eure Spieler/innen in andere Welten oder lasst euch selbst entführen? Was bedeutet Immersion, wofür braucht man sie im Rollenspiel und wie erschafft man eigentlich Atmosphäre im Spiel?
+
 #### 16. Oktober 2020: Berüchtigte Berühmtheiten im Rollenspielregal
 In den letzten zwei Monaten haben wir euch einige der außergewöhnlichen und unbekannten Rollenspiele aus unserer Sammlung vorgstellt. Dieses Mal geht es in die andere Richtung: Mit Dungeons and Dragons, Das Schwarze Auge und Shadowrun haben wir in unserer Sammlung drei der wohl bekanntesten und größten Rollenspielsysteme. Viele von uns haben wahrscheinlich schon einige davon ausprobiert und sich von den anderen fern gehalten. D&D ist nur Monster schnetzeln, in DSA gibt es für alles eine Regel und in Shadowrun braucht man mehr Würfel als in zwei Hände passen - solche Sachen habt ihr vielleicht schon gehört.
 
