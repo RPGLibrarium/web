@@ -18,11 +18,11 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 
 
-> **16. Dezember 2020: Dungeon Crawl X-Mas Edition**
+> **16. Januar 2021: Gesellige Runde**
 
->Werde Teil des einzigartigen Dungeon-Creators des Librarium! Wir basteln zusammen den gefährlichsten! den epischsten! den weihnachtlichsten! Dungeon Crawl der Librarium-Historie. Schnappt euch Kakao und Glühwein und kommt zur jährlichen Librarium-Weihnachtsfeier, auf dass wir gemeinsam mit der Schar der Goblins frohlocken und am Ende der Quest reichlich Loot unter dem Tannenbaum finden mögen.
+>Nach der Librarium-Freizeit und vo Weltenbrücken gehen wir das erste Treffen des Jahres ganz entspannt an und  planen nicht mehr und nicht weniger als nette Gespräche in geselliger Runde. Wir freuen uns auf euch!
 
->Wir treffen uns am **Mittwoch, den 16. Dezember, ab 19 Uhr**, zu Dungeon Crawl und Weihnachtsfeier digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen).
+>Wir treffen uns am **Samstag, den 16. Januar, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen).
 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
@@ -234,6 +234,10 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. Dezember 2020: Dungeon Crawl X-Mas Edition
+
+Werde Teil des einzigartigen Dungeon-Creators des Librarium! Wir basteln zusammen den gefährlichsten! den epischsten! den weihnachtlichsten! Dungeon Crawl der Librarium-Historie. Schnappt euch Kakao und Glühwein und kommt zur jährlichen Librarium-Weihnachtsfeier, auf dass wir gemeinsam mit der Schar der Goblins frohlocken und am Ende der Quest reichlich Loot unter dem Tannenbaum finden mögen.
 
 #### 16. November 2020: Workshop "Immersion im Rollenspiel"
 Du kletterst die letzten Sprossen der Leiter zum Dach hinauf, Rost und abblätternde Farbe unter deinen Handschuhen. Über dir erstreckt sich ein wolkenverhangener Nachthimmel, unter dir das Straßengewirr von Chiba City voller hupender Autos und Neonreklamen. Ein Blick auf deine Armbanduhr verrät dir, dass du dich beeilen musst. In wenigen Sekunden ist deine Drohne startbereit, die Hebel und Schrauben findest du auch im Dämmerlicht ohne Probleme. Mit einem leisen Surren erhebt sich die Drohne vom Dach und fliegt ihrem Ziel entgegen...
