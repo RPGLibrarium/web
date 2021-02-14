@@ -18,11 +18,11 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 
 
-> **16. Januar 2021: Gesellige Runde**
+> **16. Februar 2021: Virtuelle Rollenspielplattformen**
 
->Nach der Librarium-Freizeit und vo Weltenbrücken gehen wir das erste Treffen des Jahres ganz entspannt an und  planen nicht mehr und nicht weniger als nette Gespräche in geselliger Runde. Wir freuen uns auf euch!
+>Ob wir wollen oder nicht, haben sich die meisten von uns inzwischen mit rein digitalen Rollenspielrunden arrangiert. Vor fast einem Jahr hat uns Lamin in die Plattform Roll20 eingeführt. Aber welche Alternativen gibt's außer Roll20 eigentlich noch, um das Online-Rollenspiel atmosphärisch und immersiv zu gestalten? Beim nächsten Monatstreffen gibt es eine Tour durch die Weiten der virtuellen Rollenspielplattformen!
 
->Wir treffen uns am **Samstag, den 16. Januar, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen).
+>Wir treffen uns am **Dienstag, den 16. Februar, ab 19 Uhr**, digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen).
 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
@@ -234,6 +234,10 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. Januar 2021: Gesellige Runde
+
+Nach der Librarium-Freizeit und vo Weltenbrücken gehen wir das erste Treffen des Jahres ganz entspannt an und planen nicht mehr und nicht weniger als nette Gespräche in geselliger Runde. Wir freuen uns auf euch!
 
 #### 16. Dezember 2020: Dungeon Crawl X-Mas Edition
 
