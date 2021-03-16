@@ -235,7 +235,7 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 ## Vergangene Veranstaltungen
 
 #### 16. Februar 2021: Virtuelle Rollenspielplattformen
->b wir wollen oder nicht, haben sich die meisten von uns inzwischen mit rein digitalen Rollenspielrunden arrangiert. Vor fast einem Jahr hat uns Lamin in die Plattform Roll20 eingeführt. Aber welche Alternativen gibt's außer Roll20 eigentlich noch, um das Online-Rollenspiel atmosphärisch und immersiv zu gestalten? Beim nächsten Monatstreffen gibt es eine Tour durch die Weiten der virtuellen Rollenspielplattformen!
+Ob wir wollen oder nicht, haben sich die meisten von uns inzwischen mit rein digitalen Rollenspielrunden arrangiert. Vor fast einem Jahr hat uns Lamin in die Plattform Roll20 eingeführt. Aber welche Alternativen gibt's außer Roll20 eigentlich noch, um das Online-Rollenspiel atmosphärisch und immersiv zu gestalten? Beim nächsten Monatstreffen gibt es eine Tour durch die Weiten der virtuellen Rollenspielplattformen!
 
 #### 16. Januar 2021: Gesellige Runde
 Nach der Librarium-Freizeit und vo Weltenbrücken gehen wir das erste Treffen des Jahres ganz entspannt an und planen nicht mehr und nicht weniger als nette Gespräche in geselliger Runde. Wir freuen uns auf euch!
