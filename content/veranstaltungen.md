@@ -64,14 +64,13 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 -->
 
-
 >Wir laden ein zum zweiten digitalen Rollenspielabend des Librarium! Nach positiven Erfahrungen mit dem ersten digitalen Rollenspielabend im November 2020 freuen wir uns darauf, dass der traditionelle Rollenspielabend mit der Fachschaft auch dieses Semester möglich sein wird. Das digitale Event findet statt am **Samstag, den 08. November 2021 ab 18:30 Uhr**. Wir freuen uns über alle **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
 >Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://etherpad.fachschaften.rwth-aachen.de/p/RPG-Librarium-Fachschaft-2021-05-08-Phase-1), [zweite Spielphase](https://etherpad.fachschaften.rwth-aachen.de/p/RPG-Librarium-Fachschaft-2021-05-08-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen - je früher, desto besser.
 
 >Interessierte **Spieler/innen** können sich **ab Mittwoch, den 5. Mai, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served". Bitte meldet euch frühzeitig an, damit die SLs einen Überblick haben, wie viele Leute sie erwarten können. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen nicht möglich sein.
 
->**Geplanter Ablauf** (Stand 08.11.20)<br/>
+>**Geplanter Ablauf** ***(Stand 11.04.21)***<br/>
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
 >Spielphase 1: 19:00 Uhr - 21:00 Uhr<br/>
 >Begrüßung 2: 21:00 Uhr - 21:30 Uhr<br/>
@@ -83,10 +82,10 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 <!--
 >Unser **[Frageraum](https://meet.jit.si/Rollenspielabend-Librarium-2020)** ist während des Rollenspielabends für euch da, wenn es um organisatorische, technische, rollenspiel- und vereinsbezogene Fragen geht oder ihr einfach nur über Pen&Paper quatschen wollt! Während der beiden Begrüßungs-Livestreams ist hier vermutlich keiner von uns, aber sonst den ganzen Abend.
 
--->
+
 
 >Wir bedanken uns herzlich bei allen Spielleiter/innen, die uns bei unserem ersten digitalen Rollenspielabend mit der Fachschaft I/1 am Freitag, den 13. November 2020 unterstützt haben! Der nächste Rollenspielabend für Einsteiger/innen wird voraussichtlich in den ersten Wochen des Sommersemesters 2021 stattfinden.
-
+-->
 <a name="freizeit"></a>
 ## Freizeit
 
