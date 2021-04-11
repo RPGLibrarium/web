@@ -8,9 +8,7 @@ menu:
     weight: 300
 ---
 
-Hier geht's zur digitalen [Librarium-Freizeit 2021](#freizeit)!
-
-...und hier zu den [Weltenbrücken 2021](#weltenbruecken)!
+Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 08. Mai 2021!
 
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
@@ -18,11 +16,12 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 
 
-> **16. März 2021: Schätze im Schrank**
+> **16. April 2021: Was ist Tiddlywiki?**
 
->Mittlerweile hat der Librarium mehr als 200 Bücher in seiner Sammlung. Darunter viele bekannte Systeme wie D&D, DSA und Shadowrun, aber auch einige relativ unbekannte, von denen wir euch im letzten Jahr ein paar im Detail vorgestellt haben. Morgen möchte euch Franca ein paar coole Bücher vorstellen, die sonst selten angeschaut oder geliehen werden. Danach ist, wie immer, Zeit sich zu unterhalten.
+>Bei unserem nächsten Monatstreffen präsentiert uns David das System Tiddlywiki. Tiddlywiki beschreibt sich selbst als nicht-lineares Notizbuch. Man könnte es auch als Wiki-Lexikon im Kleinformat beschreiben. Die Software läuft fast vollständig im Browser und ein Notizbuch besteht aus nur einer einzelnen Datei.
+David wird euch die Software allgemein kurz vorstellen. Außerdem zeigt er ausführlich, wie er Tiddlywiki für seine Spielleiternotizen nutzt und wie man es anpassen kann, um seine Notizen für Rollenspiele noch besser zu organisieren.
 
->Wir treffen uns am **Dienstag, den 16. März, ab 19 Uhr,** digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen). 
+>Wir treffen uns am **Freitag, den 16. April, ab 19 Uhr,** digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen). Wie immer ist danach natürlich noch Zeit zum Quatschen und Plaudern! 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
@@ -233,6 +232,9 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. März 2021: Schätze im Schrank
+Mittlerweile hat der Librarium mehr als 200 Bücher in seiner Sammlung. Darunter viele bekannte Systeme wie D&D, DSA und Shadowrun, aber auch einige relativ unbekannte, von denen wir euch im letzten Jahr ein paar im Detail vorgestellt haben. Beim Monatstreffen wird euch Franca ein paar coole Bücher vorstellen, die sonst selten angeschaut oder geliehen werden. 
 
 #### 16. Februar 2021: Virtuelle Rollenspielplattformen
 Ob wir wollen oder nicht, haben sich die meisten von uns inzwischen mit rein digitalen Rollenspielrunden arrangiert. Vor fast einem Jahr hat uns Lamin in die Plattform Roll20 eingeführt. Aber welche Alternativen gibt's außer Roll20 eigentlich noch, um das Online-Rollenspiel atmosphärisch und immersiv zu gestalten? Beim nächsten Monatstreffen gibt es eine Tour durch die Weiten der virtuellen Rollenspielplattformen!
