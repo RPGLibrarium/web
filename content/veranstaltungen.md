@@ -8,9 +8,7 @@ menu:
     weight: 300
 ---
 
-Hier geht's zur digitalen [Librarium-Freizeit 2021](#freizeit)!
-
-...und hier zu den [Weltenbrücken 2021](#weltenbruecken)!
+Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 08. Mai 2021!
 
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
@@ -18,12 +16,12 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 
 
-> **16. Dezember 2020: Dungeon Crawl X-Mas Edition**
+> **16. April 2021: Was ist Tiddlywiki?**
 
->Werde Teil des einzigartigen Dungeon-Creators des Librarium! Wir basteln zusammen den gefährlichsten! den epischsten! den weihnachtlichsten! Dungeon Crawl der Librarium-Historie. Schnappt euch Kakao und Glühwein und kommt zur jährlichen Librarium-Weihnachtsfeier, auf dass wir gemeinsam mit der Schar der Goblins frohlocken und am Ende der Quest reichlich Loot unter dem Tannenbaum finden mögen.
+>Bei unserem nächsten Monatstreffen präsentiert uns David das System Tiddlywiki. Tiddlywiki beschreibt sich selbst als nicht-lineares Notizbuch. Man könnte es auch als Wiki-Lexikon im Kleinformat beschreiben. Die Software läuft fast vollständig im Browser und ein Notizbuch besteht aus nur einer einzelnen Datei.
+David wird euch die Software allgemein kurz vorstellen. Außerdem zeigt er ausführlich, wie er Tiddlywiki für seine Spielleiternotizen nutzt und wie man es anpassen kann, um seine Notizen für Rollenspiele noch besser zu organisieren.
 
->Wir treffen uns am **Mittwoch, den 16. Dezember, ab 19 Uhr**, zu Dungeon Crawl und Weihnachtsfeier digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen).
-
+>Wir treffen uns am **Freitag, den 16. April, ab 19 Uhr,** digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen). Wie immer ist danach natürlich noch Zeit zum Quatschen und Plaudern! 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
@@ -65,29 +63,29 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
 
 -->
-<!--
 
->Im kommenden Wintersemester wagen wir uns an den ersten rein digitalen Rollenspieleabend des Librarium. Stattfinden wird das digitale Event am **Freitag, den 13. November 2020 ab 18:30 Uhr**. Wir freuen uns immer über weitere **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
+>Wir laden ein zum zweiten digitalen Rollenspielabend des Librarium! Nach positiven Erfahrungen mit dem ersten digitalen Rollenspielabend im November 2020 freuen wir uns darauf, dass der traditionelle Rollenspielabend mit der Fachschaft auch dieses Semester möglich sein wird. Das digitale Event findet statt am **Samstag, den 08. November 2021 ab 18:30 Uhr**. Wir freuen uns über alle **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
->Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-1), [zweite Spielphase](https://fachschaften.rwth-aachen.de/etherpad/p/RPG-Librarium-Fachschaft-2020-11-13-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen. 
+>Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://etherpad.fachschaften.rwth-aachen.de/p/RPG-Librarium-Fachschaft-2021-05-08-Phase-1), [zweite Spielphase](https://etherpad.fachschaften.rwth-aachen.de/p/RPG-Librarium-Fachschaft-2021-05-08-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen - je früher, desto besser.
 
->Interessierte **Spieler/innen** können sich **ab Montag, den 9. November, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served". Bitte meldet euch frühzeitig an, damit die SLs einen Überblick haben, wie viele Leute sie erwarten können. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen nicht möglich sein.
+>Interessierte **Spieler/innen** können sich **ab Mittwoch, den 5. Mai, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served". Bitte meldet euch frühzeitig an, damit die SLs einen Überblick haben, wie viele Leute sie erwarten können. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen nicht möglich sein.
 
->**Geplanter Ablauf** (Stand 08.11.20)<br/>
+>**Geplanter Ablauf** ***(Stand 11.04.21)***<br/>
 >Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
 >Spielphase 1: 19:00 Uhr - 21:00 Uhr<br/>
 >Begrüßung 2: 21:00 Uhr - 21:30 Uhr<br/>
 >Spielphase 2: 21:30 Uhr - 23:30 Uhr
 
 >**Die Begrüßung der Teilnehmer/innen wird per [YouTube-Livestream](https://www.youtube.com/channel/UCPECWOdg3R9ctupYE7TT0Pg
-) um 18:30 Uhr und um 21:00 Uhr stattfinden.** Bitte seid pünktlich! Die Spielrunden spielen (je nach Vorliebe der Spielleitung) z.B. über Jitsi, Discord oder Roll20, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden.
+) um 18:30 Uhr und um 21:00 Uhr stattfinden.** Bitte seid pünktlich! Die Spielrunden spielen (je nach Vorliebe der Spielleitung) z.B. über Jitsi, Discord oder Roll20, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden. Bei Fragen zum Ablauf schickt uns einfach eine Mail an vorstand@rpg-librarium.de.
 
+<!--
 >Unser **[Frageraum](https://meet.jit.si/Rollenspielabend-Librarium-2020)** ist während des Rollenspielabends für euch da, wenn es um organisatorische, technische, rollenspiel- und vereinsbezogene Fragen geht oder ihr einfach nur über Pen&Paper quatschen wollt! Während der beiden Begrüßungs-Livestreams ist hier vermutlich keiner von uns, aber sonst den ganzen Abend.
 
--->
+
 
 >Wir bedanken uns herzlich bei allen Spielleiter/innen, die uns bei unserem ersten digitalen Rollenspielabend mit der Fachschaft I/1 am Freitag, den 13. November 2020 unterstützt haben! Der nächste Rollenspielabend für Einsteiger/innen wird voraussichtlich in den ersten Wochen des Sommersemesters 2021 stattfinden.
-
+-->
 <a name="freizeit"></a>
 ## Freizeit
 
@@ -234,6 +232,18 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. März 2021: Schätze im Schrank
+Mittlerweile hat der Librarium mehr als 200 Bücher in seiner Sammlung. Darunter viele bekannte Systeme wie D&D, DSA und Shadowrun, aber auch einige relativ unbekannte, von denen wir euch im letzten Jahr ein paar im Detail vorgestellt haben. Beim Monatstreffen wird euch Franca ein paar coole Bücher vorstellen, die sonst selten angeschaut oder geliehen werden. 
+
+#### 16. Februar 2021: Virtuelle Rollenspielplattformen
+Ob wir wollen oder nicht, haben sich die meisten von uns inzwischen mit rein digitalen Rollenspielrunden arrangiert. Vor fast einem Jahr hat uns Lamin in die Plattform Roll20 eingeführt. Aber welche Alternativen gibt's außer Roll20 eigentlich noch, um das Online-Rollenspiel atmosphärisch und immersiv zu gestalten? Beim nächsten Monatstreffen gibt es eine Tour durch die Weiten der virtuellen Rollenspielplattformen!
+
+#### 16. Januar 2021: Gesellige Runde
+Nach der Librarium-Freizeit und vo Weltenbrücken gehen wir das erste Treffen des Jahres ganz entspannt an und planen nicht mehr und nicht weniger als nette Gespräche in geselliger Runde. Wir freuen uns auf euch!
+
+#### 16. Dezember 2020: Dungeon Crawl X-Mas Edition
+Werde Teil des einzigartigen Dungeon-Creators des Librarium! Wir basteln zusammen den gefährlichsten! den epischsten! den weihnachtlichsten! Dungeon Crawl der Librarium-Historie. Schnappt euch Kakao und Glühwein und kommt zur jährlichen Librarium-Weihnachtsfeier, auf dass wir gemeinsam mit der Schar der Goblins frohlocken und am Ende der Quest reichlich Loot unter dem Tannenbaum finden mögen.
 
 #### 16. November 2020: Workshop "Immersion im Rollenspiel"
 Du kletterst die letzten Sprossen der Leiter zum Dach hinauf, Rost und abblätternde Farbe unter deinen Handschuhen. Über dir erstreckt sich ein wolkenverhangener Nachthimmel, unter dir das Straßengewirr von Chiba City voller hupender Autos und Neonreklamen. Ein Blick auf deine Armbanduhr verrät dir, dass du dich beeilen musst. In wenigen Sekunden ist deine Drohne startbereit, die Hebel und Schrauben findest du auch im Dämmerlicht ohne Probleme. Mit einem leisen Surren erhebt sich die Drohne vom Dach und fliegt ihrem Ziel entgegen...
