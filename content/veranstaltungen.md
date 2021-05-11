@@ -65,7 +65,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 -->
 
->Wir laden ein zum zweiten digitalen Rollenspielabend des Librarium! Nach positiven Erfahrungen mit dem ersten digitalen Rollenspielabend im November 2020 freuen wir uns darauf, dass der traditionelle Rollenspielabend mit der Fachschaft auch dieses Semester möglich sein wird. Das digitale Event findet statt am **Samstag, den 08. November 2021 ab 18:30 Uhr**. Wir freuen uns über alle **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
+>Wir laden ein zum zweiten digitalen Rollenspielabend des Librarium! Nach positiven Erfahrungen mit dem ersten digitalen Rollenspielabend im November 2020 freuen wir uns darauf, dass der traditionelle Rollenspielabend mit der Fachschaft auch dieses Semester möglich sein wird. Das digitale Event findet statt am **Samstag, den 08. Mai 2021 ab 18:30 Uhr**. Wir freuen uns über alle **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
 >Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://etherpad.fachschaften.rwth-aachen.de/p/RPG-Librarium-Fachschaft-2021-05-08-Phase-1), [zweite Spielphase](https://etherpad.fachschaften.rwth-aachen.de/p/RPG-Librarium-Fachschaft-2021-05-08-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen - je früher, desto besser.
 
