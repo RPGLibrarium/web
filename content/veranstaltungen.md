@@ -16,13 +16,11 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 
 
->**16. Mai 2021: Show & Tell: Rollenspielnahe Freizeitbewältigung**
+>**16. Juni 2021: Sommerabend-Runde**
 
->Was machen wir rollenspielaffine Menschen eigentlich in unserer Freizeit, also außerhalb von Spielrunden? Ärgert euer Mitbewohner euch wieder, weil er seine Schafe nicht gegen Erz tauschen will oder die Rätselschablone nicht richtig ausgeschnitten hat? Reitet ihr vor dem Bildschirm auf dem Pferd Plötze durch Vehlen, malt ihr im Keller riesige Skaven-Horden an? Oder blättert ihr lieber zu Seite 15, weil ihr den rechten Gang gewählt habt?
+>An einem lauen Sommerabend treffen wir uns mit literweise Eis und fruchtig-bunten Cocktails in geselliger Runde zum Quatschen. Wir freuen uns auf euch! 
 
->Bringt eure liebsten, weitestgehend rollenspielnahen Freizeitaktivitäten zum nächsten Monatstreffen mit! Dazu zählen Singleplayer-Abenteuer aus den Tiefen des Fanfic-Internets genauso wie Bücher, Videospiele, Bastelideen und natürlich *deine* persönliche Lieblingsbeschäftigung. In diesem Show & Tell könnt ihr neue Ideen für eure eigene Zeitgestaltung sammeln und allen anderen den Geheimtipp schlechthin geben!
-
->Wir treffen uns am **Sonntag, den 16. Mai, ab 19 Uhr,** digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen). Wie immer ist danach natürlich noch Zeit zum Quatschen und Plaudern! 
+>Wir treffen uns am **Mittwoch, den 16. Juni, ab 19 Uhr,** digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen). 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
@@ -233,6 +231,10 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+
+#### 16. Mai 2021: Show & Tell: Rollenspielnahe Freizeitbewältigung
+Was machen wir rollenspielaffine Menschen eigentlich in unserer Freizeit, also außerhalb von Spielrunden? Ärgert euer Mitbewohner euch wieder, weil er seine Schafe nicht gegen Erz tauschen will oder die Rätselschablone nicht richtig ausgeschnitten hat? Reitet ihr vor dem Bildschirm auf dem Pferd Plötze durch Vehlen, malt ihr im Keller riesige Skaven-Horden an? Oder blättert ihr lieber zu Seite 15, weil ihr den rechten Gang gewählt habt?
+Bringt eure liebsten, weitestgehend rollenspielnahen Freizeitaktivitäten zum nächsten Monatstreffen mit! Dazu zählen Singleplayer-Abenteuer aus den Tiefen des Fanfic-Internets genauso wie Bücher, Videospiele, Bastelideen und natürlich *deine* persönliche Lieblingsbeschäftigung. In diesem Show & Tell könnt ihr neue Ideen für eure eigene Zeitgestaltung sammeln und allen anderen den Geheimtipp schlechthin geben!
 
 #### 16. April 2021: Was ist Tiddlywiki?
 Bei unserem nächsten Monatstreffen präsentiert uns David das System Tiddlywiki. Tiddlywiki beschreibt sich selbst als nicht-lineares Notizbuch. Man könnte es auch als Wiki-Lexikon im Kleinformat beschreiben. Die Software läuft fast vollständig im Browser und ein Notizbuch besteht aus nur einer einzelnen Datei. David wird euch die Software allgemein kurz vorstellen. Außerdem zeigt er ausführlich, wie er Tiddlywiki für seine Spielleiternotizen nutzt und wie man es anpassen kann, um seine Notizen für Rollenspiele noch besser zu organisieren.
