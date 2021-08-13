@@ -18,9 +18,17 @@ Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 
 >**16. Juni 2021: Sommerabend-Runde**
 
->An einem lauen Sommerabend treffen wir uns mit literweise Eis und fruchtig-bunten Cocktails in geselliger Runde zum Quatschen. Wir freuen uns auf euch! 
+>Wir laden herzlich ein zum Librarium-Sommerfest! Ihr findet uns auf der Grillfläche im Westpark. Wir stellen den Grill; Grillgut und Getränke könnt ihr selbst mitbringen. Ebenfalls dürft ihr natürlich Spiele, Bücher, Frisbees, Bälle und brennende Jonglierfackeln mitbringen, wenn ihr möchtet. Picknickdecken wären auch praktisch (z.B., um das Feuer von den Jonglierfackeln zu löschen, aber auch zum Draufsitzen).
 
+>Bitte denkt auch an ein negatives Testergebnis oder einen Impfnachweis (es gilt Getestet/Geimpft/Genesen - ihr kennt das ja). Außerdem werden wir eine Kontaktliste führen.
+
+>Die Veranstaltung ist übrigens eine ausgezeichnete Gelegenheit, um sich ein paar Bücher aus dem Librarium-Schrank abzuholen, welcher sich in nächster Nähe zum Westpark befindet. Sagt einfach vorher kurz Bescheid (per Mail an der Vorstand oder auch privat an Franca).
+
+>Wir treffen uns am Montag, den *16. August, ab 19 Uhr* im Westpark am [Grillplatz](https://osm.org/go/0GAnEWg83?m=). Vermutlich sind schon ab 18:30 Uhr Leute da, schließlich will der Grill angeheizt werden. 
+
+-->
 >Wir treffen uns am **Mittwoch, den 16. Juni, ab 19 Uhr,** digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen). 
+<!--
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
@@ -231,6 +239,11 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. Juli 2021: Das digitalste Monatstreffen aller Zeiten
+ ...da die Inzidenzen niedrig wie lange nicht sind und auch die Sache mit dem Pieks an Fahrt gewinnt, laden wir zum Abschied aus der Matrix ein. Um insbesondere der Impfkampagne noch ein bisschen Zeit zu verschaffen, gibt's diesen Monat dennoch noch mal ein digitales Treffen. Was sind eure Erfahrungen nach mehr als einem Jahr digitalen Rollenspiel? Was war gut, was war blöd und was nehmt ihr aus dieser ungewöhnlichen Zeit mit? 
+
+#### 16. Juni 2021: Sommerabend-Runde
+An einem lauen Sommerabend treffen wir uns mit literweise Eis und fruchtig-bunten Cocktails in geselliger Runde zum Quatschen. Wir freuen uns auf euch! 
 
 #### 16. Mai 2021: Show & Tell: Rollenspielnahe Freizeitbewältigung
 Was machen wir rollenspielaffine Menschen eigentlich in unserer Freizeit, also außerhalb von Spielrunden? Ärgert euer Mitbewohner euch wieder, weil er seine Schafe nicht gegen Erz tauschen will oder die Rätselschablone nicht richtig ausgeschnitten hat? Reitet ihr vor dem Bildschirm auf dem Pferd Plötze durch Vehlen, malt ihr im Keller riesige Skaven-Horden an? Oder blättert ihr lieber zu Seite 15, weil ihr den rechten Gang gewählt habt?
