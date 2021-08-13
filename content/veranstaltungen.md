@@ -13,8 +13,9 @@ Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 08. Mai 2021!
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
 
-Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
-
+<!--
+Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
+-->
 
 >**16. August 2021: Sommerfest im Westpark**
 
@@ -25,10 +26,6 @@ Momentan finden die Monatstreffen des Librarium digital via Jitsi statt.
 >Die Veranstaltung ist übrigens eine ausgezeichnete Gelegenheit, um sich ein paar Bücher aus dem Librarium-Schrank abzuholen, welcher sich in nächster Nähe zum Westpark befindet. Sagt einfach vorher kurz Bescheid (per Mail an der Vorstand oder auch privat an Franca).
 
 >Wir treffen uns am Montag, den *16. August, ab 19 Uhr* im Westpark am [Grillplatz](https://osm.org/go/0GAnEWg83?m=). Vermutlich sind schon ab 18:30 Uhr Leute da, schließlich will der Grill angeheizt werden. 
-
--->
->Wir treffen uns am **Mittwoch, den 16. Juni, ab 19 Uhr,** digital über unser [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen). 
-<!--
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
