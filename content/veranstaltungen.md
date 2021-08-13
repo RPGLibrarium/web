@@ -25,7 +25,9 @@ Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet
 
 >Die Veranstaltung ist übrigens eine ausgezeichnete Gelegenheit, um sich ein paar Bücher aus dem Librarium-Schrank abzuholen, welcher sich in nächster Nähe zum Westpark befindet. Sagt einfach vorher kurz Bescheid (per Mail an der Vorstand oder auch privat an Franca).
 
->Wir treffen uns am Montag, den *16. August, ab 19 Uhr* im Westpark am [Grillplatz](https://osm.org/go/0GAnEWg83?m=). Vermutlich sind schon ab 18:30 Uhr Leute da, schließlich will der Grill angeheizt werden. 
+>Wir treffen uns am Montag, den **16. August, ab 19 Uhr** im Westpark am [Grillplatz](https://osm.org/go/0GAnEWg83?m=). Vermutlich sind schon ab 18:30 Uhr Leute da, schließlich will der Grill angeheizt werden. 
+
+
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
