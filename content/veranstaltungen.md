@@ -18,6 +18,10 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
 -->
 
+>**UPDATE!!!**
+>**Das Sommerfest findet aufgrund des miesen Wetters NICHT im Westpark, sondern im [Café PAPILLON}(http://www.cafepapillon-ac.de/essen.html) in der Pontstraße statt.**
+
+
 >**16. August 2021: Sommerfest im Westpark**
 
 >Wir laden herzlich ein zum Librarium-Sommerfest! Ihr findet uns auf der Grillfläche im Westpark. Wir stellen den Grill; Grillgut und Getränke könnt ihr selbst mitbringen. Ebenfalls dürft ihr natürlich Spiele, Bücher, Frisbees, Bälle und brennende Jonglierfackeln mitbringen, wenn ihr möchtet. Picknickdecken wären auch praktisch (z.B., um das Feuer von den Jonglierfackeln zu löschen, aber auch zum Draufsitzen).
