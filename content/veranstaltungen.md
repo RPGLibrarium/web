@@ -19,7 +19,7 @@ Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet
 -->
 
 >**UPDATE!!!**
->**Das Sommerfest findet aufgrund des miesen Wetters NICHT im Westpark, sondern im [Café PAPILLON}(http://www.cafepapillon-ac.de/essen.html) in der Pontstraße statt.**
+>**Das Sommerfest findet aufgrund des miesen Wetters NICHT im Westpark, sondern im [Café PAPILLON](http://www.cafepapillon-ac.de/essen.html) in der Pontstraße statt.**
 
 
 >**16. August 2021: Sommerfest im Westpark**
