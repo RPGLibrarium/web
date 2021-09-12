@@ -20,7 +20,7 @@ Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet
 
 >**16. September 2021: Rendez-vous in der Realität**
 
->Wir haben fürs Erste entschieden, die Monatstreffen raus aus der Matrix und rein in die echte Welt zu verlagern. Daher laden wir zum nächsten Monatstreffen ins Café Papillon ein! Ein gemütlicher Abend zum Quatschen und Erzählen - nicht mehr und nicht weniger. Vermutlich sind wir im hinteren Bereich des Papillon zu finden. Rollenspielveteranen sind genauso willkommen wie neue Gesichter!
+>Wir haben fürs Erste entschieden, die Monatstreffen raus aus der Matrix und rein in die echte Welt zu verlagern. Daher laden wir zum nächsten Monatstreffen ins Café Papillon ein. Ein gemütlicher Abend zum Quatschen und Erzählen - nicht mehr und nicht weniger. Vermutlich sind wir im hinteren Bereich des Papillon zu finden. Rollenspielveteranen sind genauso willkommen wie neue Gesichter!
 
 >Wir treffen uns am Donnerstag, den **16. September, ab 19 Uhr** im [Café Papillon](http://www.cafepapillon-ac.de/) in der Pontstraße. (Denkt an 3G!) 
 
