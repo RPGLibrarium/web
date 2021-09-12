@@ -18,19 +18,11 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
 -->
 
->**UPDATE!!!**
->**Das Sommerfest findet aufgrund des miesen Wetters NICHT im Westpark, sondern im [Café PAPILLON](http://www.cafepapillon-ac.de/essen.html) in der Pontstraße statt.**
+>**16. September 2021: Rendez-vous in der Realität**
 
+>Wir haben fürs Erste entschieden, die Monatstreffen raus aus der Matrix und rein in die echte Welt zu verlagern. Daher laden wir zum nächsten Monatstreffen ins Café Papillon ein! Ein gemütlicher Abend zum Quatschen und Erzählen - nicht mehr und nicht weniger. Vermutlich sind wir im hinteren Bereich des Café Papillon zu finden. Rollenspielveteranen sind genauso willkommen wie neue Gesichter!
 
->**16. August 2021: Sommerfest im Westpark**
-
->Wir laden herzlich ein zum Librarium-Sommerfest! Ihr findet uns auf der Grillfläche im Westpark. Wir stellen den Grill; Grillgut und Getränke könnt ihr selbst mitbringen. Ebenfalls dürft ihr natürlich Spiele, Bücher, Frisbees, Bälle und brennende Jonglierfackeln mitbringen, wenn ihr möchtet. Picknickdecken wären auch praktisch (z.B., um das Feuer von den Jonglierfackeln zu löschen, aber auch zum Draufsitzen).
-
->Bitte denkt auch an ein negatives Testergebnis oder einen Impfnachweis (es gilt Getestet/Geimpft/Genesen - ihr kennt das ja). Außerdem werden wir eine Kontaktliste führen.
-
->Die Veranstaltung ist übrigens eine ausgezeichnete Gelegenheit, um sich ein paar Bücher aus dem Librarium-Schrank abzuholen, welcher sich in nächster Nähe zum Westpark befindet. Sagt einfach vorher kurz Bescheid (per Mail an der Vorstand oder auch privat an Franca).
-
->Wir treffen uns am Montag, den **16. August, ab 19 Uhr** im Westpark am [Grillplatz](https://osm.org/go/0GAnEWg83?m=). Vermutlich sind schon ab 18:30 Uhr Leute da, schließlich will der Grill angeheizt werden. 
+>Wir treffen uns am Donnerstag, den *16. September, ab 19 Uhr* im Café Papillon in der Pontstraße. (Denkt an 3G!) 
 
 
 
@@ -243,6 +235,9 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. August 2021: Sommerfest im Westpark
+Wir laden herzlich ein zum Librarium-Sommerfest! Ihr findet uns auf der Grillfläche im Westpark. Wir stellen den Grill; Grillgut und Getränke könnt ihr selbst mitbringen. Ebenfalls dürft ihr natürlich Spiele, Bücher, Frisbees, Bälle und brennende Jonglierfackeln mitbringen, wenn ihr möchtet. Picknickdecken wären auch praktisch (z.B., um das Feuer von den Jonglierfackeln zu löschen, aber auch zum Draufsitzen).
+
 #### 16. Juli 2021: Das digitalste Monatstreffen aller Zeiten
  ...da die Inzidenzen niedrig wie lange nicht sind und auch die Sache mit dem Pieks an Fahrt gewinnt, laden wir zum Abschied aus der Matrix ein. Um insbesondere der Impfkampagne noch ein bisschen Zeit zu verschaffen, gibt's diesen Monat dennoch noch mal ein digitales Treffen. Was sind eure Erfahrungen nach mehr als einem Jahr digitalen Rollenspiel? Was war gut, was war blöd und was nehmt ihr aus dieser ungewöhnlichen Zeit mit? 
 
