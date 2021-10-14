@@ -18,12 +18,11 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
 -->
 
->**16. September 2021: Rendez-vous in der Realität**
+>**16. September 2021: Kartenworkshop (Reloaded)**
+>Es gibt viele Anlässe, Kartenmaterial während einer Rollenspielrunde zu konsultieren: Für Topographie und Geologie natürlich, aber auch, um festzustellen, durch wessen Herrschaftsgebiet die Helden eigentlich spazieren, oder um zu bestimmen, wo der Feuerball des Magiers wie viel und welche Vegetation versengt.
+>Beim kommenden Monatstreffen schauen wir uns im Rahmen eines kleinen Workshops an, was es eigentlich für Karten-Arten gibt, worin sie sich unterscheiden und welche davon im Rollenspiel interessant sein könnten. Bringt auch selber gerne eigene Karten zum Zeigen oder sogar eigenes Zeichenmaterial mit, denn am Ende werden wir selbst ein bisschen kreativ werden.
 
->Wir haben fürs Erste entschieden, die Monatstreffen raus aus der Matrix und rein in die echte Welt zu verlagern. Daher laden wir zum nächsten Monatstreffen ins Café Papillon ein. Ein gemütlicher Abend zum Quatschen und Erzählen - nicht mehr und nicht weniger. Vermutlich sind wir im hinteren Bereich des Papillon zu finden. Rollenspielveteranen sind genauso willkommen wie neue Gesichter!
-
->Wir treffen uns am Donnerstag, den **16. September, ab 19 Uhr** im [Café Papillon](http://www.cafepapillon-ac.de/) in der Pontstraße. (Denkt an 3G!) 
-
+>Wir treffen uns am Samstag, den **16. Oktober, ab 19 Uhr** im [Café Papillon](http://www.cafepapillon-ac.de/) in der Pontstaße. Der Workshop-Teil selbst beginnt um ca. 20 Uhr, und wie immer gibt's vorher und nachher genug Zeit zum Quatschen! 
 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
@@ -235,6 +234,9 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. September 2021: Rendez-vous in der Realität
+Wir haben fürs Erste entschieden, die Monatstreffen raus aus der Matrix und rein in die echte Welt zu verlagern. Daher laden wir zum nächsten Monatstreffen ins Café Papillon ein. Ein gemütlicher Abend zum Quatschen und Erzählen - nicht mehr und nicht weniger. Vermutlich sind wir im hinteren Bereich des Papillon zu finden. Rollenspielveteranen sind genauso willkommen wie neue Gesichter!
+
 #### 16. August 2021: Sommerfest im Westpark
 Wir laden herzlich ein zum Librarium-Sommerfest! Ihr findet uns auf der Grillfläche im Westpark. Wir stellen den Grill; Grillgut und Getränke könnt ihr selbst mitbringen. Ebenfalls dürft ihr natürlich Spiele, Bücher, Frisbees, Bälle und brennende Jonglierfackeln mitbringen, wenn ihr möchtet. Picknickdecken wären auch praktisch (z.B., um das Feuer von den Jonglierfackeln zu löschen, aber auch zum Draufsitzen).
 
