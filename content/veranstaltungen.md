@@ -20,7 +20,7 @@ Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet
 
 >**16. November 2021: Kartenworkshop (Part 2)**
 
->Letztes Mal haben wir uns angesehen, wo Winde wehen, wo Regen fällt und Wälder sprießen und welche Gegenden sich in mysteriöse Wüsten verwandeln. Aber was wäre eine Welt ohne Wesen, die auf ihr herumzulaufen und Abenteuer erleben? Diesen Monat wollen wir uns ansehen, wo sich Menschen niederlassen, welche Städte wachsen und wo sich Hochkulturen bilden. Wir schauen uns Gegenden und Städte an und überlegen, warum sie existieren und warum sich Menschen entschieden haben, an diesen Orten zu leben. 
+>Letztes Mal haben wir uns angesehen, wo Winde wehen, wo Regen fällt und wo Wälder sprießen und welche Gegenden sich in mysteriöse Wüsten verwandeln. Aber was wäre eine Welt ohne Wesen, die auf ihr herumzulaufen und Abenteuer erleben? Diesen Monat wollen wir uns ansehen, wo sich Menschen niederlassen, welche Städte wachsen und wo sich Hochkulturen bilden. Wir schauen uns Gegenden und Städte an und überlegen, warum sie existieren und warum sich Menschen entschieden haben, an diesen Orten zu leben. 
 
 >Wir treffen uns am Dienstag, den **16. November, ab 19 Uhr** im [Café Papillon](http://www.cafepapillon-ac.de/) in der Pontstaße. Der Workshop-Teil selbst beginnt um ca. 20 Uhr, und wie immer gibt's vorher und nachher genug Zeit zum Quatschen! 
 
