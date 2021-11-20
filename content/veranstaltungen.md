@@ -38,20 +38,20 @@ Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*i
 
 ![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
 
-<!--
+
 Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler\*innen grob erwartet.
-Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen.
-Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden von ca. 18:30 Uhr bis 19:00 Uhr) oder zur zweiten Phase (20:45 Uhr bis 21:15 Uhr) da sein solltet.
-Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
+Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden ab 18:30 Uhr) oder zur zweiten Phase (20:45 Uhr) da sein solltet. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
-Wir möchten die Spielleiter\*innen für den Abend stellen und du kannst eine\*r davon sein.
-Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
+Wir werden als Verein die Spielleiter*innen für den Abend stellen und du kannst eine*r davon sein.
 
->Am **Montag, den 25. November 2019** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
+>Am **Dienstag den 30. November 2021** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
->**Wo?:** [**SemiTemp**](https://goo.gl/maps/swq46aj4Nn32)  (Schinkelstraße 15, nahe RWTH Hauptgebäude und nicht zu verwechseln mit Semi90 oder Temp).
+>**Wo?:** [**Informatikzentum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten Stockwerk), Ahornstraße 55, Zugang ist über den Parkplatz an der Mies-Van-Der-Rohe-Straße. [1] 
 
+>Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das in unserer [Strawpoll](https://strawpoll.de/1zab732) kundtust.
+
+>Zum Thema Corona: Es gilt **2G+**. Nach aktuellen Richtlinien (Stand: 20.11.) ist das "+" noch nicht verpflichtend, aber zum Zeitpunkt des Events ggf. schon, also plane den Test schon mal ein. Abgesehen davon sind Schnelltest für alle sehr sinnvoll, damit wir einen entspannten Abend haben können. Auf den Fluren des Informatikzentrums muss Maske getragen werden. Während der Spielrunden (aka, am festen Sitzplatz) ist das prinzipiell nicht nötig, aber natürlich möglich und im Zweifel empfohlen. 
 >
 >Wenn du Lust hast, eine Runde zu leiten, brauchen wir folgende Infos von dir:
 >
@@ -60,11 +60,10 @@ Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
 >  * Wie viele Spieler (min/max)?
 >  * Leitest du eine oder zwei Runden?
 >
->Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend-Librarium-Fachschaft_2019-11-25) ein.
-
+>Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://etherpad.fachschaften.rwth-aachen.de/p/Rollenspielabend-Librarium-Fachschaft_2021-11-30) ein.
+<!--
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
 
--->
 
 >Wir laden ein zum zweiten digitalen Rollenspielabend des Librarium! Nach positiven Erfahrungen mit dem ersten digitalen Rollenspielabend im November 2020 freuen wir uns darauf, dass der traditionelle Rollenspielabend mit der Fachschaft auch dieses Semester möglich sein wird. Das digitale Event findet statt am **Samstag, den 08. Mai 2021 ab 18:30 Uhr**. Wir freuen uns über alle **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
 
@@ -80,7 +79,7 @@ Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein 
 
 >**Die Begrüßung der Teilnehmer/innen wird per [YouTube-Livestream](https://www.youtube.com/channel/UCPECWOdg3R9ctupYE7TT0Pg
 ) um 18:30 Uhr und um 21:00 Uhr stattfinden.** Bitte seid pünktlich! Die Spielrunden spielen (je nach Vorliebe der Spielleitung) z.B. über Jitsi, Discord oder Roll20, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden. Bei Fragen zum Ablauf schickt uns einfach eine Mail an vorstand@rpg-librarium.de.
-
+-->
 <!--
 >Unser **[Frageraum](https://meet.jit.si/Rollenspielabend-Librarium-2020)** ist während des Rollenspielabends für euch da, wenn es um organisatorische, technische, rollenspiel- und vereinsbezogene Fragen geht oder ihr einfach nur über Pen&Paper quatschen wollt! Während der beiden Begrüßungs-Livestreams ist hier vermutlich keiner von uns, aber sonst den ganzen Abend.
 
