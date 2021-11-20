@@ -49,11 +49,11 @@ Wir werden als Verein die Spielleiter*innen für den Abend stellen und du kannst
 >
 >**Wo?:** [**Informatikzentum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten Stockwerk), Ahornstraße 55, Zugang ist über den Parkplatz an der Mies-Van-Der-Rohe-Straße. 
 
->Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das in unserer [Strawpoll](https://strawpoll.de/1zab732) kundtust.
+>**Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das in unserer [Strawpoll](https://strawpoll.de/1zab732) kundtust.
 
->Zum Thema Corona: Es gilt **2G+**. Nach aktuellen Richtlinien (Stand: 20.11.) ist das "+" noch nicht verpflichtend, aber zum Zeitpunkt des Events ggf. schon, also plane den Test schon mal ein. Abgesehen davon sind Schnelltest für alle sehr sinnvoll, damit wir einen entspannten Abend haben können. Auf den Fluren des Informatikzentrums muss Maske getragen werden. Während der Spielrunden (aka, am festen Sitzplatz) ist das prinzipiell nicht nötig, aber natürlich möglich und im Zweifel empfohlen. 
+>**Zum Thema Corona:** Es gilt **2G+**. Nach aktuellen Richtlinien (Stand: 20.11.) ist das "+" noch nicht verpflichtend, aber zum Zeitpunkt des Events ggf. schon, also plane den Test schon mal ein. Abgesehen davon sind Schnelltest für alle sehr sinnvoll, damit wir einen entspannten Abend haben können. Auf den Fluren des Informatikzentrums muss Maske getragen werden. Während der Spielrunden (aka, am festen Sitzplatz) ist das prinzipiell nicht nötig, aber natürlich möglich und im Zweifel empfohlen. 
 >
->Wenn du Lust hast, eine Runde zu leiten, brauchen wir folgende Infos von dir:
+>Wenn du Lust hast, eine **Runde zu spielleiten**, brauchen wir folgende Infos von dir:
 >
 >  * Deinen Name?
 >  * Welches System?
