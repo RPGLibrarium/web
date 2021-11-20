@@ -45,9 +45,9 @@ Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslege
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
 Wir werden als Verein die Spielleiter*innen für den Abend stellen und du kannst eine*r davon sein.
 
->Am **Dienstag den 30. November 2021** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
+>Am **Dienstag den 30. November 2021** findet ab **18:30 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
->**Wo?:** [**Informatikzentum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten Stockwerk), Ahornstraße 55, Zugang ist über den Parkplatz an der Mies-Van-Der-Rohe-Straße. [1] 
+>**Wo?:** [**Informatikzentum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten Stockwerk), Ahornstraße 55, Zugang ist über den Parkplatz an der Mies-Van-Der-Rohe-Straße. 
 
 >Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das in unserer [Strawpoll](https://strawpoll.de/1zab732) kundtust.
 
@@ -61,6 +61,8 @@ Wir werden als Verein die Spielleiter*innen für den Abend stellen und du kannst
 >  * Leitest du eine oder zwei Runden?
 >
 >Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://etherpad.fachschaften.rwth-aachen.de/p/Rollenspielabend-Librarium-Fachschaft_2021-11-30) ein.
+
+
 <!--
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
 
