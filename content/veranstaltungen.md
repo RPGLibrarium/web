@@ -20,7 +20,7 @@ Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet
 
 >**16. Dezember 2021: Weihnachtstaverne**
 
-> Das Tragen von Weihnachtsmützen ist nicht obligatorisch, aber erlaubt; und es gibt auch eine kleine Weihnachtsüberraschung! Wir treffen uns am Donnerstag, den *16. Dezember, ab 19 Uhr* zu unserer Weihnachtsfeier im [Café Papillon](http://www.cafepapillon-ac.de/) in der Pontstaße - wahrscheinlich wieder im kleinen Raum die Treppe runter.
+> Das Tragen von Weihnachtsmützen ist nicht obligatorisch, aber erlaubt; und es gibt auch eine kleine Weihnachtsüberraschung! Wir treffen uns am Donnerstag, den **16. Dezember, ab 19 Uhr** zu unserer Weihnachtsfeier im [Café Papillon](http://www.cafepapillon-ac.de/) in der Pontstaße - wahrscheinlich wieder im kleinen Raum die Treppe runter.
 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
@@ -233,10 +233,10 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
-#### 16. November 2021: Kartenworkshop (Reloaded) Part 2
+#### 16. November 2021: Kartenworkshop (Reloaded) - Part 2
 Letztes Mal haben wir uns angesehen, wo Winde wehen, wo Regen fällt und wo Wälder sprießen und welche Gegenden sich in mysteriöse Wüsten verwandeln. Aber was wäre eine Welt ohne Wesen, die auf ihr herumzulaufen und Abenteuer erleben? Diesen Monat wollen wir uns ansehen, wo sich Menschen niederlassen, welche Städte wachsen und wo sich Hochkulturen bilden. Wir schauen uns Gegenden und Städte an und überlegen, warum sie existieren und warum sich Menschen entschieden haben, an diesen Orten zu leben.
 
-#### 16. Oktober 2021: Kartenworkshop (Reloaded) Part 1 
+#### 16. Oktober 2021: Kartenworkshop (Reloaded) - Part 1 
 Es gibt viele Anlässe, Kartenmaterial während einer Rollenspielrunde zu konsultieren: Für Topographie und Geologie natürlich, aber auch, um festzustellen, durch wessen Herrschaftsgebiet die Helden eigentlich spazieren, oder um zu bestimmen, wo der Feuerball des Magiers wie viel und welche Vegetation versengt.
 Beim kommenden Monatstreffen schauen wir uns im Rahmen eines kleinen Workshops an, was es eigentlich für Karten-Arten gibt, worin sie sich unterscheiden und welche davon im Rollenspiel interessant sein könnten. Bringt auch selber gerne eigene Karten zum Zeigen oder sogar eigenes Zeichenmaterial mit, denn am Ende werden wir selbst ein bisschen kreativ werden.
 
