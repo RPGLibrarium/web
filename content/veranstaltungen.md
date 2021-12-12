@@ -11,6 +11,8 @@ menu:
 Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 08. Mai 2021!
 --->
 
+Hier geht's zur [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022!
+
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
 
@@ -120,13 +122,32 @@ Die offizielle Anmeldung folgt dann bald.
 -->
 
 
->Am Wochenende vom **2. bis 3. Januar 2021** findet die erste digitale Freizeit des Librarium statt. Wir haben uns entschieden, dafür einen Discord-Server aufzusetzen, wo ihr ein schwarzes Brett für Spielrunden finden werdet, mehrere Sprachchannels als digitale Spieltische und den ein oder anderen Channel als "Taverne" zum einfach so Quatschen.
+>Da unsere jährliche Freizeit leider wieder ausfallen muss, haben wir uns das Burg-ähnlichste gesucht, was wir gefunden haben, und laden ein zur ersten **Mini-Convention des Librarium**! Am Wochenende vom **8./9. Januar 2022** haben wir für das volle Wochenende die Veranstaltungsräume oben im **Aachener Ponttor** gebucht, um dort ein Rollenspielwochenende zu zelebrieren. 
 
->Wie auch bei der Freizeit auf der Freusburg sind wir natürlich auf euer Engagement angewesen, dass die Freizeit lebendig wird und wir freuen uns auf Spielrunden und Workshops, die ihr anbietet!
+>**Wie kann ich mitmachen?**
+Du kannst dich tageweise anmelden; also für Samstag (8.1.), Sonntag (9.1.) oder für beide Tage. Schreib uns einfach eine [Mail](mailto:vorstand@rpg-librarium.de) bis Silvester (31.12.2021) und melde dich verbindlich an.
 
->Wenn ihr Lust habt, bei der Freizeit dabei zu sein, schreibt uns eine Mail an vorstand@rpg-librarium.de und ihr erhaltet am 1. Januar 2021 einen Einladungslink für den Server. Los geht's mit den ersten Spielrunden am Samstag ab ca. 10 Uhr. Ab dann kann rund um die Uhr gespielt, gequatscht und geworkshopt werden. Es gibt keinen Anmeldeschluss, aber frühzeitige Anmeldungen vereinfachen uns die Planung.
+**Was wird denn da gemacht? Und was gespielt?**
+Das hängt von euch ab! Spielrunden, Workshops etc. werden wie auf der Freizeit von euch, den Teilnehmern, organisiert - wir sind also auf eure Unterstützung angewiesen. Wenn du also ein Lieblingssystem oder -abenteuer hast, dann bring es einfach mit! Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. organisieren. Genauso gern sind Brettspielrunden oder interessante Workshops gesehen. Wir freuen uns, wenn ihr uns eure Spielrunden (und wann ihr sie leiten wollt) schon frühzeitig ankündigt, damit die Pinnwand nicht so leer aussieht und ihr andere Leute inspiriert, auch spontan etwas anzubieten
+Natürlich haben wir unsere Büchersammlung vor Ort, sodass auch einfach nur in Bücher gestöbert werden kann.
 
->Wir möchten Spiel- und Diskussionsrunden gerne auf den Zeitraum des Wochenendes fokussieren, aber der Server selbst wird noch bis zum 10. Januar 2021 bestehen bleiben - für Runden, die noch nicht beendet wurden und Gespräche, die noch zu Ende geführt werden müssen.
+**Um wie viel Uhr geht's los?**
+Wir starten am Samstag und Sonntag um Punkt 10 Uhr mit einer gemeinsamen Begrüßung. Danach beginnen Spielrunden und Workshops. Ähnlich zur Freizeit auf der Freusburg rechnen wir mit 3 Zeitslots: Vormittags, nachmittags und abends.
+
+**Gibt's was zu essen und trinken?**
+Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags gemeinsam in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, Essbar o.ä.).
+
+**Was kostet das?**
+Nichts. Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
+
+**Braucht ihr noch Hilfe?**
+Ja. Die ca. 300-Bücher-starke Büchersammlung muss aus dem Wohnzimmer der Vorstandsvorsitzenden (Nähe Westpark) raus, in einen Kofferraum rein, aus selbigen Kofferraum raus und ins Ponttor hoch. Der Büchertransport ist für Freitagabend (7.1) bzw. Montagvormittag (10.1.) geplant. Schreib uns, wenn du Zeit hast, uns dabei zu unterstützen!
+
+**TL; DR! Also was wollt ihr jetzt alles bei der Anmeldung wissen?**
+Anmeldung für: Samstag, Sonntag oder beide Tage?
+Interesse an gemeinsamen Mittagessen: Ja, nein, nur an einem Tag
+Kann bei Büchertransport helfen: Ja (Freitag), Ja (Montag), Nein
+Plane Spielrunde/Workshop/Brettspiel/...: 
 
 <!--
 Es ist soweit.
