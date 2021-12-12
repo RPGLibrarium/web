@@ -131,7 +131,7 @@ Die offizielle Anmeldung folgt dann bald.
 >**Was wird denn da gemacht? Und was gespielt?**
 
 >Das hängt von euch ab! Spielrunden, Workshops etc. werden wie auf der Freizeit von euch, den Teilnehmern, organisiert - wir sind also auf eure Unterstützung angewiesen. Wenn du also ein Lieblingssystem oder -abenteuer hast, dann bring es einfach mit! Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. organisieren. Genauso gern sind Brettspielrunden oder interessante Workshops gesehen. Wir freuen uns, wenn ihr uns eure Spielrunden (und wann ihr sie leiten wollt) schon frühzeitig ankündigt, damit die Pinnwand nicht so leer aussieht und ihr andere Leute inspiriert, auch spontan etwas anzubieten
-Natürlich haben wir unsere Büchersammlung vor Ort, sodass auch einfach nur in Bücher gestöbert werden kann.
+>Natürlich haben wir unsere Büchersammlung vor Ort, sodass auch einfach nur in Bücher gestöbert werden kann.
 
 >**Um wie viel Uhr geht's los?**
 
