@@ -135,7 +135,7 @@ Die offizielle Anmeldung folgt dann bald.
 
 >**Um wie viel Uhr geht's los?**
 
-Wir starten am Samstag und Sonntag um Punkt 10 Uhr mit einer gemeinsamen Begrüßung. Danach beginnen Spielrunden und Workshops. Ähnlich zur Freizeit auf der Freusburg rechnen wir mit 3 Zeitslots: Vormittags, nachmittags und abends.
+>Wir starten am Samstag und Sonntag um Punkt 10 Uhr mit einer gemeinsamen Begrüßung. Danach beginnen Spielrunden und Workshops. Ähnlich zur Freizeit auf der Freusburg rechnen wir mit 3 Zeitslots: Vormittags, nachmittags und abends.
 
 >**Gibt's was zu essen und trinken?**
 
