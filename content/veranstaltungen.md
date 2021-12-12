@@ -126,11 +126,11 @@ Die offizielle Anmeldung folgt dann bald.
 
 >**Wie kann ich mitmachen?**
 
-Du kannst dich tageweise anmelden; also für Samstag (8.1.), Sonntag (9.1.) oder für beide Tage. Schreib uns einfach eine [Mail](mailto:vorstand@rpg-librarium.de) bis Silvester (31.12.2021) und melde dich verbindlich an.
+>Du kannst dich tageweise anmelden; also für Samstag (8.1.), Sonntag (9.1.) oder für beide Tage. Schreib uns einfach eine [Mail](mailto:vorstand@rpg-librarium.de) bis Silvester (31.12.2021) und melde dich verbindlich an.
 
 >**Was wird denn da gemacht? Und was gespielt?**
 
-Das hängt von euch ab! Spielrunden, Workshops etc. werden wie auf der Freizeit von euch, den Teilnehmern, organisiert - wir sind also auf eure Unterstützung angewiesen. Wenn du also ein Lieblingssystem oder -abenteuer hast, dann bring es einfach mit! Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. organisieren. Genauso gern sind Brettspielrunden oder interessante Workshops gesehen. Wir freuen uns, wenn ihr uns eure Spielrunden (und wann ihr sie leiten wollt) schon frühzeitig ankündigt, damit die Pinnwand nicht so leer aussieht und ihr andere Leute inspiriert, auch spontan etwas anzubieten
+>Das hängt von euch ab! Spielrunden, Workshops etc. werden wie auf der Freizeit von euch, den Teilnehmern, organisiert - wir sind also auf eure Unterstützung angewiesen. Wenn du also ein Lieblingssystem oder -abenteuer hast, dann bring es einfach mit! Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. organisieren. Genauso gern sind Brettspielrunden oder interessante Workshops gesehen. Wir freuen uns, wenn ihr uns eure Spielrunden (und wann ihr sie leiten wollt) schon frühzeitig ankündigt, damit die Pinnwand nicht so leer aussieht und ihr andere Leute inspiriert, auch spontan etwas anzubieten
 Natürlich haben wir unsere Büchersammlung vor Ort, sodass auch einfach nur in Bücher gestöbert werden kann.
 
 >**Um wie viel Uhr geht's los?**
@@ -139,15 +139,15 @@ Wir starten am Samstag und Sonntag um Punkt 10 Uhr mit einer gemeinsamen Begrü�
 
 >**Gibt's was zu essen und trinken?**
 
-Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags gemeinsam in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, Essbar o.ä.).
+>Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags gemeinsam in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, Essbar o.ä.).
 
 >**Was kostet das?**
 
-Nichts. Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
+>Nichts. Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
 
 >**Braucht ihr noch Hilfe?**
 
-Ja. Die ca. 300-Bücher-starke Büchersammlung muss aus dem Wohnzimmer der Vorstandsvorsitzenden (Nähe Westpark) raus, in einen Kofferraum rein, aus selbigen Kofferraum raus und ins Ponttor hoch. Der Büchertransport ist für Freitagabend (7.1) bzw. Montagvormittag (10.1.) geplant. Schreib uns, wenn du Zeit hast, uns dabei zu unterstützen!
+>Ja. Die ca. 300-Bücher-starke Büchersammlung muss aus dem Wohnzimmer der Vorstandsvorsitzenden (Nähe Westpark) raus, in einen Kofferraum rein, aus selbigen Kofferraum raus und ins Ponttor hoch. Der Büchertransport ist für Freitagabend (7.1) bzw. Montagvormittag (10.1.) geplant. Schreib uns, wenn du Zeit hast, uns dabei zu unterstützen!
 
 >**TL; DR! Also was wollt ihr jetzt alles bei der Anmeldung wissen?**
 
