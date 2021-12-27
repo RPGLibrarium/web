@@ -11,7 +11,7 @@ menu:
 Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 08. Mai 2021!
 --->
 
-Hier geht's zur [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022!
+Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
 
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
@@ -124,6 +124,11 @@ Die offizielle Anmeldung folgt dann bald.
 
 >Da unsere jährliche Freizeit 2022 leider ausfallen muss, haben wir uns das Burg-ähnlichste gesucht, was wir gefunden haben, und laden ein zur ersten **Mini-Convention des Librarium**! Am Wochenende vom **8./9. Januar 2022** haben wir für das volle Wochenende die Veranstaltungsräume oben im **Aachener Ponttor** gebucht, um dort ein Rollenspielwochenende zu zelebrieren. 
 
+> **UPDATE: Leider muss die Librarium-Convention gemäß der ab dem 28. Dezember 2021 gültigen Corona-Schutzverordnung ebenfalls ausfallen.**
+
+> Gemäß §4.1.6 sind nur Vereinsveranstaltungen "ohne geselligen Charakter" erlaubt, alles andere fällt unter die 10-Personen-Beschränkung. Wir hoffen dennoch, dass wir Librarium-Convention irgendwann nachholen können und halten euch darüber auf dem Laufenden.
+
+<!--
 >**Wie kann ich mitmachen?**
 
 >Du kannst dich tageweise anmelden; also für Samstag (8.1.), Sonntag (9.1.) oder für beide Tage. Schreib uns einfach eine [Mail](mailto:vorstand@rpg-librarium.de) bis Silvester (31.12.2021) und melde dich verbindlich an.
@@ -159,7 +164,8 @@ Die offizielle Anmeldung folgt dann bald.
 
 >Plane Spielrunde/Workshop/Brettspiel/...: 
 
-<!--
+
+
 Es ist soweit.
 Wir möchten uns mit euch für ein paar Tage dem Alltag entziehen
 und uns gemeinsam in der [Jugendherberge Freusburg](http://www.jugendherberge.de/de-de/jugendherbergen/freusburg359/portraet) dem Pen & Paper spielen widmen.
