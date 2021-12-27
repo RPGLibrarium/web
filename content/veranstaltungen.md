@@ -122,11 +122,11 @@ Die offizielle Anmeldung folgt dann bald.
 -->
 
 
->Da unsere jährliche Freizeit 2022 leider ausfallen muss, haben wir uns das Burg-ähnlichste gesucht, was wir gefunden haben, und laden ein zur ersten **Mini-Convention des Librarium**! Am Wochenende vom **8./9. Januar 2022** haben wir für das volle Wochenende die Veranstaltungsräume oben im **Aachener Ponttor** gebucht, um dort ein Rollenspielwochenende zu zelebrieren. 
+>Da unsere jährliche Freizeit 2022 leider ausfallen muss, haben wir uns das Burg-ähnlichste gesucht, was wir gefunden haben, und laden ein zur ersten Mini-Convention des Librarium! Am Wochenende vom 8./9. Januar 2022 haben wir für das volle Wochenende die Veranstaltungsräume oben im Aachener Ponttor gebucht, um dort ein Rollenspielwochenende zu zelebrieren. 
 
 > **UPDATE: Leider muss die Librarium-Convention gemäß der ab dem 28. Dezember 2021 gültigen Corona-Schutzverordnung ebenfalls ausfallen.**
 
-> Gemäß §4.1.6 sind nur Vereinsveranstaltungen "ohne geselligen Charakter" erlaubt, alles andere fällt unter die 10-Personen-Beschränkung. Wir hoffen dennoch, dass wir Librarium-Convention irgendwann nachholen können und halten euch darüber auf dem Laufenden.
+> Gemäß §4.1.6 sind nur Vereinsveranstaltungen "ohne geselligen Charakter" erlaubt, alles andere fällt unter die 10-Personen-Beschränkung. Wir hoffen dennoch, dass wir die Librarium-Convention irgendwann nachholen können und halten euch darüber auf dem Laufenden.
 
 <!--
 >**Wie kann ich mitmachen?**
