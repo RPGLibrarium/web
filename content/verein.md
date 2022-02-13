@@ -23,11 +23,11 @@ Du hast Interesse, in einer AG mitzumachen? Schreibe einfach eine Mail an <konta
 
 >* Monatstreffen:Orga der monatlichen Vereinstreffen (Rollenspieltests, Workshops, Themenabende...) _(Franca)_
 * Librarium-Freizeit: Organisation eines großen Rollenspiels (Weltenbrücken) für alle Teilnehmer zusammen _(Franca)_
-#* Wusel-Merchandise: Plüschis, Untersetzer und andere wuselige Dinge _(Stefan)_
+<!-- * Wusel-Merchandise: Plüschis, Untersetzer und andere wuselige Dinge _(Stefan)_-->
 * Multiversum-Flugblatt: Ein Flugblatt aus den Rollenspieluniversen des Librarium _(Hanna)_
-#* Soloabenteuer: Ein Choose-your-own-Adventure in Aachen _(Franca)_
+<!-- * Soloabenteuer: Ein Choose-your-own-Adventure in Aachen _(Franca)_-->
 * Büchersystem, Liberation: Entwicklung eines neuen Verleihsystems  _(Yoann)_
-#* Librarium-Föderation: Verfassen einer Ordnung für einen potentiellen Librarium-Dachverband _(Lamin)_
+<!-- * Librarium-Föderation: Verfassen einer Ordnung für einen potentiellen Librarium-Dachverband _(Lamin)_-->
 
 Wenn ihr weitere coole Ideen habt oder euch in einer der Arbeitsgruppen engagieren wollt, dann freuen wir uns, von euch zu hören!
 
