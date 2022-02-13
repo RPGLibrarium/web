@@ -274,11 +274,6 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 #### 16. Januar 2022: How To Librarium: Rollenspielverein leicht gemacht
 Gibt es eigentlich eine neue Multiversumsausgabe? Ich würde ja auch mal gerne so einen Multiversums-Artikel schreiben, aber wen muss ich eigentlich dafür ansprechen? Das vor Jahren angekündigte Bücherverleihsystem ist auch noch nicht fertig. Die bräuchten mal etwas fachmännische Unterstützung, 'Die da oben'. Vielleicht wollen die ja gar keine Hilfe und bei so einem Monatstreffen zu fragen ist unangenehm. Die anderen reden immer von so einem Vorstand, wer ist das eigentlich und was macht der? Ich bin doch schon seit zwei Jahren dabei und sollte so etwas wissen. Jetzt zu fragen ist irgendwie zu spät. ...Oder nicht? Beim nächsten Monatstreffen lautet das Motto "How To Librarium: Rollenspielverein leicht gemacht (...und für all die, die mal wieder vorbei kommen wollten". 
 
-# Mitgliederversammlung
-Ich habe gehört, dass am 5. Februar 2022 Mitgliederversammlung ist. Ich bin kein Mitglied, darf ich trotzdem mit machen? Wenn mir doch nur jemand mal diesen Verein erklären könnte, dann müsste ich mir keine dummen Fragen stellen.
-
-# Monatstreffen
-Diesen 16. findet das Monatstreffen um 19 Uhr wieder online statt aber im Discord. Sogar mit Fußnote [1]. Hier steht "HowTo Librarium: Rollenspielverein leicht gemacht (und für all die, die mal wieder vorbei kommen wollten". Ach was. Das ist ja so, als ob jemand meine Gedanken lesen könnte und nur für mich ein Monatstreffen geplant hat. Cool. Dieser Librarium ist echt magisch. Jetzt muss ich auch wirklich zum Monatstreffen gehen. Wie sähe das denn aus, wenn ich nicht kommen würde? 
 
 #### 16. Dezember 2021: Weihnachtstaverne
 Das Tragen von Weihnachtsmützen ist nicht obligatorisch, aber erlaubt; und es gibt auch eine kleine Weihnachtsüberraschung!
