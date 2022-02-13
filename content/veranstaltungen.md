@@ -20,9 +20,9 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
 -->
 
->**16. Dezember 2021: Weihnachtstaverne**
+>**16. Februar 2022: TBA**
 
-> Das Tragen von Weihnachtsmützen ist nicht obligatorisch, aber erlaubt; und es gibt auch eine kleine Weihnachtsüberraschung! Wir treffen uns am Donnerstag, den **16. Dezember, ab 19 Uhr** zu unserer Weihnachtsfeier im [Café Papillon](http://www.cafepapillon-ac.de/) in der Pontstaße - wahrscheinlich wieder im kleinen Raum die Treppe runter.
+> Wir treffen uns am Mittwoch, den **16. Februar, ab 19 Uhr** virtuell in unserem [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen).
 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
@@ -270,6 +270,18 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. Januar 2022: How To Librarium: Rollenspielverein leicht gemacht
+Gibt es eigentlich eine neue Multiversumsausgabe? Ich würde ja auch mal gerne so einen Multiversums-Artikel schreiben, aber wen muss ich eigentlich dafür ansprechen? Das vor Jahren angekündigte Bücherverleihsystem ist auch noch nicht fertig. Die bräuchten mal etwas fachmännische Unterstützung, 'Die da oben'. Vielleicht wollen die ja gar keine Hilfe und bei so einem Monatstreffen zu fragen ist unangenehm. Die anderen reden immer von so einem Vorstand, wer ist das eigentlich und was macht der? Ich bin doch schon seit zwei Jahren dabei und sollte so etwas wissen. Jetzt zu fragen ist irgendwie zu spät. ...Oder nicht? Beim nächsten Monatstreffen lautet das Motto "How To Librarium: Rollenspielverein leicht gemacht (...und für all die, die mal wieder vorbei kommen wollten". 
+
+# Mitgliederversammlung
+Ich habe gehört, dass am 5. Februar 2022 Mitgliederversammlung ist. Ich bin kein Mitglied, darf ich trotzdem mit machen? Wenn mir doch nur jemand mal diesen Verein erklären könnte, dann müsste ich mir keine dummen Fragen stellen.
+
+# Monatstreffen
+Diesen 16. findet das Monatstreffen um 19 Uhr wieder online statt aber im Discord. Sogar mit Fußnote [1]. Hier steht "HowTo Librarium: Rollenspielverein leicht gemacht (und für all die, die mal wieder vorbei kommen wollten". Ach was. Das ist ja so, als ob jemand meine Gedanken lesen könnte und nur für mich ein Monatstreffen geplant hat. Cool. Dieser Librarium ist echt magisch. Jetzt muss ich auch wirklich zum Monatstreffen gehen. Wie sähe das denn aus, wenn ich nicht kommen würde? 
+
+#### 16. Dezember 2021: Weihnachtstaverne
+Das Tragen von Weihnachtsmützen ist nicht obligatorisch, aber erlaubt; und es gibt auch eine kleine Weihnachtsüberraschung!
+
 #### 16. November 2021: Kartenworkshop (Reloaded) - Part 2
 Letztes Mal haben wir uns angesehen, wo Winde wehen, wo Regen fällt und wo Wälder sprießen und welche Gegenden sich in mysteriöse Wüsten verwandeln. Aber was wäre eine Welt ohne Wesen, die auf ihr herumzulaufen und Abenteuer erleben? Diesen Monat wollen wir uns ansehen, wo sich Menschen niederlassen, welche Städte wachsen und wo sich Hochkulturen bilden. Wir schauen uns Gegenden und Städte an und überlegen, warum sie existieren und warum sich Menschen entschieden haben, an diesen Orten zu leben.
 
