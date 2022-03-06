@@ -16,7 +16,7 @@ const _ROOT = document.documentElement;
 _ROOT.classList.add('loadingTitles');
 
 // load as early as posible
-let titlesPromise = fetch(`${LIBERATION_BASE}/titles`)
+let titlesPromise = fetch(`${LIBERATION_BASE}/titles?recursive=true`)
   .then(response => response.json())
   .then(_DEBUG_PRINT('titles json'))
   .then(data => processTitleData(data))
@@ -25,12 +25,12 @@ let titlesPromise = fetch(`${LIBERATION_BASE}/titles`)
 function processTitleData(titlesData) {
   let systemsMap = {};
   let titlesMap = {};
-  let titles = titlesData.titles.sort((a,b) => a.name.localeCompare(b.name));
+  let titles = titlesData.sort((a,b) => a.name.localeCompare(b.name));
   titles.forEach(t => {
     titlesMap[t.id] = t;
-    let sysId = t.system.id;
+    let sysId = t.rpg_system.id;
     if (!systemsMap[sysId]) {
-      systemsMap[sysId] = {...t.system};
+      systemsMap[sysId] = {...t.rpg_system};
     }
     let sys = systemsMap[sysId];
     if (!sys.titles) sys.titles = [];
@@ -215,7 +215,7 @@ function doTheMagic(data) {
     data.titles
       .sort((a,b) => a.name.localeCompare(b.name))
       .forEach(title => {
-        let sys = title.system;
+        let sys = title.rpg_system;
         tbody.appendChild(_C('tr', {children:[
           _C('td', {
             classes: ['title'],

@@ -189,11 +189,13 @@ header.page-header {
   text-align: right;
 }
 .titles.full-list tbody .system > th {
-  padding-top: .75em;
+  padding-top: 1.42em;
+  text-align: center;
 }
 
 .titlesTable .updatedAt {
   margin-top: .5em;
+  font-size: 0.9em;
 }
 .titlesTable .updatedAt .updating {
   display: inline-block;
