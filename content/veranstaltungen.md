@@ -7,113 +7,190 @@ menu:
   main:
     weight: 300
 ---
+<!--
+Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 08. Mai 2021!
+
+
+Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
+--->
+
+## Monatstreffen
+Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
 
 <!--
-> Die Anmeldung zur Freizeit 2020 ist geschlossen! Aber vielleicht können wir euch noch nachmelden. Mehr Infos findet ihr [weiter unten](#freizeit)
+Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
 -->
 
-## Monatliches Treffen
-Jeden 16. im Monat veranstalten wir ein Treffen. Was wir machen, wird spätestens eine Woche im Voraus hier und im Newsletter bekannt gegeben. In der ersten halben Stunde wird der Vorstand aus der aktuellen Arbeit berichten und es gibt die Gelegenheit, um anstehende und/oder erträumte Projekte zu planen. Danach gibt es meist Programm, zum Beispiel Proberunden eines Pen & Paper - Rollenspiels, die unserer Mitglieder vorbereiten und leiten. Manchmal veranstalten wir auch Pen & Paper-bezogene Workshops oder Themenabende. Außerdem ist das monatliche Treffen eine ausgezeichnete Gelegenheit, durch neue Bücher des Librarium zu stöbern und natürlich, um andere Rollenspieler\*innen kennenzulernen. Es haben sich auch schon spontan Spielrunden bei diesen Treffen gegründet.
+>**16. Februar 2022: Schreibwerkstatt "Valentinstags-Special"**
 
-Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee von Abenteuern auf Papier mit vielen Würfeln eigentlich ganz witzig findest und das auch mal spielen möchtest -- jede*r, ob Mitglied oder nicht, ist herzlich eingeladen, vorbeizukommen!
+> Das Librarium-Flugblatt "Multiversum" lädt zur Valentins-Schreibwerkstatt ein, denn gemeinsam schreibt es sich kreativer und unterhaltsamer. Wir verfassen leidenschaftliche Liebes- und Todesanzeigen aus allen unseren Rollenspielwelten. Wie wäre es mit einem literarischen Liebesbekenntnis an den Lieblings-NPC? Einem humorvollen Datingprofil für den SC? Oder doch lieber mit einem Racheschwur an den Erzbösewicht, verfasst im sechshebigen Jambus? Ob blutig oder romantisch, Hauptsache mit Herzblut! Alle Artikel, Gedichte, Annoncen, Kurzgeschichten und Werbeanzeigen werden anschließend - wenn ihr mögt - in unserem Flugblatt "Multiversum" veröffentlicht. 
+
+> Wir treffen uns am **Mittwoch, den 16. Februar, ab 19 Uhr** virtuell auf dem Discord Server des RPG Librarium. Den Einladungslink erhaltet ihr auf Nachfrage!
+
+
+Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
 
-> **16. Juni 2020: Spielleiternotizen im Pen&Paper**
 
-> Der Termin steht, das Zimmer ist aufgeräumt [1], die Matheabgabe ist fertig, die Snacks sind gekauft [2], die Spieler sind heiß, die guten und bösen Geister wurden besänftigt, die Ahnen angerufen. Ein finaler Blick in die Notizen von letzter... Notizen? Welche Notizen? Was haben die Spieler letzte Woche eigentlich gemacht?
-
-> Wie man sich als SL sinnvoll Notizen macht, die kollektive Amnesie vermeidet und überprüft, ob die Helden wirklich - wie sie behaupten - das Schwert der Legendären Awesomeness gefunden haben, das möchten wir beim nächsten Monatstreffen im Rahmen eines Workshops mit euch diskutieren!
-
-> [1] Aktuell zu verstehen als: Der Teil des Zimmers, den die Webcam erfasst.
-
-> [2] Derzeit: Private Nervennahrung des SL. Steht links neben der Webcam im toten Winkel.
-
-> Wir treffen uns für den Workshop "Spielleiternotizen im Pen&Paper" am **Dienstag, den 16. Juni, ab 19 Uhr**, und zwar digital im [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
-
->
-
-> **16. Mai 2020: Tavernentreffen digital**
-
-> Das Konzept "Einfach mal so treffen und quatschen" ist momentan so eine Sache, aber das Gute daran: Beim digitalen Tavernentreffen muss man seine Pommes mit niemandem teilen. Wir haben zur allgemeinen Unterhaltung eine RPG-Variante von skribbl.io vorbereitet (manchen sicher auch unter dem Namen "Montagsmaler" bekannt) und freuen uns auf euer Erscheinen!
-
-> Das Monatstreffen findet statt am **Samstag, den 16. Mai, ab 19 Uhr** wieder in unserem [Librarium-Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen)
-
-
-
+<a name="rollenspielabend"></a>
 ## Rollenspielabende für Neulinge
+
 Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
 Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*innen einen Einblick in verschiedene Pen & Paper Systeme und Spielstile zu geben.
 
 ![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
 
+
 Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler\*innen grob erwartet.
-Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen.
-Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden von ca. 18:30 Uhr bis 19:00 Uhr) oder zur zweiten Phase (20:45 Uhr bis 21:15 Uhr) da sein solltet.
-Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
+Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden ab 18:30 Uhr) oder zur zweiten Phase (20:45 Uhr) da sein solltet. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
-Wir möchten die Spielleiter\*innen für den Abend stellen und du kannst eine\*r davon sein.
-Alternativ kannst du natürlich auch vorbeikommen und nur mitspielen.
+Wir werden als Verein die Spielleiter*innen für den Abend stellen und du kannst eine*r davon sein.
 
->Am **Montag, den 25. November 2019** findet ab 18:30 Uhr der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
+>Am **Dienstag den 30. November 2021** findet ab **18:30 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
->**Wo?:** [**SemiTemp**](https://goo.gl/maps/swq46aj4Nn32)  (Schinkelstraße 15, nahe RWTH Hauptgebäude und nicht zu verwechseln mit Semi90 oder Temp).
+>**Wo?:** [**Informatikzentum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten Stockwerk), Ahornstraße 55, Zugang ist über den Parkplatz an der Mies-Van-Der-Rohe-Straße. 
 
+>**Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das in unserer [Strawpoll](https://strawpoll.de/1zab732) kundtust.
+
+>**Zum Thema Corona:** Es gilt **2G+**. Nach aktuellen Richtlinien (Stand: 20.11.) ist das "+" noch nicht verpflichtend, aber zum Zeitpunkt des Events ggf. schon, also plane den Test schon mal ein. Abgesehen davon sind Schnelltest für alle sehr sinnvoll, damit wir einen entspannten Abend haben können. Auf den Fluren des Informatikzentrums muss Maske getragen werden. Während der Spielrunden (aka, am festen Sitzplatz) ist das prinzipiell nicht nötig, aber natürlich möglich und im Zweifel empfohlen. 
 >
->Wenn du Lust hast, eine Runde zu leiten, brauchen wir folgende Infos von dir:
+>Wenn du Lust hast, eine **Runde zu spielleiten**, brauchen wir folgende Infos von dir:
 >
 >  * Deinen Name?
 >  * Welches System?
 >  * Wie viele Spieler (min/max)?
 >  * Leitest du eine oder zwei Runden?
 >
->Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://fachschaften.rwth-aachen.de/etherpad/p/Rollenspielabend-Librarium-Fachschaft_2019-11-25) ein.
+>Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://etherpad.fachschaften.rwth-aachen.de/p/Rollenspielabend-Librarium-Fachschaft_2021-11-30) ein.
 
+
+<!--
 Der Rollenspielabend mit der KatHo findet einmal pro Semester statt. Sobald ein Termin dafür feststeht, wird er hier veröffentlicht.
 
 
+>Wir laden ein zum zweiten digitalen Rollenspielabend des Librarium! Nach positiven Erfahrungen mit dem ersten digitalen Rollenspielabend im November 2020 freuen wir uns darauf, dass der traditionelle Rollenspielabend mit der Fachschaft auch dieses Semester möglich sein wird. Das digitale Event findet statt am **Samstag, den 08. Mai 2021 ab 18:30 Uhr**. Wir freuen uns über alle **Spielleiter/innen**, die Lust haben, an diesem Abend ein oder zwei Online-Rollenspielrunden zu spielleiten.
+
+>Die Anmeldung der Runden findet über zwei Etherpads ([erste Spielphase](https://etherpad.fachschaften.rwth-aachen.de/p/RPG-Librarium-Fachschaft-2021-05-08-Phase-1), [zweite Spielphase](https://etherpad.fachschaften.rwth-aachen.de/p/RPG-Librarium-Fachschaft-2021-05-08-Phase-2)) statt. Hier darfst du als motivierte/r SL deine Spielrunde(n) schon jetzt eintragen - je früher, desto besser.
+
+>Interessierte **Spieler/innen** können sich **ab Mittwoch, den 5. Mai, 12:00 Uhr** in der Runde ihrer Wahl eintragen - bitte nur für eine Runde pro Spielphase, es gilt "First come, first served". Bitte meldet euch frühzeitig an, damit die SLs einen Überblick haben, wie viele Leute sie erwarten können. Die spontane Teilnahme ohne vorherige Anmeldung wird aus organisatorischen Gründen nicht möglich sein.
+
+>**Geplanter Ablauf** ***(Stand 11.04.21)***<br/>
+>Begrüßung 1: 18:30 Uhr - 19:00 Uhr<br/>
+>Spielphase 1: 19:00 Uhr - 21:00 Uhr<br/>
+>Begrüßung 2: 21:00 Uhr - 21:30 Uhr<br/>
+>Spielphase 2: 21:30 Uhr - 23:30 Uhr
+
+>**Die Begrüßung der Teilnehmer/innen wird per [YouTube-Livestream](https://www.youtube.com/channel/UCPECWOdg3R9ctupYE7TT0Pg
+) um 18:30 Uhr und um 21:00 Uhr stattfinden.** Bitte seid pünktlich! Die Spielrunden spielen (je nach Vorliebe der Spielleitung) z.B. über Jitsi, Discord oder Roll20, wobei wir Jitsi als das System mit der geringsten "Einstiegshürde" für Spieler/innen präferieren. In den verlinkten Etherpads findet ihr detailliertere Informationen zur Organisation des Abends, die auch regelmäßig geupdatet werden. Bei Fragen zum Ablauf schickt uns einfach eine Mail an vorstand@rpg-librarium.de.
+-->
+<!--
+>Unser **[Frageraum](https://meet.jit.si/Rollenspielabend-Librarium-2020)** ist während des Rollenspielabends für euch da, wenn es um organisatorische, technische, rollenspiel- und vereinsbezogene Fragen geht oder ihr einfach nur über Pen&Paper quatschen wollt! Während der beiden Begrüßungs-Livestreams ist hier vermutlich keiner von uns, aber sonst den ganzen Abend.
+
+
+
+>Wir bedanken uns herzlich bei allen Spielleiter/innen, die uns bei unserem ersten digitalen Rollenspielabend mit der Fachschaft I/1 am Freitag, den 13. November 2020 unterstützt haben! Der nächste Rollenspielabend für Einsteiger/innen wird voraussichtlich in den ersten Wochen des Sommersemesters 2021 stattfinden.
+-->
+<a name="freizeit"></a>
 ## Freizeit
+
 Wir bieten regelmäßig eine Freizeit über ein verlängertes Wochenende an. Dann möchten wir uns mit euch für ein paar Tage dem Alltag entziehen und uns gemeinsam in einer Jugendherberge dem Pen & Paper widmen.
 
 Wir planen Einsteiger- und Veteranenrunden für verschiedene Systeme:
 
-* DSA 4 & 5,
-* Cthulhu,
-* Shadowrun,
-* und alles wofür sich sonst noch Meister und Spieler finden lassen.
+* Das Schwarze Auge
+* Dungeons & Dragons
+* Shadowrun
+* Cthulhu
+* Traveller
+* Power, Plüsch & Plunder
+* Microscope
+* InSpectres
+* ... und alles wofür sich sonst noch SLs und Spieler/innen finden lassen.
 
-Außerdem gibt es auch immer Raum für
+Außerdem gibt es immer Zeit für:
 
-* anregende Gespräche,
-* Gesellschaftsspiele,
-* Spaziergänge in der Umgebung,
-* und ein gemütliches Stöbern in der Librarium eigenen Büchersammlung.
+* anregende Gespräche
+* Gesellschaftsspiele
+* Wanderungen in der Umgebung
+* und ein gemütliches Stöbern in der Librarium-eigenen Büchersammlung.
 
+...und natürlich unser wildes Spielsystem-Crossover ["Weltenbrücken"](#weltenbruecken), das einzige Pen & Paper für 20+ Leute.
+
+<!--
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
 
 Die offizielle Anmeldung folgt dann bald.
+-->
+
+
+>Da unsere jährliche Freizeit 2022 leider ausfallen muss, haben wir uns das Burg-ähnlichste gesucht, was wir gefunden haben, und laden ein zur ersten Mini-Convention des Librarium! Am Wochenende vom 8./9. Januar 2022 haben wir für das volle Wochenende die Veranstaltungsräume oben im Aachener Ponttor gebucht, um dort ein Rollenspielwochenende zu zelebrieren. 
+
+> **UPDATE: Leider muss die Librarium-Convention gemäß der ab dem 28. Dezember 2021 gültigen Corona-Schutzverordnung ebenfalls ausfallen.**
+
+> Gemäß §4.1.6 sind nur Vereinsveranstaltungen "ohne geselligen Charakter" erlaubt, alles andere fällt unter die 10-Personen-Beschränkung. Wir hoffen dennoch, dass wir die Librarium-Convention irgendwann nachholen können und halten euch darüber auf dem Laufenden.
 
 <!--
+>**Wie kann ich mitmachen?**
+
+>Du kannst dich tageweise anmelden; also für Samstag (8.1.), Sonntag (9.1.) oder für beide Tage. Schreib uns einfach eine [Mail](mailto:vorstand@rpg-librarium.de) bis Silvester (31.12.2021) und melde dich verbindlich an.
+
+>**Was wird denn da gemacht? Und was gespielt?**
+
+>Das hängt von euch ab! Spielrunden, Workshops etc. werden wie auf der Freizeit von euch, den Teilnehmern, organisiert - wir sind also auf eure Unterstützung angewiesen. Wenn du also ein Lieblingssystem oder -abenteuer hast, dann bring es einfach mit! Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. organisieren. Genauso gern sind Brettspielrunden oder interessante Workshops gesehen. Wir freuen uns, wenn ihr uns eure Spielrunden (und wann ihr sie leiten wollt) schon frühzeitig ankündigt, damit die Pinnwand nicht so leer aussieht und ihr andere Leute inspiriert, auch spontan etwas anzubieten
+>Natürlich haben wir unsere Büchersammlung vor Ort, sodass auch einfach nur in Bücher gestöbert werden kann.
+
+>**Um wie viel Uhr geht's los?**
+
+>Wir starten am Samstag und Sonntag um Punkt 10 Uhr mit einer gemeinsamen Begrüßung. Danach beginnen Spielrunden und Workshops. Ähnlich zur Freizeit auf der Freusburg rechnen wir mit 3 Zeitslots: Vormittags, nachmittags und abends.
+
+>**Gibt's was zu essen und trinken?**
+
+>Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags gemeinsam in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, Essbar o.ä.).
+
+>**Was kostet das?**
+
+>Nichts. Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
+
+>**Braucht ihr noch Hilfe?**
+
+>Ja. Die ca. 300-Bücher-starke Büchersammlung muss aus dem Wohnzimmer der Vorstandsvorsitzenden (Nähe Westpark) raus, in einen Kofferraum rein, aus selbigen Kofferraum raus und ins Ponttor hoch. Der Büchertransport ist für Freitagabend (7.1) bzw. Montagvormittag (10.1.) geplant. Schreib uns, wenn du Zeit hast, uns dabei zu unterstützen!
+
+>**TL; DR! Also was wollt ihr jetzt alles bei der Anmeldung wissen?**
+
+>Anmeldung für: Samstag, Sonntag oder beide Tage?
+
+>Interesse an gemeinsamen Mittagessen: Ja, nein, nur an einem Tag
+
+>Kann bei Büchertransport helfen: Ja (Freitag), Ja (Montag), Nein
+
+>Plane Spielrunde/Workshop/Brettspiel/...: 
+
+
+
 Es ist soweit.
 Wir möchten uns mit euch für ein paar Tage dem Alltag entziehen
 und uns gemeinsam in der [Jugendherberge Freusburg](http://www.jugendherberge.de/de-de/jugendherbergen/freusburg359/portraet) dem Pen & Paper spielen widmen.
 
-Geplant haben wir Einsteiger- und Veteranenrunden für verschiedene Systeme, z.B.:
+Es gibt Spielrunden verschiedenster Rollenspielsysteme, darunter normalerweise:
 
-* DSA 4 & 5,
-* Cthulhu,
-* Power Plüsch und Plunder,
-* Shadowrun,
-* Hollow Earth,
-* und alles wofür sich sonst noch Meister und Spieler finden lassen.
+* Das Schwarze Auge
+* Dungeons & Dragons
+* Shadowrun
+* Cthulhu
+* Traveller
+* Power, Plüsch & Plunder
+* Microscope
+* InSpectres
+* ... und alles wofür sich sonst noch SLs und Spieler/innen finden lassen.
 
 Außerdem wird es Raum geben für:
 
-* anregende Gespräche,
-* Gesellschaftsspiele,
-* Spaziergänge in der Umgebung,
-* und ein gemütliches Stöbern in der Librarium eigenen Büchersammlung.
+* anregende Gespräche
+* Gesellschaftsspiele
+* Wanderungen in der Umgebung
+* und ein gemütliches Stöbern in der Librarium-eigenen Büchersammlung.
 
 **Zeitraum:** 02.01. bis 06.01.2021 (4 Übernachtungen)
 
@@ -145,14 +222,31 @@ Der Unterschied entsteht durch die Preisstaffelung nach Alter der Jugendherberge
 
 **Frist:** Wir bitten um eure Anmeldungen bis zum **20. Oktober 2020**, eine Nachmeldung ist voraussichtlich **nicht** möglich.
 Nach der Anmeldung erhaltet ihr von uns eine Bestätigung per Mail mit den Zahlungsinformationen. Bitte zahlt innerhalb von 2 Wochen die Teilnahmegebühr auf das angegebene Konto. Erst mit der Bezahlung wird die Teilnahme verbindlich.
--->
 
+### Anmeldung für Nerds
+Weil sich einige beklagt haben, dass ihre E-Mail-Clients nicht mit Mailto-Links umgehen können, könnt ihr auch alternativ diesen wunderbaren TLS Service nutzen. Ganz ohne E-Mail-Client 🎉
+
+```
+ ncat --ssl-verify rpg-librarium.de 8080
+```
+-->
 <!--
 ### Nachmeldung
 Wir jedes Jahr können wir noch versuchen Menschen bei der Jugendherberge nachzumelden. Leider ist die Stornierung ab jetzt aber nicht mehr kostenfrei. Deshalb benötigen wir von euch vorab eine verbindliche Zusage, damit das Risiko nicht auf dem Verein liegt. Dafür musst du uns eine [Anmeldungs Mail über diesen Mailto-Link](mailto:vorstand@rpg-librarium.de?subject=Librarium%20Freizeit%202021&body=Lieber%20Vorstand%2C%0A%0Aich%20melde%20mich%20verbindlich%20vom%2002.01.%20bis%2006.01.2021%20zur%20Librarium-Freizeit%20an.%20Die%20Vorauszahlung%20des%20Teilnahmebeitrag%20%C3%BCberweise%20ich%20nach%20dem%20Erhalt%20der%20Zahlungsaufforderung.%20Mir%20ist%20bewusst%2C%20dass%20der%20RPG%20Librarium%20Aachen%20e.V.%20erst%20die%20Teilname%20garantieren%20kann%2C%20wenn%20eine%20Zusage%20der%20Jugendherberge%20vorliegt.%20%20%0A%0AName%3A%0AAlter%3A%0AAnschrift%3A%0AMail%3A%0ABemerkungen%20(Nahrungsmittelrestriktionen%20o.%C3%A4.)%3A%0A%0ASch%C3%B6ne%20Gr%C3%BC%C3%9Fe) schicken.
 Du bekommst von uns dann eine Mail mit einer Rechnung für die Anzahlung. Erst wenn wir deine verbindliche Zusage haben, können wir dich bei der Jugendherberge anmelden. Sollte die Jugendherberge kein Bett mehr freihaben haben, bekommst Du deine Anzahlung selbstverständlich zurück.
 
 **Frist:** Um die Jugendherberge nicht zu häufig zu nerven, werden wir die Nachmeldungen gesammelt vornehmen. Bitte melde dich bis zum **20. November** über den oben stehenden Link nach.
+-->
+
+<a name="weltenbruecken"></a>
+
+## Weltenbrücken 
+Was wäre, wenn die Grenzen zwischen unseren Spielwelten verschwimmen? Das Weltgefüge zerbricht, die fiktiven Realitäten verschmelzen? Wenn sich ein DSA-Magier in der hochtechnologisierten Welt von Shadowrun wiederfindet? Wenn ein Shadowrunner auf cthulhoide Schrecken trifft? Wenn die quietschbunten Kuscheltiere aus Plüsch, Power & Plunder sich mitten in einem Dungeon Crawl wiederfinden? Das Projekt "Weltenbrücken" ist ein skurriles, anarchisches Crossover-Rollenspiel, in dem beliebig viele Spieler/innen zwischen den Spieltischen und damit den verschiedensten Spielwelten hin- und herwechseln. Die Idee entstand auf der Librarium-Freizeit 2018 und wurde 2019 und 2020 tatsächlich umgesetzt. Seitdem können wir stolz behaupten, dass "Weltenbrücken" der Höhepunkt einer jeden Librarium-Freizeit ist. 
+
+<!--
+>Das uns in den letzten beiden Jahre liebgewordene, verrückte spielweltübergreifende Massen-Rollenspiel "Weltenbrücken" geht online, und zwar am **Samstag, den 30. Januar 2021, von voraussichtlich 14 - 18 Uhr**. Für die Organisation der Rundenwechsel benötigen wir eine verbindliche Anmeldung von euch bis zum **3. Januar 2021 um 18 Uhr**.
+
+>Außerdem suchen wir natürlich schon Spielleiter/innen, die sich vorstellen können, beim Weltenwandelwahnsinn zu spielleiten. Meldet euch in beiden Fällen an vorstand@rpg-librarium.de. Voraussichtlich wird Weltenbrücken über Jitsi stattfinden und ein Intro gibt es vermutlich per YouTube-Livestream. Informationen folgen!
 -->
 
 ## Conventions
@@ -179,6 +273,78 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. Januar 2022: How To Librarium: Rollenspielverein leicht gemacht
+Gibt es eigentlich eine neue Multiversumsausgabe? Ich würde ja auch mal gerne so einen Multiversums-Artikel schreiben, aber wen muss ich eigentlich dafür ansprechen? Das vor Jahren angekündigte Bücherverleihsystem ist auch noch nicht fertig. Die bräuchten mal etwas fachmännische Unterstützung, 'Die da oben'. Vielleicht wollen die ja gar keine Hilfe und bei so einem Monatstreffen zu fragen ist unangenehm. Die anderen reden immer von so einem Vorstand, wer ist das eigentlich und was macht der? Ich bin doch schon seit zwei Jahren dabei und sollte so etwas wissen. Jetzt zu fragen ist irgendwie zu spät. ...Oder nicht? Beim nächsten Monatstreffen lautet das Motto "How To Librarium: Rollenspielverein leicht gemacht (...und für all die, die mal wieder vorbei kommen wollten". 
+
+
+#### 16. Dezember 2021: Weihnachtstaverne
+Das Tragen von Weihnachtsmützen ist nicht obligatorisch, aber erlaubt; und es gibt auch eine kleine Weihnachtsüberraschung!
+
+#### 16. November 2021: Kartenworkshop (Reloaded) - Part 2
+Letztes Mal haben wir uns angesehen, wo Winde wehen, wo Regen fällt und wo Wälder sprießen und welche Gegenden sich in mysteriöse Wüsten verwandeln. Aber was wäre eine Welt ohne Wesen, die auf ihr herumzulaufen und Abenteuer erleben? Diesen Monat wollen wir uns ansehen, wo sich Menschen niederlassen, welche Städte wachsen und wo sich Hochkulturen bilden. Wir schauen uns Gegenden und Städte an und überlegen, warum sie existieren und warum sich Menschen entschieden haben, an diesen Orten zu leben.
+
+#### 16. Oktober 2021: Kartenworkshop (Reloaded) - Part 1 
+Es gibt viele Anlässe, Kartenmaterial während einer Rollenspielrunde zu konsultieren: Für Topographie und Geologie natürlich, aber auch, um festzustellen, durch wessen Herrschaftsgebiet die Helden eigentlich spazieren, oder um zu bestimmen, wo der Feuerball des Magiers wie viel und welche Vegetation versengt.
+Beim kommenden Monatstreffen schauen wir uns im Rahmen eines kleinen Workshops an, was es eigentlich für Karten-Arten gibt, worin sie sich unterscheiden und welche davon im Rollenspiel interessant sein könnten. Bringt auch selber gerne eigene Karten zum Zeigen oder sogar eigenes Zeichenmaterial mit, denn am Ende werden wir selbst ein bisschen kreativ werden.
+
+#### 16. September 2021: Rendez-vous in der Realität
+Wir haben fürs Erste entschieden, die Monatstreffen raus aus der Matrix und rein in die echte Welt zu verlagern. Daher laden wir zum nächsten Monatstreffen ins Café Papillon ein. Ein gemütlicher Abend zum Quatschen und Erzählen - nicht mehr und nicht weniger. Vermutlich sind wir im hinteren Bereich des Papillon zu finden. Rollenspielveteranen sind genauso willkommen wie neue Gesichter!
+
+#### 16. August 2021: Sommerfest im Westpark
+Wir laden herzlich ein zum Librarium-Sommerfest! Ihr findet uns auf der Grillfläche im Westpark. Wir stellen den Grill; Grillgut und Getränke könnt ihr selbst mitbringen. Ebenfalls dürft ihr natürlich Spiele, Bücher, Frisbees, Bälle und brennende Jonglierfackeln mitbringen, wenn ihr möchtet. Picknickdecken wären auch praktisch (z.B., um das Feuer von den Jonglierfackeln zu löschen, aber auch zum Draufsitzen).
+
+#### 16. Juli 2021: Das digitalste Monatstreffen aller Zeiten
+ ...da die Inzidenzen niedrig wie lange nicht sind und auch die Sache mit dem Pieks an Fahrt gewinnt, laden wir zum Abschied aus der Matrix ein. Um insbesondere der Impfkampagne noch ein bisschen Zeit zu verschaffen, gibt's diesen Monat dennoch noch mal ein digitales Treffen. Was sind eure Erfahrungen nach mehr als einem Jahr digitalen Rollenspiel? Was war gut, was war blöd und was nehmt ihr aus dieser ungewöhnlichen Zeit mit? 
+
+#### 16. Juni 2021: Sommerabend-Runde
+An einem lauen Sommerabend treffen wir uns mit literweise Eis und fruchtig-bunten Cocktails in geselliger Runde zum Quatschen. Wir freuen uns auf euch! 
+
+#### 16. Mai 2021: Show & Tell: Rollenspielnahe Freizeitbewältigung
+Was machen wir rollenspielaffine Menschen eigentlich in unserer Freizeit, also außerhalb von Spielrunden? Ärgert euer Mitbewohner euch wieder, weil er seine Schafe nicht gegen Erz tauschen will oder die Rätselschablone nicht richtig ausgeschnitten hat? Reitet ihr vor dem Bildschirm auf dem Pferd Plötze durch Vehlen, malt ihr im Keller riesige Skaven-Horden an? Oder blättert ihr lieber zu Seite 15, weil ihr den rechten Gang gewählt habt?
+Bringt eure liebsten, weitestgehend rollenspielnahen Freizeitaktivitäten zum nächsten Monatstreffen mit! Dazu zählen Singleplayer-Abenteuer aus den Tiefen des Fanfic-Internets genauso wie Bücher, Videospiele, Bastelideen und natürlich *deine* persönliche Lieblingsbeschäftigung. In diesem Show & Tell könnt ihr neue Ideen für eure eigene Zeitgestaltung sammeln und allen anderen den Geheimtipp schlechthin geben!
+
+#### 16. April 2021: Was ist Tiddlywiki?
+Bei unserem nächsten Monatstreffen präsentiert uns David das System Tiddlywiki. Tiddlywiki beschreibt sich selbst als nicht-lineares Notizbuch. Man könnte es auch als Wiki-Lexikon im Kleinformat beschreiben. Die Software läuft fast vollständig im Browser und ein Notizbuch besteht aus nur einer einzelnen Datei. David wird euch die Software allgemein kurz vorstellen. Außerdem zeigt er ausführlich, wie er Tiddlywiki für seine Spielleiternotizen nutzt und wie man es anpassen kann, um seine Notizen für Rollenspiele noch besser zu organisieren.
+
+#### 16. März 2021: Schätze im Schrank
+Mittlerweile hat der Librarium mehr als 200 Bücher in seiner Sammlung. Darunter viele bekannte Systeme wie D&D, DSA und Shadowrun, aber auch einige relativ unbekannte, von denen wir euch im letzten Jahr ein paar im Detail vorgestellt haben. Beim Monatstreffen wird euch Franca ein paar coole Bücher vorstellen, die sonst selten angeschaut oder geliehen werden. 
+
+#### 16. Februar 2021: Virtuelle Rollenspielplattformen
+Ob wir wollen oder nicht, haben sich die meisten von uns inzwischen mit rein digitalen Rollenspielrunden arrangiert. Vor fast einem Jahr hat uns Lamin in die Plattform Roll20 eingeführt. Aber welche Alternativen gibt's außer Roll20 eigentlich noch, um das Online-Rollenspiel atmosphärisch und immersiv zu gestalten? Beim nächsten Monatstreffen gibt es eine Tour durch die Weiten der virtuellen Rollenspielplattformen!
+
+#### 16. Januar 2021: Gesellige Runde
+Nach der Librarium-Freizeit und vo Weltenbrücken gehen wir das erste Treffen des Jahres ganz entspannt an und planen nicht mehr und nicht weniger als nette Gespräche in geselliger Runde. Wir freuen uns auf euch!
+
+#### 16. Dezember 2020: Dungeon Crawl X-Mas Edition
+Werde Teil des einzigartigen Dungeon-Creators des Librarium! Wir basteln zusammen den gefährlichsten! den epischsten! den weihnachtlichsten! Dungeon Crawl der Librarium-Historie. Schnappt euch Kakao und Glühwein und kommt zur jährlichen Librarium-Weihnachtsfeier, auf dass wir gemeinsam mit der Schar der Goblins frohlocken und am Ende der Quest reichlich Loot unter dem Tannenbaum finden mögen.
+
+#### 16. November 2020: Workshop "Immersion im Rollenspiel"
+Du kletterst die letzten Sprossen der Leiter zum Dach hinauf, Rost und abblätternde Farbe unter deinen Handschuhen. Über dir erstreckt sich ein wolkenverhangener Nachthimmel, unter dir das Straßengewirr von Chiba City voller hupender Autos und Neonreklamen. Ein Blick auf deine Armbanduhr verrät dir, dass du dich beeilen musst. In wenigen Sekunden ist deine Drohne startbereit, die Hebel und Schrauben findest du auch im Dämmerlicht ohne Probleme. Mit einem leisen Surren erhebt sich die Drohne vom Dach und fliegt ihrem Ziel entgegen...
+Dieses Mal dreht sich in einem kleinen Workshop alles um das Thema "Immersion". Wie entführt ihr eure Spieler/innen in andere Welten oder lasst euch selbst entführen? Was bedeutet Immersion, wofür braucht man sie im Rollenspiel und wie erschafft man eigentlich Atmosphäre im Spiel?
+
+#### 16. Oktober 2020: Berüchtigte Berühmtheiten im Rollenspielregal
+In den letzten zwei Monaten haben wir euch einige der außergewöhnlichen und unbekannten Rollenspiele aus unserer Sammlung vorgstellt. Dieses Mal geht es in die andere Richtung: Mit Dungeons and Dragons, Das Schwarze Auge und Shadowrun haben wir in unserer Sammlung drei der wohl bekanntesten und größten Rollenspielsysteme. Viele von uns haben wahrscheinlich schon einige davon ausprobiert und sich von den anderen fern gehalten. D&D ist nur Monster schnetzeln, in DSA gibt es für alles eine Regel und in Shadowrun braucht man mehr Würfel als in zwei Hände passen - solche Sachen habt ihr vielleicht schon gehört.
+
+Beim nächsten Monatstreffen schauen wir den drei Systemen mal unter den Buchdeckel. Wie wird gewürfelt, wie funktioniert Magie, wie sieht die Spielwelt aus und wen spielt man eigentlich? Da unsere Sammlung für diese Editionen am größten ist, betrachten wir D&D 5, DSA 4.1 und Shadowrun 5.
+
+#### 16. September 2020: Piraten, Weltraumschurken & Machoweiber**
+Im September stellt euch Franca drei Regelsysteme aus der Librarium-Sammlung vor. Freut euch auf das draufgängerische Mantel & Degen - Setting "7te See", die Space Opera für Schurken und Rebellen "Am Rande des Imperiums" in der Welt von Star Wars, und den krawalligen Pulp-Humor der "Machoweiber mit dicken Kanonen". 
+
+#### 16. August 2020: Apocalypse World, Numenera, Conspire, Schrecken aus der Tiefe
+Lasst euch von Lamin in das Obskuriositätenkabinett aus unserem Bücherschrank entführen und entdeckt neue Rollenspielsysteme, von denen ihr bisher vielleicht nur am Rande etwas gehört habt. 4 Systeme, ihre Regeln und Spielwelten erwarten euch beim nächsten Monatstreffen. Neben dem belesenen Lamin sind dabei: Apocalypse World, Numenera, Conspire und Schrecken aus der Tiefe.
+
+#### 16. Juli 2020: Kaffee & Kuchen
+Zentrale will, dass Sie diesen 16., also übermorgen, auf eine äußerst prekäre Mission ausfahren: "Oma Muirarbil" hat um 19:00 Uhr zum digitalen "Kaffee Kuchen" geladen. Wie, was das für Codenamen sein sollen? Wer Oma Muirarbil ist? Auf diese Information habe ich, ähm, kein Zugriff. Es ist definitiv kein Pseudonym für mich! Und ich schreibe Sie und alle anderen Agenten im Verteiler auch definitiv nicht einfach nur so an, weil ich einsam bin. Jedenfalls treffen wir uns bei mir zuhause, die Internet-Adresse kommt gleich. Es muss auch kein Kaffee sein, Tee und Kakao ist auch gut. Und Kekse oder Eis statt Kuchen gehen natürlich auch! Ach, und viel Glück, Agent. 
+
+#### 16. Juni 2020: Spielleiternotizen im Pen&Paper
+Der Termin steht, das Zimmer ist aufgeräumt [1], die Matheabgabe ist fertig, die Snacks sind gekauft [2], die Spieler sind heiß, die guten und bösen Geister wurden besänftigt, die Ahnen angerufen. Ein finaler Blick in die Notizen von letzter... Notizen? Welche Notizen? Was haben die Spieler letzte Woche eigentlich gemacht?
+Wie man sich als SL sinnvoll Notizen macht, die kollektive Amnesie vermeidet und überprüft, ob die Helden wirklich - wie sie behaupten - das Schwert der Legendären Awesomeness gefunden haben, das möchten wir beim nächsten Monatstreffen im Rahmen eines Workshops mit euch diskutieren!
+
+[1] Aktuell zu verstehen als: Der Teil des Zimmers, den die Webcam erfasst.  
+[2] Derzeit: Private Nervennahrung des SL. Steht links neben der Webcam im toten Winkel.
+
+#### 16. Mai 2020: Tavernentreffen digital
+Das Konzept "Einfach mal so treffen und quatschen" ist momentan so eine Sache, aber das Gute daran: Beim digitalen Tavernentreffen muss man seine Pommes mit niemandem teilen. Wir haben zur allgemeinen Unterhaltung eine RPG-Variante von skribbl.io vorbereitet (manchen sicher auch unter dem Namen "Montagsmaler" bekannt) und freuen uns auf euer Erscheinen!
 
 #### 16. April 2020: Einführung in Roll20
 Roll20 ist eine Plattform für Online-Rollenspiel, mit integriertem Videochat, digitalen Würfeln, Tools für Battlemaps und allem, was die digitale Pen&Paper-Runde benötigt - und genug Funktionen, um Neulinge völlig zu überfordern. Beim nächsten Monatstreffen wird euch Lamin eine Einführung in das Spielen via Roll20 geben, sodass keine Reallife-Rollenspielrunde in die Zwangspause verdammt werden muss.

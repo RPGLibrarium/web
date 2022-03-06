@@ -1,7 +1,7 @@
 {{/* add script for dynamic interaction */}}
 <script src="/js/titleList.js" async="true"></script>
 {{/* fetch JSON from file */}}
-{{ $titles := getJSON "https://liberation.rpg-librarium.de/v1/titles" }}
+{{ $titles := getJSON "https://liberation.rpg-librarium.de/v1/titles?recursive=true" }}
 {{/* generate HTML */}}
 <div class="titlesTable">
   <table class="titles">
@@ -11,14 +11,14 @@
     </thead>
     <tbody>
       {{/* iterate over the entries and sort them descending by the id property */}}
-      {{ range sort $titles.titles ".system.name" "asc"}}
+      {{ range sort $titles ".rpg_system.name" "asc"}}
         {{/* compute the pdf file path */}}
         <tr>
           <td class="title">
-              {{ .name }}
+            {{ .name }}
           </td>
           <td class="system">
-            {{ .system.name }}
+            {{ .rpg_system.name }}
           </td>
         </tr>
       {{ end }}
