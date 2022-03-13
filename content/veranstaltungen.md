@@ -21,12 +21,12 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
 -->
 
->**16. Februar 2022: Schreibwerkstatt "Valentinstags-Special"**
+>**16. März 2022: Workshop "Oneshot-Design" (in Person im Chico Mendes!)**
 
-> Das Librarium-Flugblatt "Multiversum" lädt zur Valentins-Schreibwerkstatt ein, denn gemeinsam schreibt es sich kreativer und unterhaltsamer. Wir verfassen leidenschaftliche Liebes- und Todesanzeigen aus allen unseren Rollenspielwelten. Wie wäre es mit einem literarischen Liebesbekenntnis an den Lieblings-NPC? Einem humorvollen Datingprofil für den SC? Oder doch lieber mit einem Racheschwur an den Erzbösewicht, verfasst im sechshebigen Jambus? Ob blutig oder romantisch, Hauptsache mit Herzblut! Alle Artikel, Gedichte, Annoncen, Kurzgeschichten und Werbeanzeigen werden anschließend - wenn ihr mögt - in unserem Flugblatt "Multiversum" veröffentlicht. 
+> Ein Oneshot kann dem Versuch gleichen, die Welt von DSA auf einer Postkarte zu erklären - zumindest im Worst Case. Wie zum Teufel komprimiert man den Schrankmeter Regelwerke und eine beliebig komplexe Spielwelt auf eine einzige Spielsession? Denn selbst wenn die Regeln des gewählten Systems der Runde bereits bekannt sind, ist es noch immer eine Kunst, einen Plot (ohne George-R.R.-Martin-mäßige Eskalation) auf den Punkt zu bringen. Also, schiebt das Verfassen eurer siebenbändigen Epic Fantasy Kampagne für einen weiteren Tag auf und kommt beim nächsten Monatstreffen vorbei, wenn ein Workshop zum Thema "Oneshot-Design" auf der Tagesordnung steht!
+ 
 
-> Wir treffen uns am **Mittwoch, den 16. Februar, ab 19 Uhr** virtuell auf dem Discord Server des RPG Librarium. Den Einladungslink erhaltet ihr auf Nachfrage!
-
+> Das Monatstreffen findet am **Mittwoch, den 16. März, ab 19 Uhr** im Café **Chico Mendes** (Pontstraße 74-76) statt. In Gaststätten gilt offiziell 3G, wir bitten euch jedoch trotzdem darum, einen zusätzlichen Selbst- oder Schnelltest zu machen; schaden kann's nicht.
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
@@ -273,6 +273,9 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. Februar 2022: Schreibwerkstatt "Valentinstags-Special"
+Das Librarium-Flugblatt "Multiversum" lädt zur Valentins-Schreibwerkstatt ein, denn gemeinsam schreibt es sich kreativer und unterhaltsamer. Wir verfassen leidenschaftliche Liebes- und Todesanzeigen aus allen unseren Rollenspielwelten. Wie wäre es mit einem literarischen Liebesbekenntnis an den Lieblings-NPC? Einem humorvollen Datingprofil für den SC? Oder doch lieber mit einem Racheschwur an den Erzbösewicht, verfasst im sechshebigen Jambus? Ob blutig oder romantisch, Hauptsache mit Herzblut! Alle Artikel, Gedichte, Annoncen, Kurzgeschichten und Werbeanzeigen werden anschließend - wenn ihr mögt - in unserem Flugblatt "Multiversum" veröffentlicht.
+
 #### 16. Januar 2022: How To Librarium: Rollenspielverein leicht gemacht
 Gibt es eigentlich eine neue Multiversumsausgabe? Ich würde ja auch mal gerne so einen Multiversums-Artikel schreiben, aber wen muss ich eigentlich dafür ansprechen? Das vor Jahren angekündigte Bücherverleihsystem ist auch noch nicht fertig. Die bräuchten mal etwas fachmännische Unterstützung, 'Die da oben'. Vielleicht wollen die ja gar keine Hilfe und bei so einem Monatstreffen zu fragen ist unangenehm. Die anderen reden immer von so einem Vorstand, wer ist das eigentlich und was macht der? Ich bin doch schon seit zwei Jahren dabei und sollte so etwas wissen. Jetzt zu fragen ist irgendwie zu spät. ...Oder nicht? Beim nächsten Monatstreffen lautet das Motto "How To Librarium: Rollenspielverein leicht gemacht (...und für all die, die mal wieder vorbei kommen wollten". 
 
