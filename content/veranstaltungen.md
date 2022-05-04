@@ -43,7 +43,7 @@ Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*i
 
 
 Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler\*innen grob erwartet.
-Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden ab 18:30 Uhr) oder zur zweiten Phase (20:45 Uhr) da sein müsst. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
+Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden ab 18:15Uhr) oder zur zweiten Phase (20:45 Uhr) da sein müsst. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
 Wir werden als Verein die Spielleiter\*innen für den Abend stellen und du kannst eine\*r davon sein.
