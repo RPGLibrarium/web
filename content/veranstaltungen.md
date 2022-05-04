@@ -7,10 +7,10 @@ menu:
   main:
     weight: 300
 ---
+
+Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!
+
 <!--
-Hier geht's zum digitalen [Rollenspielabend](#rollenspielabend) am 08. Mai 2021!
-
-
 Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
 --->
 
@@ -52,7 +52,7 @@ Wir werden als Verein die Spielleiter\*innen für den Abend stellen und du kanns
 >
 >**Wo?:** [**Informatikzentum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten Stockwerk), Ahornstraße 55, Zugang ist über den Parkplatz an der Mies-Van-Der-Rohe-Straße. 
 
->**Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das in unserer [Strawpoll](https://strawpoll.com/polls/xVg7d23deZr) kundtust.
+>**Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das (so verbindlich wie möglich) in unserer [Strawpoll](https://strawpoll.com/polls/xVg7d23deZr) kundtust.
 
 >**Zum Thema Corona:** Es gelten die **Corona-Richtlinien der RWTH**. Wir bitten zusätzlich darum, im Sinne aller Anwesenden einen tagesaktuellen Schnell-/Selbsttest durchzuführen. Bitte tragt außerdem auf den Fluren eine Maske. Auf festen Sitzplätzen (also während Spielrunden) muss keine Maske getragen werden, aber wenn sich jemand aus der Runde damit wohler fühlt, respektiert das entsprechend. 
 >
