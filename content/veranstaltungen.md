@@ -21,12 +21,12 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
 -->
 
->**16. März 2022: Workshop "Oneshot-Design"**
+>**16. Mai 2022: TBA**
 
-> Ein Oneshot kann dem Versuch gleichen, die Welt von DSA auf einer Postkarte zu erklären - zumindest im Worst Case. Wie zum Teufel komprimiert man den Schrankmeter Regelwerke und eine beliebig komplexe Spielwelt auf eine einzige Spielsession? Denn selbst wenn die Regeln des gewählten Systems der Runde bereits bekannt sind, ist es noch immer eine Kunst, einen Plot (ohne George-R.R.-Martin-mäßige Eskalation) auf den Punkt zu bringen. Also, schiebt das Verfassen eurer siebenbändigen Epic Fantasy Kampagne für einen weiteren Tag auf und kommt beim nächsten Monatstreffen vorbei, wenn ein Workshop zum Thema "Oneshot-Design" auf der Tagesordnung steht!
+> Thema: TBA
  
 
-> Das Monatstreffen findet am **Mittwoch, den 16. März, ab 19 Uhr** im Café **Chico Mendes** (Pontstraße 74-76) statt. In Gaststätten gilt offiziell 3G, wir bitten euch jedoch trotzdem darum, einen zusätzlichen Selbst- oder Schnelltest zu machen; schaden kann's nicht.
+> Das Monatstreffen findet am **Montag, den 16. Mai, ab 19 Uhr** im **Café Papillon** in der Pontstraße statt. Wir bitten euch darum, einen Selbst- oder Schnelltest zu machen; schaden kann's nicht.
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
@@ -43,18 +43,18 @@ Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*i
 
 
 Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung der Systeme und was die Spieler\*innen grob erwartet.
-Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden ab 18:30 Uhr) oder zur zweiten Phase (20:45 Uhr) da sein solltet. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
+Danach suchen sich die Besucher\*innen eine Runde aus und können sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und Einteilung der Spielrunden ab 18:30 Uhr) oder zur zweiten Phase (20:45 Uhr) da sein müsst. Im Nachhinein in eine Spielrunde einzusteigen ist meist nicht möglich.
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
-Wir werden als Verein die Spielleiter*innen für den Abend stellen und du kannst eine*r davon sein.
+Wir werden als Verein die Spielleiter\*innen für den Abend stellen und du kannst eine\*r davon sein.
 
->Am **Dienstag den 30. November 2021** findet ab **18:30 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
+>Am **Dienstag den 17. Mai 2022** findet ab **18:15 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Getränke und Knabberzeug sind ausreichend vorhanden!
 >
 >**Wo?:** [**Informatikzentum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten Stockwerk), Ahornstraße 55, Zugang ist über den Parkplatz an der Mies-Van-Der-Rohe-Straße. 
 
->**Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das in unserer [Strawpoll](https://strawpoll.de/1zab732) kundtust.
+>**Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Allerdings hilfst du uns enorm bei Organisation, wenn du - solltest kommen wollen -, das in unserer [Strawpoll](https://strawpoll.com/polls/xVg7d23deZr) kundtust.
 
->**Zum Thema Corona:** Es gilt **2G+**. Nach aktuellen Richtlinien (Stand: 20.11.) ist das "+" noch nicht verpflichtend, aber zum Zeitpunkt des Events ggf. schon, also plane den Test schon mal ein. Abgesehen davon sind Schnelltest für alle sehr sinnvoll, damit wir einen entspannten Abend haben können. Auf den Fluren des Informatikzentrums muss Maske getragen werden. Während der Spielrunden (aka, am festen Sitzplatz) ist das prinzipiell nicht nötig, aber natürlich möglich und im Zweifel empfohlen. 
+>**Zum Thema Corona:** Es gelten die **Corona-Richtlinien der RWTH**. Wir bitten zusätzlich darum, im Sinne aller Anwesenden einen tagesaktuellen Schnell-/Selbsttest durchzuführen. Bitte tragt außerdem auf den Fluren eine Maske. Auf festen Sitzplätzen (also während Spielrunden) muss keine Maske getragen werden, aber wenn sich jemand aus der Runde damit wohler fühlt, respektiert das entsprechend. 
 >
 >Wenn du Lust hast, eine **Runde zu spielleiten**, brauchen wir folgende Infos von dir:
 >
@@ -63,7 +63,7 @@ Wir werden als Verein die Spielleiter*innen für den Abend stellen und du kannst
 >  * Wie viele Spieler (min/max)?
 >  * Leitest du eine oder zwei Runden?
 >
->Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://etherpad.fachschaften.rwth-aachen.de/p/Rollenspielabend-Librarium-Fachschaft_2021-11-30) ein.
+>Entweder du [meldest dich bei uns](mailto:kontakt@rpg-librarium.de) oder du trägst dich direkt im [Etherpad](https://etherpad.fachschaften.rwth-aachen.de/p/Rollenspielabend-Librarium-Fachschaft_2022-05-17) ein.
 
 
 <!--
@@ -273,6 +273,9 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. März 2022: Workshop "Oneshot-Design"
+Ein Oneshot kann dem Versuch gleichen, die Welt von DSA auf einer Postkarte zu erklären - zumindest im Worst Case. Wie zum Teufel komprimiert man den Schrankmeter Regelwerke und eine beliebig komplexe Spielwelt auf eine einzige Spielsession? Denn selbst wenn die Regeln des gewählten Systems der Runde bereits bekannt sind, ist es noch immer eine Kunst, einen Plot (ohne George-R.R.-Martin-mäßige Eskalation) auf den Punkt zu bringen. Also, schiebt das Verfassen eurer siebenbändigen Epic Fantasy Kampagne für einen weiteren Tag auf und kommt beim nächsten Monatstreffen vorbei, wenn ein Workshop zum Thema "Oneshot-Design" auf der Tagesordnung steht!
+
 #### 16. Februar 2022: Schreibwerkstatt "Valentinstags-Special"
 Das Librarium-Flugblatt "Multiversum" lädt zur Valentins-Schreibwerkstatt ein, denn gemeinsam schreibt es sich kreativer und unterhaltsamer. Wir verfassen leidenschaftliche Liebes- und Todesanzeigen aus allen unseren Rollenspielwelten. Wie wäre es mit einem literarischen Liebesbekenntnis an den Lieblings-NPC? Einem humorvollen Datingprofil für den SC? Oder doch lieber mit einem Racheschwur an den Erzbösewicht, verfasst im sechshebigen Jambus? Ob blutig oder romantisch, Hauptsache mit Herzblut! Alle Artikel, Gedichte, Annoncen, Kurzgeschichten und Werbeanzeigen werden anschließend - wenn ihr mögt - in unserem Flugblatt "Multiversum" veröffentlicht.
 
