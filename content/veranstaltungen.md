@@ -9,7 +9,7 @@ menu:
 ---
 
 Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!
-
+Hier geht's zur [FeenCon-Fahrt](#conventions) am 25. Juni 2022!
 <!--
 Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
 --->
@@ -249,29 +249,25 @@ Was wäre, wenn die Grenzen zwischen unseren Spielwelten verschwimmen? Das Weltg
 
 >Außerdem suchen wir natürlich schon Spielleiter/innen, die sich vorstellen können, beim Weltenwandelwahnsinn zu spielleiten. Meldet euch in beiden Fällen an vorstand@rpg-librarium.de. Voraussichtlich wird Weltenbrücken über Jitsi stattfinden und ein Intro gibt es vermutlich per YouTube-Livestream. Informationen folgen!
 -->
-
+<a name="conventions"></a>
 ## Conventions
 
-2016, 2017, 2018 und 2019 haben wir die [FeenCon](http://www.feencon.de/) in Bonn besucht. Das ist auch 2020 geplant. Weitere Informationen findet ihr dann an dieser Stelle und erhaltet sie über unseren Newsletter. Aktuell gibt es keine konkreten Planungen, weitere Conventions oder Messen zu besuchen - aber das kann sich schnell ändern. Am besten den Newsletter abonnieren, um auf dem Laufenden zu bleiben!
+2016, 2017, 2018 und 2019 haben wir die [FeenCon](http://www.feencon.de/) in Bonn besucht. <!--Das ist auch 2020 geplant. -->Weitere Informationen zu Convention-Besuchen findet ihr an dieser Stelle und erhaltet sie über unseren Newsletter. Aktuell gibt es keine konkreten Planungen, weitere Conventions oder Messen außer der FeenCon zu besuchen - aber das kann sich schnell ändern. Am besten den Newsletter abonnieren, um auf dem Laufenden zu bleiben!
 
-<!--
->Vom 21.-22. Juli 2018 findet die FeenCon in Bonn - Bad Godesberg statt, eine Convention mit Pen&Paper-Spielrunden, Workshops, Shops mit Würfeln, Bücher und Spielen, Stände von Künstlern, Lesungen von Autoren... kurz: allem, was das Rollenspielherz begehrt. Wie in den vergangenen Jahren möchten wir dort am Samstag, den 21. Juli, gemeinsam hinfahren, denn zusammen fährt es sich im Zug nicht so allein, und eine Convention macht noch mehr Spaß mit Freunden. Wie immer gilt: Ob Vereinsmitglied oder nicht - du (ja, du!) bist herzlich eingeladen!
+
+>Vom 25.-26. Juni 2022 findet die FeenCon in Bonn statt, eine Convention mit Pen&Paper-Spielrunden, Workshops, Shops mit Würfeln, Bücher und Spielen, Stände von Künstlern, Lesungen von Autoren... kurz: allem, was das Rollenspielherz begehrt. Wie in den vergangenen Jahren möchten wir dort am Samstag, den 25. Juni, gemeinsam hinfahren, denn zusammen fährt es sich im Zug nicht so allein, und eine Convention macht noch mehr Spaß mit Freunden. Wie immer gilt: Ob Vereinsmitglied oder nicht - du (ja, du!) bist herzlich eingeladen!
 >
 >Hier also die technischen Daten:
 >
->Samstag, 21. Juli:
-ab 7:30 Uhr: Treffen vor dem Haupteingang des Aachener Hauptbahnhof (seid pünktlich, Züge warten nicht!)
-7:51 Uhr: Abfahrt von Gleis 2 mit dem RE1 nach Köln
-8:44 Uhr: Ankunft in Köln
-8:56 Uhr. Abfahrt von Gleis 9 D-G mit der RB 26 nach Bonn - Bad Godesberg
-9:33 Uhr: Ankunft in Bonn - Bad Godesberg
-ab 10:00 Uhr: Aufenthalt auf der FeenCon
+>Samstag, 25. Juni:
+ab 7:30 Uhr: Treffen vor dem Haupteingang des Aachener Hauptbahnhof, links außen vor der Buchhandlung (seid pünktlich, Züge warten nicht!)
+7:51 Uhr: Abfahrt mit dem RE1 Richtung Köln
 >
->Auf der Hinfahrt werden wir gemeinsam überlegen, wie und wann wir abends zurückfahren.
+>Auf der Hinfahrt werden wir gemeinsam überlegen, wie und wann wir abends zurückfahren. Wenn ihr woanders als am Aachener Hbf dazustoßen wollt, meldet euch einfach.
 >
->Der Eintritt für Samstag beträgt 8 €. Mehr Details und einen Programmflyer findet ihr auf der Website der FeenCon.
+>Der Eintritt für Samstag beträgt 7.50 €. Mehr Details und einen Programmflyer findet ihr auf der Website der FeenCon.
 
--->
+
 
 ## Vergangene Veranstaltungen
 #### 16. Mai 2022: Vorwürfelparty
