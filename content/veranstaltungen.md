@@ -260,8 +260,10 @@ Was wäre, wenn die Grenzen zwischen unseren Spielwelten verschwimmen? Das Weltg
 >Hier also die technischen Daten:
 >
 >Samstag, 25. Juni:
-ab 7:30 Uhr: Treffen vor dem Haupteingang des Aachener Hauptbahnhof, links außen vor der Buchhandlung (seid pünktlich, Züge warten nicht!)
-7:51 Uhr: Abfahrt mit dem RE1 Richtung Köln
+
+>ab 7:30 Uhr: Treffen vor dem Haupteingang des Aachener Hauptbahnhof, links außen vor der Buchhandlung (seid pünktlich, Züge warten nicht!)
+
+>7:51 Uhr: Abfahrt mit dem RE1 Richtung Köln
 >
 >Auf der Hinfahrt werden wir gemeinsam überlegen, wie und wann wir abends zurückfahren. Wenn ihr woanders als am Aachener Hbf dazustoßen wollt, meldet euch einfach.
 >
