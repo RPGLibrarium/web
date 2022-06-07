@@ -21,12 +21,13 @@ Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der 
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
 -->
 
->**16. Mai 2022: Vorwürfelparty**
+>**16. Juni 2022: Sommerfest**
 
-> Am Vorabend des Rollenspielabends treffen wir uns zu einem konspirativen Treffen, um schon einmal alle Würfelergebnisse im Voraus festzulegen. Wenn ihr eine Runde spielleiten wollt und noch Last-Minute-Vorbereiten müsst, könnt ihr dies beim Monatstreffen in guter Gesellschaft zu tun, dabei euren Plot diskutieren, kreativen Input sammeln und am Ende mit völlig obskuren Plotideen nach Hause gehen. Wenn ihr nicht spielleiten wollt, sondern einfach nur Bock habt, obskure Oneshot-Plotideen in den Raum zu werfen, von denen am Ende jemand genug gehypt ist, um sie tatsächlich (für euch?) zu spielleiten - umso besser. Wenn ihr einfach nur Bock habt auf locker quatschen bei Kakao, Tee oder Cocktails - ihr seid genauso willkommen! 
- 
+> Am Donnerstag, den 16. Juni, findet das Librarium-Sommerfest im Westpark statt. Ab 17 Uhr findet ihr uns auf dem Grillplatz des Westparks. Wir stellen einen Grill und ihr dürft gern euer Grillgut und Getränke mitbringen. Kartenspiele, Frisbees, Bälle, Jonglierzeug etc. sind auch immer willkommen. Wer zudem eine Picknickdecke mitbringt, sammelt persönliche Bonuspunkte beim Vorstand. Achtung, der 16. ist Fronleichnam, also denkt dran, rechtzeitig fürs Grillen einkaufen zu gehen!
 
-> Das Monatstreffen findet am **Montag, den 16. Mai, ab 19 Uhr** im **Café Papillon** in der Pontstraße statt. Wir bitten euch darum, einen Selbst- oder Schnelltest zu machen; schaden kann's nicht.
+ > Wenn das Wetter am 16. nicht mitspielt, werden wir stattdessen spontan auf das Café Papillon ausweichen. Das teilen wir euch dann bis spätestens 14 Uhr am selben Tag via Newsletter und Signalgruppe mit.
+
+> Das Sommerfest findet am **Donnerstag, den 16. Juni, ab 17 Uhr** im **Westpark (Grillplatz)** statt. 
 
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
@@ -273,6 +274,9 @@ ab 10:00 Uhr: Aufenthalt auf der FeenCon
 -->
 
 ## Vergangene Veranstaltungen
+#### 16. Mai 2022: Vorwürfelparty
+Am Vorabend des Rollenspielabends treffen wir uns zu einem konspirativen Treffen, um schon einmal alle Würfelergebnisse im Voraus festzulegen. Wenn ihr eine Runde spielleiten wollt und noch Last-Minute-Vorbereiten müsst, könnt ihr dies beim Monatstreffen in guter Gesellschaft zu tun, dabei euren Plot diskutieren, kreativen Input sammeln und am Ende mit völlig obskuren Plotideen nach Hause gehen. Wenn ihr nicht spielleiten wollt, sondern einfach nur Bock habt, obskure Oneshot-Plotideen in den Raum zu werfen, von denen am Ende jemand genug gehypt ist, um sie tatsächlich (für euch?) zu spielleiten - umso besser. Wenn ihr einfach nur Bock habt auf locker quatschen bei Kakao, Tee oder Cocktails - ihr seid genauso willkommen! 
+
 #### 16. März 2022: Workshop "Oneshot-Design"
 Ein Oneshot kann dem Versuch gleichen, die Welt von DSA auf einer Postkarte zu erklären - zumindest im Worst Case. Wie zum Teufel komprimiert man den Schrankmeter Regelwerke und eine beliebig komplexe Spielwelt auf eine einzige Spielsession? Denn selbst wenn die Regeln des gewählten Systems der Runde bereits bekannt sind, ist es noch immer eine Kunst, einen Plot (ohne George-R.R.-Martin-mäßige Eskalation) auf den Punkt zu bringen. Also, schiebt das Verfassen eurer siebenbändigen Epic Fantasy Kampagne für einen weiteren Tag auf und kommt beim nächsten Monatstreffen vorbei, wenn ein Workshop zum Thema "Oneshot-Design" auf der Tagesordnung steht!
 
