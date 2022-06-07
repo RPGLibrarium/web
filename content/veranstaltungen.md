@@ -8,7 +8,7 @@ menu:
     weight: 300
 ---
 
-Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!
+<!--Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!--->
 Hier geht's zur [FeenCon-Fahrt](#conventions) am 25. Juni 2022!
 <!--
 Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
@@ -252,10 +252,10 @@ Was wäre, wenn die Grenzen zwischen unseren Spielwelten verschwimmen? Das Weltg
 <a name="conventions"></a>
 ## Conventions
 
-2016, 2017, 2018 und 2019 haben wir die [FeenCon](http://www.feencon.de/) in Bonn besucht. <!--Das ist auch 2020 geplant. -->Weitere Informationen zu Convention-Besuchen findet ihr an dieser Stelle und erhaltet sie über unseren Newsletter. Aktuell gibt es keine konkreten Planungen, weitere Conventions oder Messen außer der FeenCon zu besuchen - aber das kann sich schnell ändern. Am besten den Newsletter abonnieren, um auf dem Laufenden zu bleiben!
+2016, 2017, 2018 und 2019 haben wir gemeinsam die [FeenCon](http://www.feencon.de/) in Bonn besucht. <!--Das ist auch 2020 geplant. -->Weitere Informationen zu Convention-Besuchen findet ihr an dieser Stelle und erhaltet sie auch über unseren Newsletter. <!--Aktuell gibt es keine konkreten Planungen, weitere Conventions oder Messen außer der FeenCon zu besuchen - aber das kann sich schnell ändern. Am besten den Newsletter abonnieren, um auf dem Laufenden zu bleiben!-->
 
 
->Vom 25.-26. Juni 2022 findet die FeenCon in Bonn statt, eine Convention mit Pen&Paper-Spielrunden, Workshops, Shops mit Würfeln, Bücher und Spielen, Stände von Künstlern, Lesungen von Autoren... kurz: allem, was das Rollenspielherz begehrt. Wie in den vergangenen Jahren möchten wir dort am Samstag, den 25. Juni, gemeinsam hinfahren, denn zusammen fährt es sich im Zug nicht so allein, und eine Convention macht noch mehr Spaß mit Freunden. Wie immer gilt: Ob Vereinsmitglied oder nicht - du (ja, du!) bist herzlich eingeladen!
+>Vom **25.-26. Juni 2022** findet die FeenCon in Bonn statt, eine Convention mit Pen&Paper-Spielrunden, Workshops, Shops mit Würfeln, Bücher und Spielen, Stände von Künstlern, Lesungen von Autoren... kurz: allem, was das Rollenspielherz begehrt. Wie in den vergangenen Jahren möchten wir dort am Samstag, den 25. Juni, gemeinsam hinfahren, denn zusammen fährt es sich im Zug nicht so allein, und eine Convention macht noch mehr Spaß mit Freunden. Wie immer gilt: Ob Vereinsmitglied oder nicht - du (ja, du!) bist herzlich eingeladen!
 >
 >Hier also die technischen Daten:
 >
