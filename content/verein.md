@@ -21,7 +21,7 @@ Postfach 101632
 Neben der Vorstandssitzung gibt es innerhalb des RPG Librarium einige Arbeits- und Projektgruppen, in welchen sich Mitglieder, aber auch Nicht-Mitglieder engagieren. Um den Überblick zu behalten und einfache Rücksprache mit dem Vorstand zu ermöglichen, gibt es je eine/n Ansprechpartner/in innerhalb der AG, der/die jeweils mit einem Vorstandsmitglied Kontakt hält. Wann, wie und wo sich eine AG trifft, ist ihr überlassen.
 Du hast Interesse, in einer AG mitzumachen? Schreibe einfach eine Mail an <kontakt@rpg-librarium.de> und der Vorstand vermittelt dich dann an die jeweilige AG. Bisher existieren folgende AGen (oder sind in Planung):
 
->* Monatstreffen:Orga der monatlichen Vereinstreffen (Rollenspieltests, Workshops, Themenabende...) _(Franca)_
+* Monatstreffen:Orga der monatlichen Vereinstreffen (Rollenspieltests, Workshops, Themenabende...) _(Franca)_
 * Librarium-Freizeit: Organisation eines großen Rollenspiels (Weltenbrücken) für alle Teilnehmer zusammen _(Franca)_
 <!-- * Wusel-Merchandise: Plüschis, Untersetzer und andere wuselige Dinge _(Stefan)_-->
 * Multiversum-Flugblatt: Ein Flugblatt aus den Rollenspieluniversen des Librarium _(Hanna)_

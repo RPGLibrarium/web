@@ -1,0 +1,11 @@
+<div class="relative w-100 mb2 nested-copy-line-height">
+  <div class="f4 mb2 gray overflow-hidden">
+    <h2 class="mid-gray">
+        <span class="f5 db normal">{{ .Date | time.Format ":date_long" }}</span>
+        <a href="{{ .RelPermalink }}" class="link mid-gray dim">{{ .Title }}</a>
+    </h2>
+    <div class="nested-links lh-copy nested-copy-line-height">
+      {{ .Summary }}
+    </div>
+  </div>
+</div>
