@@ -18,8 +18,7 @@ Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 
 ## Librarium-Con im Ponttor: 16. & 17. Juli 2022
 > Der Librarium lädt ein zu seiner allerersten Convention! Die Con im Ponttor war ursprünglich zu Beginn des Jahres anstelle der Librarium-Freizeit geplant, konnte damals aber wegen Corona nicht stattfinden. Das Versäumnis holen wir jetzt nach!
 > 
-> #### Convention? Wann, wo?
-> 
+> ### Convention? Wann, wo?
 > Am Wochenende vom **16. & 17. Juli 2022**, oben im Aachener Ponttor. Ähnlich zur Freizeit auf der Freusburg rechnen wir grob mit 3 Zeitslots für Spielrunden und Workshops: Vormittags, nachmittags und abends. Exakte Uhrzeiten schreiben wir potentiellen Spielleiter/innen aber nicht vor. Samstag und Sonntag starten wir jeweils um **9:30 Uhr** mit einer Begrüßung und einer kurzen Einweisung, was ihr im Ponttor beachten müsst (damit keine der alten Fensterscheiben versehentlich kaputtgehen, die wollen wir nämlich nicht bezahlen müssen). 
 > 
 > **Was wird denn da gespielt?**
