@@ -10,11 +10,8 @@ menu:
 ---
 
 <!--Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!--->
-...[Hier](#conventions) geht's zur FeenCon-Fahrt am 25. Juni 2022!
+Infos zur [Librarium-Freizeit 2023](#freizeit) auf der Freusburg folgen bald, Infos zur [FeenCon-Fahrt](#conventions) am 25. Juni 2022 findet ihr jetzt schon und [hier](#monatstreffen) geht's zum nächsten regulären Monatstreffen am 16. August 2023. Der nächste große [Rollenspielabend](#rollenspielabend) findet voraussichtlich nächstes Wintersemester statt.
 
-...und [hier](#monatstreffen) zum nächsten regulären Monatstreffen.
-
-Infos zur Librarium-Freizeit 2023 auf der Freusburg folgen bald [hier](#freizeit)
 
 <!--
 Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
