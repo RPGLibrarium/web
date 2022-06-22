@@ -18,31 +18,31 @@ Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 
 ## Librarium-Con im Ponttor: 16. & 17. Juli 2022
 > Der Librarium lädt ein zu seiner allerersten Convention! Die Con im Ponttor war ursprünglich zu Beginn des Jahres anstelle der Librarium-Freizeit geplant, konnte damals aber wegen Corona nicht stattfinden. Das Versäumnis holen wir jetzt nach!
 
-### Convention? Wann, wo?
-> Am Wochenende vom **16. & 17. Juli 2022**, oben im Aachener Ponttor. Ähnlich zur Freizeit auf der Freusburg rechnen wir grob mit 3 Zeitslots für Spielrunden und Workshops: Vormittags, nachmittags und abends. Exakte Uhrzeiten schreiben wir potentiellen Spielleiter/innen aber nicht vor. Samstag und Sonntag starten wir jeweils um **9:30 Uhr** mit einer Begrüßung und einer kurzen Einweisung, was ihr im Ponttor beachten müsst (damit keine der alten Fensterscheiben versehentlich kaputtgehen, die wollen wir nämlich nicht bezahlen müssen). 
+**Convention? Wann, wo?**
+m Wochenende vom **16. & 17. Juli 2022**, oben im Aachener Ponttor. Ähnlich zur Freizeit auf der Freusburg rechnen wir grob mit 3 Zeitslots für Spielrunden und Workshops: Vormittags, nachmittags und abends. Exakte Uhrzeiten schreiben wir potentiellen Spielleiter/innen aber nicht vor. Samstag und Sonntag starten wir jeweils um **9:30 Uhr** mit einer Begrüßung und einer kurzen Einweisung, was ihr im Ponttor beachten müsst (damit keine der alten Fensterscheiben versehentlich kaputtgehen, die wollen wir nämlich nicht bezahlen müssen). 
 
-### Was wird denn da gespielt?
-> Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand uns vor allem um die Rahmenbedingungen des Events. Das bedeutet: Spielrunden, Workshops etc. werden zum Großteil von Teilnehmern für Teilnehmer organisiert - wir sind also auf eure Unterstützung angewiesen. **Wenn du ein Lieblingssystem oder -abenteuer hast, dann bring es mit!** Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. vor Ort organisieren. Genauso gern sind Brettspielrunden, Kartenspielrunden oder interessante Workshops gesehen. Wir freuen uns, wenn ihr uns eure Spielrunden (und wann ihr sie leiten wollt) schon frühzeitig ankündigt, damit die Pinnwand nicht so leer aussieht und ihr andere Leute inspiriert, auch spontan etwas anzubieten.
+**Was wird denn da gespielt?**
+Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand uns vor allem um die Rahmenbedingungen des Events. Das bedeutet: Spielrunden, Workshops etc. werden zum Großteil von Teilnehmern für Teilnehmer organisiert - wir sind also auf eure Unterstützung angewiesen. **Wenn du ein Lieblingssystem oder -abenteuer hast, dann bring es mit!** Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. vor Ort organisieren. Genauso gern sind Brettspielrunden, Kartenspielrunden oder interessante Workshops gesehen. Wir freuen uns, wenn ihr uns eure Spielrunden (und wann ihr sie leiten wollt) schon frühzeitig ankündigt, damit die Pinnwand nicht so leer aussieht und ihr andere Leute inspiriert, auch spontan etwas anzubieten.
 
-> Außerdem haben wir unsere majestästische **Büchersammlung** vor Ort, sodass nach Herzenslaune in Bücher gestöbert werden kann. Wir planen die Con außerdem als eine reine Spieleveranstaltung, wir werden also keine Aussteller oder dergleichen einladen, wie ihr das vielleicht von großen Conventions kennt.
+Außerdem haben wir unsere majestästische **Büchersammlung** vor Ort, sodass nach Herzenslaune in Bücher gestöbert werden kann. Wir planen die Con außerdem als eine reine Spieleveranstaltung, wir werden also keine Aussteller oder dergleichen einladen, wie ihr das vielleicht von großen Conventions kennt.
 
-### Gibt's da was zu essen?
-> Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags (ca. 13 Uhr) gemeinsam in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, Essbar o.ä.).
+**Gibt's da was zu essen?**
+Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags (ca. 13 Uhr) gemeinsam in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, Essbar o.ä.).
 
-### Muss ich mich anmelden? Kostet das was?
-> Wir bitten um eine **kurze, formlose Anmeldung per Mail** an uns, damit wir etwas besser planen können. Gib bei der Anmeldung bitte folgendes an:
+**Muss ich mich anmelden? Kostet das was?**
+Wir bitten um eine **kurze, formlose Anmeldung per Mail** an uns, damit wir etwas besser planen können. Gib bei der Anmeldung bitte folgendes an:
 
-> Anmeldung für: Samstag, Sonntag oder beide Tage?
-> Interesse an gemeinsamen Mittagessen: Ja, nein, nur an einem der Tage?
-> Kann bei Büchertransport helfen: Ja (Freitag), Ja (Montag), Nein
-> Biete Rollenspielrunde/Workshop/Brettspielrunde/etc.: Ja, und zwar...
+Anmeldung für: Samstag, Sonntag oder beide Tage?
+Interesse an gemeinsamen Mittagessen: Ja, nein, nur an einem der Tage?
+Kann bei Büchertransport helfen: Ja (Freitag), Ja (Montag), Nein
+Biete Rollenspielrunde/Workshop/Brettspielrunde/etc.: Ja, und zwar...
 
-> Du kannst am Wochenende der Convention aber natürlich auch spontan vorbeikommen. Wenn es nicht proppenvoll sein sollte, werden wir niemanden rausschmeißen. 
+Du kannst am Wochenende der Convention aber natürlich auch spontan vorbeikommen. Wenn es nicht proppenvoll sein sollte, werden wir niemanden rausschmeißen. 
 
-> **Der Eintritt ist kostenlos.** Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
+**Der Eintritt ist kostenlos.** Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
 
-> ### Hallo Vorstand, braucht ihr noch Hilfe bei der Orga?
-> Ja. Die ca. 300-Bücher-starke Büchersammlung muss aus den Wohnzimmern zweier Vorstandsmitglieder raus (Nähe Westpark & Nähe HBF), in einen Kofferraum rein, aus dem Kofferraum raus und ins Ponttor hoch. Der Büchertransport ist für Freitagabend (15.7.) bzw. Montagvormittag (18.7.) geplant. Schreib uns, wenn du Zeit hast, uns dabei zu unterstützen!
+**Hallo Vorstand, braucht ihr noch Hilfe bei der Orga?**
+Ja. Die ca. 300-Bücher-starke Büchersammlung muss aus den Wohnzimmern zweier Vorstandsmitglieder raus (Nähe Westpark & Nähe HBF), in einen Kofferraum rein, aus dem Kofferraum raus und ins Ponttor hoch. Der Büchertransport ist für Freitagabend (15.7.) bzw. Montagvormittag (18.7.) geplant. Schreib uns, wenn du Zeit hast, uns dabei zu unterstützen!
 
 
 
