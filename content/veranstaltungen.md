@@ -10,7 +10,7 @@ menu:
 ---
 
 <!--Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!--->
-Infos zur [Librarium-Freizeit 2023](#freizeit) auf der Freusburg folgen bald, Infos zur [FeenCon-Fahrt](#conventions) am 25. Juni 2022 findet ihr jetzt schon und [hier](#monatstreffen) geht's zum nächsten regulären Monatstreffen am 16. August 2023. Der nächste große [Rollenspielabend](#rollenspielabend) findet voraussichtlich nächstes Wintersemester statt.
+Infos zur [Librarium-Freizeit 2023](#freizeit) auf der Freusburg folgen bald, Infos zur [FeenCon-Fahrt](#conventions) am 25. Juni 2022 findet ihr jetzt schon, und [hier](#monatstreffen) geht's zum nächsten regulären Monatstreffen am 16. August 2023. Der nächste große [Rollenspielabend](#rollenspielabend) findet voraussichtlich nächstes Wintersemester im November 2022 statt.
 
 
 <!--
