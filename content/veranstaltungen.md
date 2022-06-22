@@ -11,16 +11,55 @@ menu:
 
 <!--Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!--->
 Hier geht's zur [FeenCon-Fahrt](#conventions) am 25. Juni 2022!
+
 <!--
 Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
 --->
+## Librarium-Convention im Ponttor: 16. & 17. Juli 2022
+Der Librarium lädt ein zu seiner allerersten Convention! 
+
+Ursprünglich zu Beginn des Jahres anstelle der Librarium-Freizeit geplant, konnte die kleine Rollenspielconvention im Ponttor damals wegen Corona nicht stattfinden. Das Versäumnis holen wir jetzt nach!
+
+### Convention? Wann, wo?
+Am Wochenende vom **16. & 17. Juli 2022**, oben im Aachener Ponttor. 
+
+Ähnlich zur Freizeit auf der Freusburg rechnen wir grob mit 3 Zeitslots für Spielrunden und Workshops: Vormittags, nachmittags und abends. Exakte Uhrzeiten schreiben wir potentiellen Spielleiter/innen aber nicht vor. Samstag und Sonntag starten wir jeweils um 9:30 Uhr mit einer Begrüßung und einer kurzen Einweisung, was ihr im Ponttor beachten müsst (damit keine der alten Fensterscheiben versehentlich kaputtgehen, die wollen wir nämlich nicht bezahlen müssen). 
+
+### Was wird denn da gespielt?
+Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand uns vor allem um die Rahmenbedingungen des Events. Das bedeutet: Spielrunden, Workshops etc. sollen zum Großteil von Teilnehmern für Teilnehmer organisiert werden - wir sind also auf eure Unterstützung angewiesen. Wenn du also ein Lieblingssystem oder -abenteuer hast, dann bring es einfach mit! Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. vor Ort organisieren. Genauso gern sind Brettspielrunden, Kartenspielrunden oder interessante Workshops gesehen. Wir freuen uns, wenn ihr uns eure Spielrunden (und wann ihr sie leiten wollt) schon frühzeitig ankündigt, damit die Pinnwand nicht so leer aussieht und ihr andere Leute inspiriert, auch spontan etwas anzubieten.
+
+Außerdem haben wir unsere majestästische Büchersammlung vor Ort, sodass nach Herzenslaune in Bücher gestöbert werden kann. Wir planen die Con außerdem als eine reine Spieleveranstaltung, wir werden also keine Aussteller oder dergleichen einladen, wie ihr das vielleicht von großen Conventions kennt.
+
+### Gibt's da was zu essen?
+Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags (ca. 13 Uhr) gemeinsam in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, Essbar o.ä.).
+
+### Muss ich mich anmelden? Kostet das was?
+Wir bitten um eine kurze, formlose Anmeldung per Mail an uns, damit wir etwas besser planen können. Gib bei der Anmeldung bitte folgendes an:
+
+Anmeldung für: Samstag, Sonntag oder beide Tage?
+Interesse an gemeinsamen Mittagessen: Ja, nein, nur an einem der Tage?
+Kann bei Büchertransport helfen: Ja (Freitag), Ja (Montag), Nein
+Biete Rollenspielrunde/Workshop/Brettspielrunde/etc.: Ja, und zwar...
+
+Du kannst am Wochenende der Convention aber natürlich auch spontan vorbeikommen. Wenn es nicht proppenvoll sein sollte, werden wir niemanden rausschmeißen. 
+
+Es gibt keinen Eintritt. Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
+
+### Hallo Vorstand, braucht ihr noch Hilfe bei der Orga?
+Ja. Die ca. 300-Bücher-starke Büchersammlung muss aus den Wohnzimmern zweier Vorstandsmitglieder raus (Nähe Westpark & Nähe HBF), in einen Kofferraum rein, aus dem Kofferraum raus und ins Ponttor hoch. Der Büchertransport ist für Freitagabend (15.7.) bzw. Montagvormittag (18.7.) geplant. Schreib uns, wenn du Zeit hast, uns dabei zu unterstützen!
+
+
+
 
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
 
+> **16. Juli 2022/17. Juli 2022: Librarium-Convention im Ponttor**
+
+> Das Monatstreffen am 16. Juli wird durch die Librarium-Convention im Ponttor ersetzt! Am 16. August 2022 treffen wir uns wieder regulär.
+
 <!--
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
--->
 
 >**16. Juni 2022: Sommerfest**
 >
@@ -30,6 +69,8 @@ Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet
 >
 > Das Sommerfest findet am **Donnerstag, den 16. Juni, ab 17 Uhr** im **Westpark (Grillplatz)** statt. 
 >
+-->
+
 Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich eingeladen, vorbeizukommen!
 
 Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal [hier](mailto:kontakt@rpg-librarium.de).
@@ -126,12 +167,6 @@ Die nächste Freizeit befindet sich derzeit noch in der Planungsphase.
 Die offizielle Anmeldung folgt dann bald.
 -->
 
-
->Da unsere jährliche Freizeit 2022 leider ausfallen muss, haben wir uns das Burg-ähnlichste gesucht, was wir gefunden haben, und laden ein zur ersten Mini-Convention des Librarium! Am Wochenende vom 8./9. Januar 2022 haben wir für das volle Wochenende die Veranstaltungsräume oben im Aachener Ponttor gebucht, um dort ein Rollenspielwochenende zu zelebrieren. 
->
-> **UPDATE: Leider muss die Librarium-Convention gemäß der ab dem 28. Dezember 2021 gültigen Corona-Schutzverordnung ebenfalls ausfallen.**
->
-> Gemäß §4.1.6 sind nur Vereinsveranstaltungen "ohne geselligen Charakter" erlaubt, alles andere fällt unter die 10-Personen-Beschränkung. Wir hoffen dennoch, dass wir die Librarium-Convention irgendwann nachholen können und halten euch darüber auf dem Laufenden.
 
 <!--
 >**Wie kann ich mitmachen?**
