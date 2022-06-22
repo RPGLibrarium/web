@@ -30,17 +30,14 @@ Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 
 > Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags (ca. 13 Uhr) gemeinsam in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, Essbar o.ä.).
 > 
 > ### Muss ich mich anmelden? Kostet das was?
-> Wir bitten um eine **kurze, formlose Anmeldung per Mail** an uns, damit wir etwas besser planen können. Gib bei der Anmeldung bitte folgendes an:
+> Wir bitten um eine **kurze, formlose Anmeldung per Mail** an uns, damit wir etwas besser planen können. Du kannst am Wochenende der Convention aber natürlich auch spontan vorbeikommen. Wenn es nicht proppenvoll sein sollte, werden wir niemanden rausschmeißen. Gib bei einer Anmeldung bitte folgendes an:
 > 
 > Anmeldung für: Samstag, Sonntag oder beide Tage?
 > Interesse an gemeinsamen Mittagessen: Ja, nein, nur an einem der Tage?
 > Kann bei Büchertransport helfen: Ja (Freitag), Ja (Montag), Nein
 > Biete Rollenspielrunde/Workshop/Brettspielrunde/etc.: Ja, und zwar...
 > 
-> Du kannst am Wochenende der Convention aber natürlich auch spontan vorbeikommen. Wenn es nicht proppenvoll sein sollte, werden wir niemanden rausschmeißen. 
-> 
-> ### Der Eintritt ist kostenlos.
-> Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
+> **Der Eintritt ist kostenlos.** Allerdings werden wir ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
 > 
 > ### Hallo Vorstand, braucht ihr noch Hilfe bei der Orga?
 > Ja. Die ca. 300-Bücher-starke Büchersammlung muss aus den Wohnzimmern zweier Vorstandsmitglieder raus (Nähe Westpark & Nähe HBF), in einen Kofferraum rein, aus dem Kofferraum raus und ins Ponttor hoch. Der Büchertransport ist für Freitagabend (15.7.) bzw. Montagvormittag (18.7.) geplant. Schreib uns, wenn du Zeit hast, uns dabei zu unterstützen!
