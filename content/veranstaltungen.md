@@ -10,7 +10,7 @@ menu:
 ---
 
 <!--Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!--->
-Hier geht's zur [FeenCon-Fahrt](#conventions) am 25. Juni 2022!
+...[Hier](#conventions) geht's zur FeenCon-Fahrt am 25. Juni 2022!
 
 <!--
 Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
