@@ -12,6 +12,10 @@ menu:
 <!--Hier geht's zum [Rollenspielabend](#rollenspielabend) am 17. Mai 2022!--->
 ...[Hier](#conventions) geht's zur FeenCon-Fahrt am 25. Juni 2022!
 
+...und [hier](#monatstreffen) zum nächsten regulären Monatstreffen.
+
+Infos zur Librarium-Freizeit 2023 auf der Freusburg folgen bald [hier](#freizeit)
+
 <!--
 Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
 --->
@@ -44,7 +48,7 @@ Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 
 
 
 
-
+<a name="monatstreffen"></a>
 ## Monatstreffen
 Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet. 
 
