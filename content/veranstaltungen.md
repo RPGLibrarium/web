@@ -16,7 +16,7 @@ Hier geht's zur [FeenCon-Fahrt](#conventions) am 25. Juni 2022!
 Die  [Librarium-Convention](#freizeit) im Aachener Ponttor am 8./9. Januar 2022 muss leider aufgrund der aktuellen Corona-Schutzverordnung ausfallen. Es tut uns leid! 
 --->
 ## Librarium-Con im Ponttor: 16. & 17. Juli 2022
-> Der Librarium lädt ein zu seiner allerersten Convention! Die Con im Ponttor war ursprünglich zu Beginn des Jahres anstelle der Librarium-Freizeit geplant, konnte damals aber wegen Corona nicht stattfinden. Das Versäumnis holen wir jetzt nach!
+Der Librarium lädt ein zu seiner allerersten Convention! Die Con im Ponttor war ursprünglich zu Beginn des Jahres anstelle der Librarium-Freizeit geplant, konnte damals aber wegen Corona nicht stattfinden. Das Versäumnis holen wir jetzt nach!
 
 **Convention? Wann, wo?**
 
