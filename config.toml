@@ -20,7 +20,7 @@ pluralizeListTitles = false
 
 [params]
 custom_css = ["css/librarium.css", "source-sans/source-sans-3.css"]
-body_classes = "source-sans"
+body_classes = "source-sans bg-near-white"
 
 [taxonomies]
 category = "categories"
