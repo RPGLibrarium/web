@@ -12,6 +12,11 @@ pluralizeListTitles = false
         name = "Veranstaltungen"
         weight = 300
         url = "/events/"
+    [[menu.main]]
+        identifier = "liberation"
+        name = "Bücherverwaltungᴮᴱᵀᴬ"
+        weight = 500
+        url = "https://liberation.rpg-librarium.de/"
 
 [params]
 custom_css = ["css/librarium.css", "source-sans/source-sans-3.css"]
