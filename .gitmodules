@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "static/source-sans"]
+	path = static/source-sans
+	url = https://github.com/adobe-fonts/source-sans.git

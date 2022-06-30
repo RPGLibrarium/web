@@ -14,7 +14,8 @@ pluralizeListTitles = false
         url = "/events/"
 
 [params]
-custom_css = ["css/librarium.css"]
+custom_css = ["css/librarium.css", "source-sans/source-sans-3.css"]
+body_classes = "source-sans"
 
 [taxonomies]
 category = "categories"

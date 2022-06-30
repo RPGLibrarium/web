@@ -1,3 +1,7 @@
+.source-sans {
+  font-family: 'Source Sans 3', 'helvetica', sans-serif;
+}
+
 :root {
   --color-cd-dark-green: hsla(123, 56%, 41%, 1);
   --color-cd-light-green: hsla(86, 63%, 42%, 1);
