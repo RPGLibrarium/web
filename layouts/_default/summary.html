@@ -1,7 +1,9 @@
-<div class="relative w-100 mb2 nested-copy-line-height">
+<div class="relative">
   <div class="f4 mb2 gray overflow-hidden">
     <h2 class="mid-gray">
-        <span class="f5 db normal">{{ .Date | time.Format ":date_long" }}</span>
+        {{ if .Params.eventstart }}
+        <span class="f5 db normal">{{ .Params.eventstart | time.Format ":date_long" }}{{ if .Params.eventend }} – {{ .Params.eventend | time.Format ":date_long" }}{{ end }}</span>
+        {{ end }}
         <a href="{{ .RelPermalink }}" class="link mid-gray dim">{{ .Title }}</a>
     </h2>
     <div class="nested-links lh-copy nested-copy-line-height">

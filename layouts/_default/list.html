@@ -1,0 +1,29 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="mainLayoutContainer mw9 center">
+    <div class="flex-l flex-column mt2 mw8 center">
+      <article class="center cf mv5 ph3 ph4-ns mw7">
+        <header>
+          {{ if ne .Params.hideHeading true }}
+          <h1 class="f1">
+            {{- .Title -}}
+          </h1>
+          {{ end }}
+        </header>
+        <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+          {{ .Content }}
+        </div>
+      </article>
+      <section class="center cf flex flex-column mv4 ph3 mw7">
+            {{ range where .Site.RegularPages.ByDate.Reverse "Section" "==" "veranstaltungen"}}
+              <div class="relative mb2">
+                  {{ .Render "summary" }}
+              </div>
+            {{ end }}
+      </section>
+    </div>
+    <aside class="mt2 sidebar">
+      {{ partial "sidebar.html" . }}
+    </aside>
+  </div>
+{{ end }}

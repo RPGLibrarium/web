@@ -1,0 +1,13 @@
+<article class="relative tj cf f4">
+  <header>
+    <h2 class="mid-gray">
+      {{ if .Params.eventstart }}
+      <span class="f5 db normal">{{ .Params.eventstart | time.Format ":date_long" }}{{ if .Params.eventend }} – {{ .Params.eventend | time.Format ":date_long" }}{{ end }}</span>
+      {{ end }}
+      <a href="{{ .RelPermalink }}" class="link mid-gray dim">{{ .Title }}</a>
+    </h2>
+  </header>
+  <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+    {{ .Content }}
+  </div>
+</article>

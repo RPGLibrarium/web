@@ -1,0 +1,62 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+
+<!-- We define a couple of event lists, that will be reused later on -->
+{{ $events := where .Pages.ByDate.Reverse ".Section" "==" "events" }}
+<!--{{ $placeholders := where .Site.Pages ".Section" "==" "placeholders" }}-->
+{{ $future_events := (where $events ".Date.Unix" ">=" now.Unix).Reverse }}
+<!-- Insert placeholders if events of a certain category doesn't exist -->
+{{ if (not (where $future_events "Params.categories" "intersect" (slice "monatstreffen" ))) }} <!-- zero length array is false -->
+  <!-- using placeholder for monatstreffen -->
+  {{ $future_events = $future_events | append (where $placeholders ".Title" "Monatstreffen") }}
+{{ end }}
+{{ if (not (where $future_events "Params.categories" "intersect" (slice "freizeit" ))) }} <!-- zero length array is false -->
+  <!-- using placeholder for freizeit -->
+  {{ $future_events = $future_events | append (where $placeholders ".Title" "Freizeit") }}
+{{ end }}
+{{ if (not (where $future_events "Params.categories" "intersect" (slice "rollenspielabend" ))) }} <!-- zero length array is false -->
+  <!-- using placeholder for rollenspielabend -->
+  {{ $future_events = $future_events | append (where $placeholders ".Title" "Rollenspielabend") }}
+{{ end }}
+{{ if (not (where $future_events "Params.categories" "intersect" (slice "convention-remote" ))) }} <!-- zero length array is false -->
+  <!-- using placeholder for conventions -->
+  {{ $future_events = $future_events | append (where $placeholders ".Title" "Conventions") }}
+{{ end }}
+
+<div class="mainLayoutContainer mw9 center">
+  <div class="flex-l flex-column mt2 mw8 center">
+    <article class="center flex-l ph3 mw7">
+      <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
+        {{ .Content }}
+      </div>
+    </article>
+    <section class="fl cf flex flex-column ph3 mw7">
+      <header>
+        <h1 class="f1">
+          Zukünftige Veranstaltungen
+        </h1>
+      </header>
+      {{ range $future_events }}
+      <div class="fl w-100 mb2">
+        {{ .Render "article" }}
+      </div>
+      {{ end }}
+    </section>
+    <section class="fl cf flex flex-column ph3 mw7">
+      <header>
+        <h1 class="f1">
+          Vergangene Veranstaltungen
+        </h1>
+      </header>
+      {{ range where $events ".Date.Unix" "<" now.Unix }}
+      <div class="fl w-100 mb2">
+        {{ .Render "summary" }}
+      </div>
+      {{ end }}
+    </section>
+  </div>
+  <aside class="mt2 sidebar">
+    {{ partial "sidebar.html" . }}
+  </aside>
+</div>
+{{ end }}

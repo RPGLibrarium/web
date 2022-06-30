@@ -49,6 +49,11 @@ header.page-header {
   border: 1em solid transparent;
 }
 
+.bg-bottom {
+  --bg-color: var(--color-cd-dark-ish);
+  background: var(--bg-color);
+}
+
 @media screen and (max-width: 60em) {
   .bg-top {
     height: 20vw;

@@ -6,14 +6,20 @@ title = "RPG Librarium Aachen"
 theme = "ananke"
 #relativeUrls = true
 pluralizeListTitles = false
+[menu]
+    [[menu.main]]
+        identifier = "veranstaltungen"
+        name = "Veranstaltungen"
+        weight = 300
+        url = "/events/"
 
 [params]
 custom_css = ["css/librarium.css"]
 
 [taxonomies]
-  tag = ""
+category = "categories"
 
 [sitemap]
 #  changefreq = "monthly"
 #  priority = 0.5
-  filename = "sitemap.xml"
+filename = "sitemap.xml"
