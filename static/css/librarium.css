@@ -15,9 +15,14 @@
   color: var(--color-cd-light-green);
   text-decoration: none;
 }
+
 .nested-links a:hover, .nested-links a:focus {
   color: var(--color-cd-dark-green);
   text-decoration: underline;
+}
+
+.mainLayoutContainer pre {
+  max-width: calc(100vw - 2rem);
 }
 
 blockquote {
