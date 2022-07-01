@@ -16,7 +16,6 @@ categories:
 # when you feel ready, set to false. `hugo server -D` to show drafts locally.
 draft: false
 ---
-
 Der Librarium lädt ein zu seiner allerersten Convention! Die kleine Con im Ponttor war ursprünglich zu Beginn des 
 Jahres anstelle der Librarium-Freizeit geplant, konnte damals aber wegen Corona nicht stattfinden. Das Versäumnis holen 
 wir jetzt nach!

@@ -39,4 +39,3 @@ Was wäre, wenn die Grenzen zwischen unseren Spielwelten verschwimmen? Das Weltg
 
 >Außerdem suchen wir natürlich schon Spielleiter/innen, die sich vorstellen können, beim Weltenwandelwahnsinn zu spielleiten. Meldet euch in beiden Fällen an vorstand@rpg-librarium.de. Voraussichtlich wird Weltenbrücken über Jitsi stattfinden und ein Intro gibt es vermutlich per YouTube-Livestream. Informationen folgen!
 -->
-<a name="conventions"></a>

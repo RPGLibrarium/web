@@ -1,6 +1,6 @@
 <article class="relative tj cf f4">
   <header>
-    <h2 class="mid-gray">
+    <h2 class="mid-gray" id="{{ anchorize .Title }}">
       {{ if .Params.eventstart }}
       <span class="f5 db normal">{{ .Params.eventstart | time.Format ":date_long" }}{{ if .Params.eventend }} – {{ .Params.eventend | time.Format ":date_long" }}{{ end }}</span>
       {{ end }}
