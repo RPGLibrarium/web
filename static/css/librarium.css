@@ -91,15 +91,18 @@ header.page-header {
   /* @RZ: fixme /*
   /* padding: .5em 1em; */
 }
+.page-nav .nav-list li a {
+  /* @RZ: fixme */
+  padding-left: 1em;
+  width: 100%;
+  line-height: 4em;
+}
 .page-nav .nav-list li.active {
   background: hsla(38, 0%, 0%, 1);
   color: var(--color-cd-light-green);
 }
 .page-nav .nav-list li.active a {
   color: inherit;
-}
-.page-nav li a {
-  /* @RZ: fixme */
   padding-left: 1em;
   width: 100%;
   line-height: 4em;

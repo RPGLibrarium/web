@@ -14,7 +14,7 @@ categories:
 #  - monatstreffen 
 #  - freizeit
 #  - convention-remote
-#  - contention-local
+#  - convention-local
 #  - rollenspielabend
 
 # when you feel ready, set to false. `hugo server -D` to show drafts locally.
