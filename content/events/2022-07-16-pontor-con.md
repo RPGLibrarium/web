@@ -27,6 +27,8 @@ potentiellen Spielleiter/innen aber nicht vor. Samstag und Sonntag starten wir j
 Begrüßung und einer kurzen Einweisung, was ihr im Ponttor beachten müsst (damit keine der alten Fensterscheiben 
 versehentlich kaputtgehen, die wollen wir nämlich nicht bezahlen müssen).
 
+**Ins Ponttor gelangt ihr so: Wenn ihr von der Fressmeilen-Seite der Pontstraße auf das Tor zugeht, befindet sich eine kleine Tür auf der rechten Seite (noch bevor man das Tor passiert). Dort könnt ihr klingeln. Dann einfach ganz, ganz weit nach oben die schmale Wendeltreppe raufkommen.**
+
 ### Was wird denn da gespielt?
 Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand uns vor allem um die Rahmenbedingungen 
 des Events. Das bedeutet: Spielrunden, Workshops etc. werden zum Großteil von Teilnehmern für Teilnehmer organisiert - 
