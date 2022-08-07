@@ -1,6 +1,7 @@
 ---
 title: Monatstreffen
 date: 2022-08-16
+publishdate: 2022-08-01
 eventstart: 2022-08-16
 categories:
   - monatstreffen
