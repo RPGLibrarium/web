@@ -1,5 +1,5 @@
 ---
-title: Sommerfest
+title: Monatstreffen
 date: 2022-08-16
 eventstart: 2022-08-16
 categories:
