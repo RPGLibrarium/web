@@ -1,7 +1,7 @@
 ---
 title: Gesellige Runde
 date: 2022-10-16
-publishdate: 2022-10-14
+publishdate: 2022-10-13
 eventstart: 2022-10-16
 categories:
   - monatstreffen
