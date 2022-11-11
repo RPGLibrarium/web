@@ -6,5 +6,4 @@ draft: false
 > ### TLDR
 > Die Anmeldung zur [Librarium-Freizeit 2023](#freizeit-auf-der-freusburg) auf der Freusburg ist geöffnet.
 > 
-> Der nächste große [Rollenspielabend](#rollenspielabend) findet voraussichtlich nächstes Wintersemester im November 
-> 2022 statt.
+> Der nächste große [Rollenspielabend](#rollenspielabend) mit der Fachschaft findet am Dienstag, den 29. November 2023 statt!
