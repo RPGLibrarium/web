@@ -22,16 +22,13 @@ Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
 Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*innen einen Einblick in verschiedene 
 Pen & Paper Systeme und Spielstile zu geben.
 
-![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
-
 Der Abend besteht aus zwei Spielrundenphasen von je ~2 Stunden Länge. Vor jeder Phase gibt es eine kurze Vorstellung 
 der Systeme und was die Spieler\*innen grob erwartet. Danach suchen sich die Besucher\*innen eine Runde aus und können 
 sofort loslegen. Wenn ihr zum Spielen vorbeikommt, beachtet bitte, dass ihr pünktlich zur ersten Phase (Vorstellung und 
 Einteilung der Spielrunden ab 18:30 Uhr) oder zur zweiten Phase (21:15 Uhr) da sein müsst. Im Nachhinein in eine 
 Spielrunde einzusteigen ist meist nicht möglich.
 
-Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen!
-
+![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
 
 
 Am **Dienstag den 29. November 2022** findet ab **18:30 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Die 2. Spielphase beginnt um 21:15 Uhr mit der Vorstellung der Spielrunden.
@@ -40,9 +37,9 @@ Am **Dienstag den 29. November 2022** findet ab **18:30 Uhr** der nächste **Rol
 
 **Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. Vorkenntnisse sind nicht nötig, Würfel und Charaktere werden von uns gestellt. Ihr könnt unabhängig voneinander zur ersten und/oder zur zweiten Spielphase kommen.
 
-**Zum Thema Corona:** Es gelten die zu diesem Zeitpunkt aktuellen **Corona-Richtlinien der RWTH**. 
+**Zum Thema Corona:** Es gelten die zu diesem Zeitpunkt aktuellen Corona-Richtlinien der RWTH. 
 
-Wenn du Lust hast, eine **Runde zu spielleiten**, brauchen wir folgende Infos von dir:
+Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen! Wenn du Lust hast, eine **Runde zu spielleiten**, brauchen wir folgende Infos von dir:
 
   * Deinen Name?
   * Welches System?
