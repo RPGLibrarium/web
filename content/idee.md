@@ -7,8 +7,10 @@ menu:
     weight: 100
 ---
 
-## Der Librarium: Bibliothek und Community
-[Pen & Paper - Rollenspiel](https://de.wikipedia.org/wiki/Pen-%26-Paper-Rollenspiel) - ist das nicht dieses Spiel, dass die Nerds in Stranger Things und Big Bang Theory spielen? Goldrichtig! Liebst du Fantasy, Science-Fiction oder Horror? Schwärmst du für Abenteuer in fernen Welten? Reißen fantastische Geschichten dich mit? Verschlingst du Bücher, Filme, Spiele? Und willst du deine eigenen Erzählungen spinnen, am liebsten bewaffnet mit Würfeln, Stift und Papier? Aber du weißt nicht, wie du anfangen sollst? Oder spielst du seit 10 Jahren deine Kampagne und willst nun vor dankbarem Publikum von epischen Taten künden?
+## Librarium: Bibliothek und Community
+[Pen & Paper](https://de.wikipedia.org/wiki/Pen-%26-Paper-Rollenspiel) - ist das nicht dieses Spiel, dass die Nerds in Stranger Things und Big Bang Theory spielen? Genau das! 
+
+Liebst du Fantasy, Science-Fiction oder Horror? Schwärmst du für Abenteuer in fernen Welten? Reißen fantastische Geschichten dich mit? Verschlingst du Bücher, Filme, Spiele? Und willst du deine eigenen Erzählungen spinnen, am liebsten bewaffnet mit Würfeln, Stift und Papier? Aber du weißt nicht, wie du anfangen sollst? Oder spielst du seit 10 Jahren deine Kampagne und willst nun vor dankbarem Publikum von epischen Taten künden?
 
 Der **RPG Librarium Aachen e.V.** - kurz: Librarium - ist ein gemeinnütziger Aachener Spieleverein und versteht sich als **Community rund ums Rollenspiel**. Somit bist du bei uns an der richtigen Adresse, um Menschen kennenzulernen, die sich auch für das kreative, gesellige Hobby "Pen & Paper - Rollenspiel" begeistern. Wir veranstalten...
 
