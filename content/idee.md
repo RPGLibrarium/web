@@ -19,7 +19,7 @@ Der **RPG Librarium Aachen e.V.** - kurz: Librarium - ist ein gemeinnütziger Aa
 * Monatliche Treffen zum Quatschen
 * Workshops & Lesungen zum Thema Rollenspiel
 * Sommerfeste & Weihnachtsfeiern
-* ...und unterstützen bei der Organisation von allen Rollenspielevents, die dir so einfallen
+* ...und unterstützen bei allen Rollenspielevents, die dir so einfallen
 
 Unseren Vereinsmitgliedern steht außerdem eine immer weiter wachsende Rollenspielbibliothek bereit. Du musst aber explizit kein Mitglied sein, um bei Librarium-Veranstaltungen Hallo zu sagen und mitzuspielen! Also: **Stöbere mal durch die Buchtitel in der Librarium-Bibliothek oder komm bei unseren monatlichen Treffen am nächsten 16. vorbei!**
 
