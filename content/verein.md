@@ -7,7 +7,7 @@ menu:
     weight: 400
 ---
 
-Der RPG Librarium Aachen e.V. ist ein gemeinnütziger Verein, dessen Ziel laut Satzung die Förderung von Kunst und Kultur ist - hier in der Form von Rollenspiel. Auch wenn du nur dann Vereinsmitglied sein musst, wenn du Bücher aus unserer Bibliothek ausleihen musst, haben wir trotzdem ein aktives Vereinsleben.
+Der RPG Librarium Aachen e.V. ist ein gemeinnütziger Verein, dessen satzungsgemäßes Ziel die Förderung von Kunst und Kultur ist. Hier also: Pen & Paper - Rollenspiel! Der Librarium ist ziemlich stolz auf sein aktives Vereinsleben. Lies weiter, wenn du mehr darüber erfahren willst. 
 
 ## Der Vereinsvorstand
 Unsere Mitglieder wählen jährlich auf der Mitgliederversammlung einen Vorstand, welcher das Jahr über die anfallenden Aufgaben koordiniert. Im Vorstand sind zurzeit  **Franca, Yoann, Jan, Dominik und Ira**. Die Vorstandssitzungen sind grundsätzlich öffentlich.  Wenn du über die Sitzungstermine des Vorstands auf dem Laufenden gehalten werden möchtest, schreib uns gerne eine [E-Mail](mailto:vorstand@rpg-librarium.de)  
@@ -19,7 +19,7 @@ Postfach 101632
 52016 Aachen
 
 ## Projekte des Librarium
-Vereinsarbeit klingt nach Verwaltung? Du wolltest doch nur Rollenspiel? Macht nichts! Immer wieder entstehen spontane Kreativprojekte im Librarium, bei denen sich Mitglieder und Nicht-Mitglieder ideenreich ausleben und dabei - das kann man ehrlich sagen - verdammt viel Spaß haben. Beispiele gefällig?
+Vereinsarbeit klingt nach Verwaltung? Du wolltest doch nur Rollenspiel? Macht nichts! Immer wieder entstehen spontane Kreativprojekte im Librarium, bei denen sich Mitglieder und Nicht-Mitglieder ideenreich ausleben und dabei - das darf man ehrlich sagen - riesigen Spaß haben. Beispiele gefällig?
 
 * Das wahnwitzige multiversale *Weltenbrücken*-Spiel auf der Librarium-Freizeit
 * Wusel-Merch: Buttons, Anstecker, Kekse mit unserem Maskottchen, dem Wusel
@@ -30,10 +30,9 @@ Vereinsarbeit klingt nach Verwaltung? Du wolltest doch nur Rollenspiel? Macht ni
 Damit das Vereinsleben so bunt und vielseitig bleibt, ist der Vereinsvorstand auf dein Engagement angewiesen. Wenn du selbst coole Ideen hast und Mitstreiter*innen suchst, dann wollen wir von dir hören!
 
 ## Du möchtest Mitglied werden?
-Wenn du dem Verein beitreten möchtest, schick uns deinen [Mitgliedsantrag](/files/Mitgliedsantrag_Datenschutzerklärung.pdf) per Post oder per E-Mail!
-Damit der Verein die gewünschten Bücher kaufen kann, fällt für alle Mitglieder ein Mitgliedsbeitrag von 5 € im Monat an. Ein ermäßigter Mitgliedsbeitrag von 2 € ist ebenfalls möglich. Näheres dazu findet man in der Beitragsordnung weiter unten.
+Wenn du dem Verein beitreten möchtest, schick uns einfach deinen [Mitgliedsantrag](/files/Mitgliedsantrag_Datenschutzerklärung.pdf) per Post oder per E-Mail. Standardmäßig fällt ein Mitgliedsbeitrag von 5 € im Monat an. Eine Ermäßigung des Mitgliedsbeitrags auf 2 € ist ebenfalls möglich. Näheres dazu findest du in der Beitragsordnung.
 
-Wenn du uns (und dir) das Leben einfacher machen möchtest, kannst du uns ein [SEPA-Lastschriftmandat](/files/SEPA_Mandat.pdf) zukommen lassen, damit wir den Mitgliedsbeitrag automatisiert einziehen können.  
+Wenn du uns bei der Kassenarbeit das Leben einfacher machen möchtest, kannst du uns ein [SEPA-Lastschriftmandat](/files/SEPA_Mandat.pdf) zukommen lassen, damit wir den Mitgliedsbeitrag automatisiert einziehen können.  
 
 - [Mitgliedsantrag und Datenschutzerklärung](/files/Mitgliedsantrag_Datenschutzerklärung.pdf)
 - [SEPA-Lastschriftmandat](/files/SEPA_Mandat.pdf)
