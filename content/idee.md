@@ -8,7 +8,7 @@ menu:
 ---
 
 ## Librarium: Bibliothek und Community
-[Pen & Paper](https://de.wikipedia.org/wiki/Pen-%26-Paper-Rollenspiel) - ist das nicht dieses Spiel, dass die Nerds in Stranger Things und Big Bang Theory spielen? Genau das! 
+[Pen & Paper](https://de.wikipedia.org/wiki/Pen-%26-Paper-Rollenspiel) - ist das nicht dieses Spiel, dass sie in Stranger Things und Critical Role spielen? Genau das! 
 
 Liebst du Fantasy, Science-Fiction oder Horror? Schwärmst du für Abenteuer in fernen Welten? Reißen fantastische Geschichten dich mit? Verschlingst du Bücher, Filme, Spiele? Und willst du deine eigenen Erzählungen spinnen, am liebsten bewaffnet mit Würfeln, Stift und Papier? Aber du weißt nicht, wie du anfangen sollst? Oder spielst du seit 10 Jahren deine Kampagne und willst nun vor dankbarem Publikum von epischen Taten künden?
 
