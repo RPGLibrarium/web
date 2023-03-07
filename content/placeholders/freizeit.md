@@ -6,7 +6,7 @@ categories:
 - placeholder
 draft: false
 ---
-Fünf Tage Pen & Paper-Rollenspiel auf einer Burg: Von morgens bis abends Spielrunden in uralten Gemäuern und dann noch bei Vollpension und tollem Ausblick. Klingt für dich nach einem Traum? Dann melde dich zur Librarium-Freizeit an. Jährlich läuten wir das neue Jahr damit ein, dass wir uns für ein paar Tage dem Alltag entziehen und stattdessen die Freusburg im Siegerland unsicher machen. Auf der Librarium-Freizeit spielen wir alles, wofür sich Spielleiter*innen melden, zum Beispiel: 
+Fünf Tage Pen & Paper-Rollenspiel auf einer Burg: Von morgens bis abends Spielrunden in uralten Gemäuern und dann noch bei Vollpension und tollem Ausblick. Klingt für dich nach einem Traum? Das ist die Librarium-Freizeit. Jährlich läuten wir das neue Jahr damit ein, dass wir uns für ein paar Tage dem Alltag entziehen und stattdessen die Freusburg im Siegerland unsicher machen. Auf der Librarium-Freizeit spielen wir alles, wofür sich Spielleiter*innen melden, zum Beispiel: 
 
 * Das Schwarze Auge
 * Dungeons & Dragons
