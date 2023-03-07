@@ -6,18 +6,10 @@ categories:
 - placeholder
 draft: false
 ---
-Der Librarium veranstaltet an jedem 16. im Monat ein Treffen. Dort wird aus der aktuellen Vorstandsarbeit berichtet und 
-es gibt Gelegenheit, neue Projekte zu planen. Meist gibt es außerdem ein kleines Programm, zum Beispiel Proberunden 
-eines Pen & Paper-Rollenspiels oder Pen & Paper-bezogene Workshops und Themenabende. Außerdem ist das Monatstreffen als 
-lockeres Beisammensitzen eine ausgezeichnete Gelegenheit, andere Rollenspieler/innen kennenzulernen und einfach nur 
-über Pen&Paper zu quatschen. Es haben sich dort auch schon spontan Spielrunden gegründet.
+Wenn du uns kennenlernen willst, schau doch mal bei unserem Monatstreffen vorbei! Egal, ob du schon jahrelang Pen & Paper spielst oder ganz neu bist: Du bist herzlich eingeladen! Das monatliche Treffen bietet eine wunderbare Chance, begeisterte Rollenspieler*innen kennenzulernen. Viele gute (sprich: verrückte, lustige, epische, kreative) Ideen fanden dort ihren Ursprung und auch spontane Spielrunden haben sich dort gegründet. 
 
-Egal, ob du schon jahrelange Erfahrung im Pen & Paper hast oder ob du die Idee vom Geschichtenerzählen mit Papier und 
-Würfeln ganz interessant findest und das auch mal spielen möchtest -- jede/r, ob Mitglied oder nicht, sei herzlich 
-eingeladen, vorbeizukommen!
+Bei unseren Monatstreffen berichtet außerdem der Vereinsvorstand aus der aktuellen Vorstandsarbeit. Manchmal bereitet jemand außerdem eine Kleinigkeit vor, zum Beispiel einen Workshop oder eine Testspielrunde. An anderen Abend sitzen wir einfach nur bis Mitternacht da und quatschen -- über Pen & Paper, aber auch über LARP, Romane, Serien, Spiele und alles, was uns in den Sinn kommt. 
 
-Wenn du selbst einen Rollenspieltest oder einen Workshop vorbereiten möchtest, dann melde dich bei uns doch mal 
-[hier](mailto:kontakt@rpg-librarium.de).
 
 <!--
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
