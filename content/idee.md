@@ -7,34 +7,31 @@ menu:
     weight: 100
 ---
 
-## Eine Büchersammlung & eine Gemeinschaft
-Der RPG Librarium Aachen e.V. ist eine Community rund um das Thema Rollenspiel, insbesondere [Pen & Paper - Rollenspiele](https://de.wikipedia.org/wiki/Pen-%26-Paper-Rollenspiel). Wir vernetzen rollenspielbegeisterte Menschen in der Region Aachen miteinander und stellen unseren Vereinsmitgliedern nicht nur eine wachsende Pen & Paper-Büchersammlung zum Anschauen, Stöbern und natürlich Ausleihen bereit, sondern veranstalten auch verschiedene Aktionen für Mitglieder und Nicht-Mitglieder:
+## Der Librarium: Bibliothek und Community
+[Pen & Paper - Rollenspiel](https://de.wikipedia.org/wiki/Pen-%26-Paper-Rollenspiel) - ist das nicht dieses Spiel, dass die Nerds in Stranger Things und Big Bang Theory spielen? Goldrichtig! Liebst du Fantasy, Science-Fiction oder Horror? Schwärmst du für Abenteuer in fernen Welten? Reißen fantastische Geschichten dich mit? Verschlingst du Bücher, Filme, Spiele? Und willst du deine eigenen Erzählungen spinnen, am liebsten bewaffnet mit Würfeln, Stift und Papier? Aber du weißt nicht, wie du anfangen sollst? Oder spielst du seit 10 Jahren deine Kampagne und willst nun vor dankbarem Publikum von epischen Taten künden?
 
-* Rollenspielabende
-* Testrunden von Spielsystemen
-* Workshops zum Thema (Pen & Paper) - Rollenspiel
-* Gemeinsame Convention-Besuche
-* Gesellschaftsspieleabende
+Der RPG Librarium Aachen e.V. - kurz: Librarium - ist ein gemeinnütziger Aachener Spieleverein und versteht sich als Community rund ums Rollenspiel. Somit bist du bei uns an der richtigen Adresse, um Menschen kennenzulernen, die sich auch für das kreative, gesellige Hobby "Pen & Paper - Rollenspiel" begeistern. Wir veranstalten...
+
+* Rollenspielabende für Neulinge
+* Conventions und Convention-Besuche
+* Monatliche Treffen zum Quatschen
+* Workshops & Lesungen zum Thema Rollenspiel
 * Sommerfeste & Weihnachtsfeiern
-* und vieles mehr
+* ...und unterstützen bei der Organisation von allem, was dir so ein
 
-Wenn auch du dich für Rollenspiel interessierst, schau doch mal in unsere Büchersammlung oder komm bei unseren monatlichen Treffen vorbei!
+Unseren Vereinsmitgliedern steht außerdem eine immer weiter wachsende Rollenspielbibliothek bereit. Du musst aber explizit kein Mitglied sein, um bei Librarium-Veranstaltungen Hallo zu sagen und mitzuspielen! Also: Stöbere mal durch die Buchtitel in der Librarium-Bibliothek oder komm bei unseren monatlichen Treffen am nächsten 16. vorbei!
 
 ![Wusel spielen Karten](/img/wusel-spielen-karten.svg)
 
-## Büchersammlung
-Der RPG Librarium Aachen e.V. bietet:
+## Die Bibliothek des Librarium
+Pen & Paper: Das ist nicht nur (aber auch) Dungeons & Dragons. Wir kennen und lieben viele Rollenspiele, z.B. Das Schwarze Auge, Cthulhu, Shadowrun und so einige mehr. Und wir möchten den Neulingen einen leichten Einstieg ins Spiel ermöglichen und den Altnasen neue unerforschte Welten eröffnen. Der Librarium besitzt daher eine Bibliothek von Rollenspielregelwerken. Die Bücher können von jedem Vereinsmitglied ausgeliehen werden. 
+ 
+Willst du als Mtglied ein Buch entleihen, kontaktiere einfach den [Vereinsvorstand](mailto:vorstand@rpg-librarium.de) und wir teilen dir mit, wer das gewünschte Buch momentan hat, sodass ihr eine Übergabe vereinbaren könnt. Das Buch bleibt dann solange bei dir, bis jemand anderes Interesse äußert - also prinzipiell beliebig lang. Außerdem arbeiten wir gerade an einem digitalen Bücherausleihsystem, um das Prozedere zu vereinfachen.
 
-* Neue Bücher und ein wachsender Bestand
-* Eine Vielzahl an Spielsystemen
-* Verteilte Lagerung der Bücher
 
-Für unsere Mitglieder bieten wir eine Sammlung von Büchern und Regelwerken im Rollenspielbereich an. Da Rollenspielregelwerke machmal recht teuer sein können, möchten wir mit dieser Sammlung neuen Rollenspieler*innen einen leichten Einstieg ins Spiel und erfahreneren Spieler*innen einen großen Bücherbestand bieten. Die Bücher werden verteilt gelagert und können von jedem Mitglied ausgeliehen werden. Hat jemand Interesse an einem Buch, kann er*sie über unser Intranet Kontakt zu dem entsprechenden Besitzer aufnehmen und den Austausch verabreden. Es bleibt dann so lange bei dieser Person, bis jemand anderes erneut Interesse äußert.
 
-Die Entscheidung, welche Bücher der Sammlung hinzugefügt werden, treffen wir gemeinsam. Dabei bemühen wir uns, vorhandene Wünsche so schnell wie möglich umzusetzen. Wenn bestimmte Titel oft benötigt werden, gibt es natürlich auch die Möglichkeit, mehrere Exemplare eines Buches zu kaufen.
-
-## Aktueller Bestand
-Hier findest du unseren aktuellen Bestand. Vermisst du etwas? Dann schreib uns eine [E-Mail](mailto:kontakt@rpg-librarium.de).
+## Unsere Bücher
+Hier findest du den aktuellen Bücherbestand. Vermisst du einen Titel oder hast eine gute Empfehlung? Schreib uns eine [E-Mail](mailto:kontakt@rpg-librarium.de)! Kaufentscheidungen für neue Bücher trifft der Librarium gemeinsam, aber wir setzen deine Wünsche so schnell wie möglich um. Beliebte Titel können wir auch mehrfach beschaffen. 
 
 {{< titlesTable >}}
 
