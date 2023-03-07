@@ -6,9 +6,7 @@ categories:
 - placeholder
 draft: false
 ---
-Wir bieten regelmäßig eine Freizeit über ein verlängertes Wochenende an. Dann möchten wir uns mit euch für ein paar Tage dem Alltag entziehen und uns gemeinsam in einer Jugendherberge dem Pen & Paper widmen.
-
-Wir planen Einsteiger- und Veteranenrunden für verschiedene Systeme:
+Fünf Tage Pen & Paper-Rollenspiel auf einer Burg: Von morgens bis abends Spielrunden in uralten Gemäuern und dann noch bei Vollpension und tollem Ausblick. Klingt für dich nach einem Traum? Dann melde dich zur Librarium-Freizeit an. Jährlich läuten wir das neue Jahr damit ein, dass wir uns für ein paar Tage dem Alltag entziehen und stattdessen die Freusburg im Siegerland unsicher machen. Auf der Librarium-Freizeit spielen wir alles, wofür sich Spielleiter*innen melden, zum Beispiel: 
 
 * Das Schwarze Auge
 * Dungeons & Dragons
@@ -18,16 +16,17 @@ Wir planen Einsteiger- und Veteranenrunden für verschiedene Systeme:
 * Power, Plüsch & Plunder
 * Microscope
 * InSpectres
-* ... und alles wofür sich sonst noch SLs und Spieler/innen finden lassen.
+
+...und natürlich unser wildes Spielsystem-Crossover ["Weltenbrücken"](#weltenbruecken), das einzige (uns bekannte) Pen & Paper für 20+ Leute.
 
 Außerdem gibt es immer Zeit für:
 
-* anregende Gespräche
-* Gesellschaftsspiele
-* Wanderungen in der Umgebung
-* und ein gemütliches Stöbern in der Librarium-eigenen Büchersammlung.
+* Gute Gespräche
+* Spielrundenvorbereitung
+* Brett- und Kartenspiele
+* Wanderungen zum Druidenstein (heißt wirklich so!)
+* Stöbern in der Bibliothek des Librarium
 
-...und natürlich unser wildes Spielsystem-Crossover ["Weltenbrücken"](#weltenbruecken), das einzige Pen & Paper für 20+ Leute.
 
 Die nächste Freizeit befindet sich derzeit noch in der Planungsphase. 
 

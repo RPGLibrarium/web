@@ -8,7 +8,7 @@ draft: false
 ---
 Wenn du uns kennenlernen willst, schau bei unserem Monatstreffen vorbei! Egal, ob du seit Jahren Pen & Paper spielst oder ganz frisch dabei bist: Du bist herzlich eingeladen. Das monatliche Treffen bietet eine wunderbare Chance, begeisterte Rollenspieler*innen kennenzulernen.
 
-Manchmal bereiten engagierte Leute für das Monatstreffen einen Workshop oder eine Testspielrunde vor. An anderen Abenden sitzen wir bis Mitternacht da und quatschen einfach nur-- über Pen & Paper natürlich, aber auch über LARP, Romane, Serien, Spiele und alles, was uns in den Sinn kommt. Unzählige gute (sprich: verrückte, lustige, epische, kreative) Ideen fanden auf den Monatstreffen ihren Ursprung. 
+Manchmal bereiten engagierte Leute für das Monatstreffen einen Workshop oder eine Testspielrunde vor. An anderen Abenden sitzen wir bis Mitternacht da und quatschen einfach nur -- über Pen & Paper natürlich, aber auch über LARP, Romane, Serien, Spiele und alles, was uns in den Sinn kommt. Unzählige gute (sprich: verrückte, lustige, epische, kreative) Ideen fanden auf den Monatstreffen ihren Ursprung. 
 
 Beim Monatstreffen berichtet zudem der Vereinsvorstand aus der aktuellen Vorstandsarbeit und du darfst die Vorstandsmitglieder mit Fragen löchern.
 
