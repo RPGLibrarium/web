@@ -32,7 +32,7 @@ Damit das Vereinsleben so bunt und vielseitig bleibt, ist der Vereinsvorstand au
 ## Du möchtest Mitglied werden?
 Wenn du dem Verein beitreten möchtest, schick uns einfach deinen [Mitgliedsantrag](/files/Mitgliedsantrag_Datenschutzerklärung.pdf) per Post oder per E-Mail. Standardmäßig fällt ein Mitgliedsbeitrag von 5 € im Monat an. Eine Ermäßigung des Mitgliedsbeitrags auf 2 € ist ebenfalls möglich. Als reguläres Mitglied hast du Zugriff auf unsere Büchersammlung und Stimmrecht bei der Mitgliederversammlung. 
 
-*Hinweis: Damit eine Mitgliederversammlung beschlussfähig ist, muss ein Drittel der stimmberechtigten Mitglieder anwesend sein oder zumindest (formlos) ihr Stimmrecht an ein anwesendes Mitglied übertragen. Bitte nimm diese Möglichkeit wahr! MV ist nur einmal im Jahr, meist - trotz Formalia - eine unterhaltsame Veranstaltung und eine MV neu organisieren müssen ist außerdem blöd.*
+*Hinweis: Damit eine Mitgliederversammlung beschlussfähig ist, muss ein Drittel der stimmberechtigten Mitglieder anwesend sein oder zumindest (formlos) ihr Stimmrecht an ein anwesendes Mitglied übertragen. Bitte nimm diese Möglichkeit wahr! Die Mitgliederversammlung ist ohnehin (meist) nur einmal jährlich.*
 
 Außerdem besteht die Option, Fördermitglied zu werden: Als Fördermitglied legst du deinen Mitgliedsbeitrag selbst fest. Du hast dann keinen Zugriff auf unseren Bücherschrank und kein Stimmrecht auf der Mitgliederversammlung - perfekt für Leute, die den Verein mögen und finanziell supporten wollen, aber sich nicht mit Vereinskrams wie der MV befassen wollen und den Bücherschrank ohnehin nicht nutzen wollen. Näheres dazu findest du in der Beitragsordnung. 
 
