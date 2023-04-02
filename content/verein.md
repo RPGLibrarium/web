@@ -10,7 +10,7 @@ menu:
 Der RPG Librarium Aachen e.V. ist ein gemeinnütziger Verein, dessen satzungsgemäßes Ziel die Förderung von Kunst und Kultur ist. Der Librarium ist ziemlich stolz auf sein aktives Vereinsleben. Lies weiter, wenn du mehr darüber erfahren willst. 
 
 ## Der Vereinsvorstand
-Unsere Mitglieder wählen jährlich auf der Mitgliederversammlung einen Vorstand, welcher das Jahr über die anfallenden Aufgaben koordiniert. Im Vorstand sind zurzeit  **Franca, Yoann, Jan, Dominik und Ira**. Die Vorstandssitzungen sind grundsätzlich öffentlich.  Wenn du über die Sitzungstermine des Vorstands auf dem Laufenden gehalten werden möchtest, schreib uns gerne eine [E-Mail](mailto:vorstand@rpg-librarium.de)  
+Unsere Mitglieder wählen jährlich auf der Mitgliederversammlung einen Vorstand, welcher das Jahr über die anfallenden Aufgaben koordiniert. Im Vorstand sind zurzeit  **Franca, Dominik, Jan, Don und Ira**. Die Vorstandssitzungen sind grundsätzlich öffentlich.  Wenn du über die Sitzungstermine des Vorstands auf dem Laufenden gehalten werden möchtest, schreib uns gerne eine [E-Mail](mailto:vorstand@rpg-librarium.de)  
 
 Du willst dem Librarium etwas per Post zukommen lassen? Hier ist unser Postfach:
 
@@ -30,7 +30,11 @@ Vereinsarbeit klingt nach Verwaltung? Du wolltest doch nur Rollenspiel? Macht ni
 Damit das Vereinsleben so bunt und vielseitig bleibt, ist der Vereinsvorstand auf dein Engagement angewiesen. Wenn du selbst coole Ideen hast und Mitstreiter*innen suchst, dann wollen wir von dir hören!
 
 ## Du möchtest Mitglied werden?
-Wenn du dem Verein beitreten möchtest, schick uns einfach deinen [Mitgliedsantrag](/files/Mitgliedsantrag_Datenschutzerklärung.pdf) per Post oder per E-Mail. Standardmäßig fällt ein Mitgliedsbeitrag von 5 € im Monat an. Eine Ermäßigung des Mitgliedsbeitrags auf 2 € ist ebenfalls möglich. Näheres dazu findest du in der Beitragsordnung.
+Wenn du dem Verein beitreten möchtest, schick uns einfach deinen [Mitgliedsantrag](/files/Mitgliedsantrag_Datenschutzerklärung.pdf) per Post oder per E-Mail. Standardmäßig fällt ein Mitgliedsbeitrag von 5 € im Monat an. Eine Ermäßigung des Mitgliedsbeitrags auf 2 € ist ebenfalls möglich. Als reguläres Mitglied hast du Zugriff auf unsere Büchersammlung und Stimmrecht bei der Mitgliederversammlung. 
+
+*Hinweis: Damit eine Mitgliederversammlung beschlussfähig ist, muss ein Drittel der stimmberechtigten Mitglieder anwesend sein oder zumindest (formlos) ihr Stimmrecht an ein anwesendes Mitglied übertragen. Bitte nimm diese Möglichkeit wahr! MV ist nur einmal im Jahr, meist - trotz Formalia - eine unterhaltsame Veranstaltung und eine MV neu organisieren müssen ist außerdem blöd.*
+
+Außerdem besteht die Option, Fördermitglied zu werden: Als Fördermitglied legst du deinen Mitgliedsbeitrag selbst fest. Du hast dann keinen Zugriff auf unseren Bücherschrank und kein Stimmrecht auf der Mitgliederversammlung - perfekt für Leute, die den Verein mögen und finanziell supporten wollen, aber sich nicht mit Vereinskrams wie der MV befassen wollen und den Bücherschrank ohnehin nicht nutzen wollen. Näheres dazu findest du in der Beitragsordnung. 
 
 Wenn du uns bei der Kassenarbeit das Leben einfacher machen möchtest, kannst du uns ein [SEPA-Lastschriftmandat](/files/SEPA_Mandat.pdf) zukommen lassen, damit wir den Mitgliedsbeitrag automatisiert einziehen können.  
 
