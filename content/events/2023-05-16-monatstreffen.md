@@ -1,7 +1,7 @@
 ---
 title: Monatstreffen
 date: 2023-04-16
-publishdate: 2023-04-12
+publishdate: 2023-05-11
 eventstart: 2023-04-16
 categories:
   - monatstreffen
