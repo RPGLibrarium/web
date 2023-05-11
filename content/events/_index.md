@@ -5,5 +5,4 @@ draft: false
 ---
 > ### TLDR
 > Der nächste große [Rollenspielabend](#rollenspielabend) mit der Fachschaft findet am 24. Mai 2023 statt!
-
-> Am 17. Juni 2023 fahren wir gemeinsam zur FeenCon! Details folgen!
+> Am 17. Juni 2023 fahren wir gemeinsam zur FeenCon. Details folgen!
