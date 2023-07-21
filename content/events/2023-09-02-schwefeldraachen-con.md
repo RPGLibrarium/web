@@ -1,5 +1,5 @@
 ---
-title: "Librarium-Con im Ponttor"
+title: "SchwefeldraAchen-Con 2023"
 # used for sorting probably the eventstart date
 date: 2023-09-02
 # triggers publication, don't forget to regularly rebuild the website. Must be set if `date` is in the future or else 
