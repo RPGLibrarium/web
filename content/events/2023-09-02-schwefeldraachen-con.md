@@ -1,5 +1,5 @@
 ---
-title: "SchwefeldraAchen-Con 2023"
+title: "SchwefeldrAachen-Con 2023"
 # used for sorting probably the eventstart date
 date: 2023-09-02
 # triggers publication, don't forget to regularly rebuild the website. Must be set if `date` is in the future or else 
@@ -22,7 +22,7 @@ Der Librarium lädt feierlich ein zur SchwefeldrAachen-Con!
 Am Wochenende vom **02. & 03. September 2023**, jeweils ab 10 Uhr bis Open End, in den Räumen der [meffi.s](https://www.meffis.org/die-4-raumeinheiten/) in der Mefferdatistraße 14-18 in der Nähe von Elisenbrunnen, Büchel und Markt.
 
 ### Was ist denn da so los?
-Vor allem: **Pen&Paper- und Brettspielsrunden!**  Dazu laden wir dieses Jahr ein paar lokale **Autor* innen und Künstler* innen** ein - Details folgen bald, seid gespannt. Zudem sind Teile unserer **Büchersammlung** vor Ort, sodass nach Herzenslust geschmökert werden kann. Zu guter Letzt gibt's wie immer Gequatsche in guter Gesellschaft über Rollenspiel und andere fantastische Themen, wobei völlige Neulinge genauso willkommen sind wie alte Hasen.
+Vor allem: **Pen&Paper- und Brettspielerunden!**  Dazu laden wir dieses Jahr ein paar lokale **Autor* innen und Künstler* innen** ein - Details folgen bald, seid gespannt. Zudem sind Teile unserer **Büchersammlung** vor Ort, sodass nach Herzenslust geschmökert werden kann. Zu guter Letzt gibt's wie immer Gequatsche in guter Gesellschaft über Rollenspiel und andere fantastische Themen, wobei völlige Neulinge genauso willkommen sind wie alte Hasen.
 
 ### Und was wird gespielt?
 Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand uns vor allem um die Rahmenbedingungen des Events. Das bedeutet: Spielrunden, Workshops etc. werden zum Großteil von unserer Rollenspielcommunity organisiert - 
