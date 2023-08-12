@@ -34,6 +34,6 @@ Nein und nein! Komm einfach vorbei. Der Eintritt ist kostenlos, aber wir werden 
 
 Wenn du schon weißt, dass du etwas spielleiten möchtest, dann freuen wir uns trotzdem, im Voraus von dir zu hören - dann sichern wir dir einen Tisch.
 
-
+![Flyer zur Schwefeldraachen-Con 2024](/img/Schwefeldraachen2024-Flyer.pdf)
 
 
