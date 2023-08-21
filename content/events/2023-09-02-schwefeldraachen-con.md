@@ -29,6 +29,8 @@ Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand
 wir sind also auf eure Unterstützung angewiesen. **Wenn du ein Lieblingssystem oder -abenteuer hast, dann bring es mit!** Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. vor Ort organisieren. Genauso gern sind 
 Brettspielrunden, Kartenspielrunden oder interessante Workshops gesehen. 
 
+**UPDATE:** Inzwischen gibt es ein [Pad](https://etherpad.fachschaften.rwth-aachen.de/p/Schwefeldraachen-Con-2023), über welches Rollenspielrunden & Co. angekündigt werden können! Seid dabei und spielleitet auf der Schwefeldraachen-Con!
+
 ### Muss ich mich anmelden? Kostet das was?
 Nein und nein! Komm einfach vorbei. Der Eintritt ist kostenlos, aber wir werden trotzdem ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
 

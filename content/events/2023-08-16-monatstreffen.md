@@ -1,5 +1,5 @@
 ---
-title: Monatstreffen"
+title: Monatstreffen
 date: 2023-08-16
 publishdate: 2023-08-11
 eventstart: 2023-08-16
