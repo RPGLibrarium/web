@@ -24,9 +24,9 @@ Am Wochenende vom **02. & 03. September 2023**, jeweils ab 10 Uhr bis Open End, 
 ### Was ist denn da so los?
 Vor allem: **Pen&Paper- und Brettspielerunden!**  Dazu laden wir dieses Jahr ein paar lokale **Autor* innen und Künstler* innen** ein - Details folgen bald, seid gespannt. Zudem sind Teile unserer **Büchersammlung** vor Ort, sodass nach Herzenslust geschmökert werden kann. Zu guter Letzt gibt's wie immer Gequatsche in guter Gesellschaft über Rollenspiel und andere fantastische Themen, wobei völlige Neulinge genauso willkommen sind wie alte Hasen.
 
-> **UPDATE:** 
+> **UPDATE:** <br><br>
 > Wir freuen uns, die ersten Programmpunkte ankündigen zu können! Mit dabei sind:<br><br>
-> * [Dr. Michael Kleu](https://fantastischeantike.de/) vom Projekt "Fantastische Antike"<br><br>
+> * Dr. Michael Kleu vom Projekt [Fantastische Antike](https://fantastischeantike.de/)<br><br>
 > * Das Autorenteam von [Ultima Ratio](https://www.ultima-ratio-rpg.de/) mit ihren Sci Fi / Cyberpunk Spielsystemen "Ultima Ratio" und dem neu erschienenen "Mythaloria"" *(Samstag, 2.9.)* <br><br>
 > * Die Vögte: [Judith & Christian Vogt](https://www.jcvogt.de/) mit dem Vortrag  "Feministische Fantasy" *(Sonntag, 3.9., ab 14 Uhr)* und ihrem neuen Rollenspiel "Chai & Chainmail" *(vsl. Sonntag, 3.9., ab 15 Uhr)*
 
