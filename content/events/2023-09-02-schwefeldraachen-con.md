@@ -32,7 +32,7 @@ Vor allem: **Pen&Paper- und Brettspielerunden!**  Dazu laden wir dieses Jahr ein
 
 > **UPDATE #2:**<br><br>
 > Ebenfalls bestätigt: <br><br>
-> [WeissMachtBunt](https://www.instagram.com/weissmachtbunt/) und [DonKringel](https://www.instagram.com/donkringel/) mit Comics, Illustrationen und selbstdesigntem Rollenspiel-Merch
+> * [WeissMachtBunt](https://www.instagram.com/weissmachtbunt/) und [DonKringel](https://www.instagram.com/donkringel/) mit Comics, Illustrationen und selbstdesigntem Rollenspiel-Merch
 
 
 
