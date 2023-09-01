@@ -35,7 +35,7 @@ Vor allem: **Pen&Paper- und Brettspielerunden!**  Dazu laden wir dieses Jahr ein
 
 
 > **UPDATE #3:**<br><br>
-> Noch mehr künstlerische Unterstützung gibt's von Finn, [CollieDraws](https://www.instagram.com/collie_draws_things/) und [Sushi](https://www.instagram.com/sushiartbar/). Unter anderem: Die Möglichkeit, personalisierte Buttons selbst zu gestalten (gestalten zu lassen) und zu stanzen.<br><br>
+> Noch mehr künstlerische Unterstützung gibt's von Finn, [CollieDraws](https://www.instagram.com/collie_draws_things/) und [Sushi](https://www.instagram.com/sushiartbar/). Unter anderem: Die Möglichkeit, personalisierte Buttons selbst zu gestalten (gestalten zu lassen) und zu stanzen. <br><br>
 > Und schaut mal! Unsere [Rollenspielrunden!](https://etherpad.fachschaften.rwth-aachen.de/p/Schwefeldraachen-Con-2023) Weitere Runden werden vor Ort spontan angekündigt und ausgehängt. 
 
 
