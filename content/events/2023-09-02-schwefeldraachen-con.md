@@ -35,6 +35,10 @@ Vor allem: **Pen&Paper- und Brettspielerunden!**  Dazu laden wir dieses Jahr ein
 > * [WeissMachtBunt](https://www.instagram.com/weissmachtbunt/) und [DonKringel](https://www.instagram.com/donkringel/) mit Comics, Illustrationen und selbstdesigntem Rollenspiel-Merch
 
 
+> **UPDATE #3:**<br><br>
+> Noch mehr künstlerische Unterstützung gibt's von Finn, [CollieDraws](https://www.instagram.com/collie_draws_things/) und [Sushi](https://www.instagram.com/sushiartbar/). Unter anderem: Die Möglichkeit, personalisierte Buttons selbst zu gestalten (gestalten zu lassen) und zu stanzen.
+> Und schaut mal! Unsere [Rollenspielrunden!](https://etherpad.fachschaften.rwth-aachen.de/p/Schwefeldraachen-Con-2023) Weitere Runden werden vor Ort spontan angekündigt und ausgehängt. 
+
 
 ### Und was wird gespielt?
 Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand uns vor allem um die Rahmenbedingungen des Events. Das bedeutet: Spielrunden, Workshops etc. werden zum Großteil von unserer Rollenspielcommunity organisiert - 
