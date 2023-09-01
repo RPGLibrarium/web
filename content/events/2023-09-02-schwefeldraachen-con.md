@@ -31,12 +31,11 @@ Vor allem: **Pen&Paper- und Brettspielerunden!**  Dazu laden wir dieses Jahr ein
 > * Die Vögte: [Judith & Christian Vogt](https://www.jcvogt.de/) mit dem Vortrag  "Feministische Fantasy" *(Sonntag, 3.9., ab 14 Uhr)* und ihrem neuen Rollenspiel "Chai & Chainmail" *(vsl. Sonntag, 3.9., ab 15 Uhr)*
 
 > **UPDATE #2:**<br><br>
-> Ebenfalls bestätigt: <br><br>
-> * [WeissMachtBunt](https://www.instagram.com/weissmachtbunt/) und [DonKringel](https://www.instagram.com/donkringel/) mit Comics, Illustrationen und selbstdesigntem Rollenspiel-Merch
+> Ebenfalls bestätigt: [WeissMachtBunt](https://www.instagram.com/weissmachtbunt/) und [DonKringel](https://www.instagram.com/donkringel/) mit Comics, Illustrationen und selbstdesigntem Rollenspiel-Merch
 
 
 > **UPDATE #3:**<br><br>
-> Noch mehr künstlerische Unterstützung gibt's von Finn, [CollieDraws](https://www.instagram.com/collie_draws_things/) und [Sushi](https://www.instagram.com/sushiartbar/). Unter anderem: Die Möglichkeit, personalisierte Buttons selbst zu gestalten (gestalten zu lassen) und zu stanzen.
+> Noch mehr künstlerische Unterstützung gibt's von Finn, [CollieDraws](https://www.instagram.com/collie_draws_things/) und [Sushi](https://www.instagram.com/sushiartbar/). Unter anderem: Die Möglichkeit, personalisierte Buttons selbst zu gestalten (gestalten zu lassen) und zu stanzen.<br><br>
 > Und schaut mal! Unsere [Rollenspielrunden!](https://etherpad.fachschaften.rwth-aachen.de/p/Schwefeldraachen-Con-2023) Weitere Runden werden vor Ort spontan angekündigt und ausgehängt. 
 
 
