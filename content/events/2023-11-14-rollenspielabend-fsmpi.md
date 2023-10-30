@@ -33,7 +33,7 @@ Am **Dienstag den 14. November 2023** findet ab **18:30 Uhr** (Aufbau ab 18 Uhr)
 
 **Wo?:** [**SemiTemp**](https://goo.gl/maps/swq46aj4Nn32), Schinkelstraße 15 (nahe des RWTH Hauptgebäudes, aber es ist NICHT das Semi90, NICHT das Seminargebäude und auch NICHT das Temp)
 
-**Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte "First come, first serve"- Prinzip. Vorkenntnisse sind explizit nicht nötig, Würfel und Charaktere werden von uns gestellt. Ihr könnt unabhängig voneinander zur ersten und/oder zur zweiten Spielphase kommen.
+**Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte "First come, first serve"- Prinzip. Vorkenntnisse sind explizit nicht nötig, Würfel und Charaktere werden von uns gestellt und alle notwendigen Regeln werden vor Ort erklärt. Ihr könnt unabhängig voneinander zur ersten und/oder zur zweiten Spielphase kommen.
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen! Wenn du Lust hast, eine **Runde zu spielleiten**, brauchen wir folgende Infos von dir:
 
