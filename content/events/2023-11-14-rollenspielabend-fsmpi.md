@@ -16,7 +16,7 @@ categories:
 # when you feel ready, set to false. `hugo server -D` to show drafts locally.
 draft: false
 ---
-Mit der [Fachschaft I/1 für Mathe, Physik und Informatik](https://fsmpi.eu/) für Mathe, Physik und Informatik an der 
+Mit der [Fachschaft I/1](https://fsmpi.eu/) für Mathe, Physik und Informatik an der 
 RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für 
 Neulinge im Hobby einen einstiegsfreundlichen Rollenspielabend zu organisieren.
 Ziel dieses Abends ist es, Rollenspielinteressierten und jungen Rollenspieler\*innen einen Einblick in verschiedene 
