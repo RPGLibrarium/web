@@ -29,7 +29,7 @@ Spielrunde einzusteigen ist nicht möglich.
 ![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
 
 
-Am **Dienstag den 14. November 2023** findet ab **18:30 Uhr** (Aufbau ab 18 Uhr) der nächste **Rollenspielabend mit der FSMPI** statt. Die 2. Spielphase beginnt um 21:15 Uhr mit der Vorstellung der Spielrunden.
+Am **Dienstag den 14. November 2023** findet ab **18:30 Uhr** (Aufbau ab 18 Uhr) der nächste **Rollenspielabend mit der FSMPI** statt. Die 2. Spielphase beginnt um 21:15 Uhr mit der Vorstellung der Spielrunden. Seid am besten eine Viertelstunde früher da.
 
 **Wo?:** [**SemiTemp**](https://goo.gl/maps/swq46aj4Nn32), Schinkelstraße 15 (nahe des RWTH Hauptgebäudes, aber es ist NICHT das Semi90, NICHT das Seminargebäude und auch NICHT das Temp)
 
