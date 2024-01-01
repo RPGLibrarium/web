@@ -173,18 +173,103 @@ header.page-header {
 }
 
 /* content elements */
+
+.titlesTable .styleSelect {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  margin-bottom: .5em;
+}
+.titlesTable .styleSelect > * {
+  margin: .2em 1em .2em 0;
+}
+.titlesTable .styleSelect input[type=radio] {
+  display: none;
+}
+.titlesTable .styleSelect label[for] {
+  display: inline-block;
+  cursor: pointer;
+  user-select: none;
+  padding: .2em .5em;
+  border: .1em solid var(--color-cd-dark-ish);
+  color: var(--color-cd-light-green);
+}
+.titlesTable .styleSelect label[for]:hover,
+.titlesTable .styleSelect label[for]:focus {
+  border-color: var(--color-cd-dark-green);
+  color: var(--color-cd-dark-green);
+}
+.titlesTable .styleSelect input[type=radio]:checked + label[for] {
+  background: var(--color-cd-dark-green);
+  border-color: var(--color-cd-dark-green);
+  color: var(--color-cd-light-ish);
+  cursor: default;
+}
+
+.titles.full-list .title {
+  text-align: left;
+}
+.titles.full-list .system {
+  text-align: right;
+}
+.titles.full-list tbody .system > th {
+  padding-top: 1.42em;
+  text-align: center;
+}
+
+.titlesTable .updatedAt {
+  margin-top: .5em;
+  font-size: 0.9em;
+}
+.titlesTable .updatedAt .updating {
+  display: inline-block;
+  color: var(--color-cd-brown-ish);
+  font-size: .7em;
+  margin-left: 1em;
+}
+.titlesTable .updatedAt .updating.error {
+  color: #ff0077;
+}
+.loadingTitles .titlesTable .updatedAt .updating::before {
+  content: 'aktualisiere ...';
+}
+.loadingTitles .titlesTable .updatedAt .updating::after {
+  content: '';
+  display: inline-block;
+  box-sizing: border-box;
+  margin-left: .5em;
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: .6em;
+  border: .15em solid;
+  border-color: var(--color-cd-light-green) transparent transparent transparent;
+  animation: 2s infinite linear spinningLoadingCircle;
+}
+@keyframes spinningLoadingCircle {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.titlesTable,
 .multiversumTable {
   font-size: .85em;
 }
+
+table.titles,
 .multiversumTable table {
   border: 0 none;
   border-collapse: collapse;
   width: 100%;
 }
+
+
+table.titles th,
+table.titles td,
 .multiversumTable table th,
 .multiversumTable table td {
   padding: .21em .5em;
 }
+table.titles thead th,
 .multiversumTable table thead th {
   border-bottom: .2em solid var(--color-cd-dark-ish);
 }
@@ -192,6 +277,7 @@ header.page-header {
   min-width: 10em;
   text-align: left;
 }
+table.titles tbody td,
 .multiversumTable table tbody td {
   border: solid var(--color-cd-dark-ish);
   border-width: .1em 0;

@@ -1,10 +1,12 @@
+{{/* add script for dynamic interaction */}}
+<script src="/js/titleList.js" async="true"></script>
 {{/* fetch JSON from file */}}
 {{ $titles := getJSON "https://liberation.rpg-librarium.de/v1/titles?recursive=true" }}
 {{/* generate HTML */}}
-<div class="multiversumTable">
+<div class="titlesTable">
   <table class="titles">
     <thead>
-      <th class="title">Title</th>
+      <th class="title">Titel</th>
       <th class="system">System</th>
     </thead>
     <tbody>
@@ -22,4 +24,11 @@
       {{ end }}
     </tbody>
   </table>
+  <div class="updatedAt">
+    Stand:
+    <time datetime="{{ .Site.LastChange.Format "2006-01-02" }}">
+      {{ .Site.LastChange.Format "02.01.2006" }}
+    </time>
+    <div class="updating"></div>
+  </div>
 </div>
