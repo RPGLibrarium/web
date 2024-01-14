@@ -12,6 +12,8 @@ Manchmal bereiten engagierte Leute für das Monatstreffen einen Workshop oder ei
 
 Beim Monatstreffen berichtet zudem der Vereinsvorstand aus der aktuellen Vorstandsarbeit und du darfst die Vorstandsmitglieder mit Fragen löchern.
 
+**Das Monatstreffen findet immer am 16. des Monats statt, unabhängig vom Wochentag.**
+
 
 <!--
 Momentan finden die Monatstreffen des Librarium digital via [Jitsi](https://meet.jit.si/RPG-Librarium-Monatstreffen) statt.
