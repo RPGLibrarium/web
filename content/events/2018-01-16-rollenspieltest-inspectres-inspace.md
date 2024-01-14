@@ -13,8 +13,8 @@ categories:
 draft: false
 ---
 Unvorhersehbar, skurril und oft ziemlich humorvoll, so beschreibt man das InSpectres / InSpace - System wahrscheinlich 
-am besten. _InSpectres_: Unsere Welt wird heimgesucht von Geister, Vampire, Dämonen, Werwölfen... kurzum, die üblichen 
-Haushaltsschädlinge. Gut, dass es die InSpectres gibt, welche sich hauptberuflich dieses Problems annehmen und die 
+am besten. _InSpectres_: Unsere Welt wird heimgesucht von Geistern, Vampiren, Dämonen, Werwölfen... kurzum, den üblichen 
+Haushaltsschädlingen. Gut, dass es die InSpectres gibt, welche sich hauptberuflich dieses Problems annehmen und die 
 Ghostbusters & Supernatural alt aussehen lassen. Aufgrund der besonderen Spielmechanik weiß allerdings nicht mal 
 der/die Spielleiter/in, auf welche Gruselwesen die Spieler\*innen treffen und wie sie diese besiegen, denn bei einer 
 gewürfelten 6, 5 oder 4 darf der/die Spieler/in selbst beschreiben, was geschieht. Bei einer 3, 2 oder gar 1 darf 
