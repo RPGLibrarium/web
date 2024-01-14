@@ -9,7 +9,7 @@ categories:
   - monatstreffen
 draft: false
 ---
-Ein neue Rollenspielrunde.  
+Eine neue Rollenspielrunde.  
 Ein leeres Blatt Papier vor dir.  
 Was du brauchst: Eine Idee für deinen Spielcharakter.  
 Einen Helden!  

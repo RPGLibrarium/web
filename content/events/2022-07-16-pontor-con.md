@@ -43,7 +43,7 @@ werden kann. Wir planen die Con außerdem als eine reine Spieleveranstaltung, wi
 dergleichen einladen, wie ihr das vielleicht von großen Conventions kennt.
 
 ### Gibt's da was zu essen?
-Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kalt zu stellen. Außerdem möchten wir mittags (ca. 13 Uhr) gemeinsam 
+Es gibt Kaffee, Tee, und die Möglichkeit, Getränke kaltzustellen. Außerdem möchten wir mittags (ca. 13 Uhr) gemeinsam 
 in der Pontstraße essen gehen. Wenn du Interesse an einem gemeinsamen Mittagessen an einem oder beiden Tagen hast, 
 schreib das bei deiner Anmeldung dazu, sodass wir ein Restaurant reservieren können (wahrscheinlich Vielharmonie, 
 Essbar o.ä.).

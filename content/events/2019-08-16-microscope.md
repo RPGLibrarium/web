@@ -7,6 +7,6 @@ categories:
 draft: false
 ---
 Wirf mit uns einen Blick durch die fraktale Brille in eine Welt, die entsteht, während wir sie beobachten. Microscope 
-ist eine kompaktes Weltenbausystem, bei welchem ihr die Geschichte einer Welt schreibt, indem ihr Einfluss auf die 
+ist ein kompaktes Weltenbausystem, bei welchem ihr die Geschichte einer Welt schreibt, indem ihr Einfluss auf die 
 prägenden Ereignisse nehmt.
 

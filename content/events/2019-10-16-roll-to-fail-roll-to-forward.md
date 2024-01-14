@@ -8,8 +8,8 @@ draft: false
 ---
 _Tja, leider nicht geschafft!_ oder so ähnlich erklingt es vom Spieltisch, wenn beim Rollenspiel bei einer Probe mal 
 wieder die gewünschte Zahl nicht erwürfelt worden ist. Häufig führen vergeigte Proben ins erzählerische Nichts. Die 
-Spielerin hat einfach nicht erreicht war sie wollte. Die Handlung ist abgebrochen, der Erzählfluss kommt zum Erliegen. 
-Nächster Spieler an der Reihe! Oder es tritt das komplette Gegenteil ein, von dem was erstrebt war, obwohl kein Patzer 
+Spielerin hat einfach nicht erreicht, was sie wollte. Die Handlung ist abgebrochen, der Erzählfluss kommt zum Erliegen. 
+Nächster Spieler an der Reihe! Oder es tritt das komplette Gegenteil ein von dem, was erstrebt war, obwohl kein Patzer 
 geworfen worden ist... 
 
 In diesem Workshop - der sich an Spielleiter und Spieler gleichermaßen richtet - wollen wir uns mal anschauen, wie wir 

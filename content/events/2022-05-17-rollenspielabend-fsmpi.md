@@ -17,10 +17,10 @@ categories:
 draft: false
 ---
 
-Am **Dienstag den 17. Mai 2022** findet ab **18:15 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Getränke 
+Am **Dienstag, den 17. Mai 2022** findet ab **18:15 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Getränke 
 und Knabberzeug sind ausreichend vorhanden!
 
-**Wo?:** [**Informatikzentum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten 
+**Wo?:** [**Informatikzentrum E3**](https://goo.gl/maps/Tre42vrAgVcLiFFY7), Raum 9222 (Seminarraum im obersten 
 Stockwerk), Ahornstraße 55, Zugang ist über den Parkplatz an der Mies-Van-Der-Rohe-Straße.
 
 **Wie?** Es gibt keine Anmeldung und vor Ort gilt das erprobte anarchische "First come, first serve"- Prinzip. 
@@ -34,7 +34,7 @@ damit wohler fühlt, respektiert das entsprechend.
 
 Wenn du Lust hast, eine **Runde zu spielleiten**, brauchen wir folgende Infos von dir:
 
-  * Deinen Name?
+  * Deinen Namen?
   * Welches System?
   * Wie viele Spieler (min/max)?
   * Leitest du eine oder zwei Runden?

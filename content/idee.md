@@ -28,7 +28,7 @@ Unseren Vereinsmitgliedern steht außerdem eine immer weiter wachsende Rollenspi
 ## Die Bibliothek des Librarium
 Pen & Paper: Das ist nicht nur (aber auch) Dungeons & Dragons. Wir kennen und lieben viele Rollenspiele, z.B. Das Schwarze Auge, Cthulhu, Shadowrun und so einige mehr. Und wir möchten den Neulingen einen leichten Einstieg ins Spiel ermöglichen und den Altnasen neue unerforschte Welten eröffnen. Der Librarium besitzt daher eine Bibliothek von Rollenspielregelwerken. Die Bücher können von jedem Vereinsmitglied ausgeliehen werden. 
  
-Willst du als Mtglied ein Buch entleihen, kontaktiere einfach den [Vereinsvorstand](mailto:vorstand@rpg-librarium.de) und wir teilen dir mit, wer das gewünschte Buch momentan hat, sodass ihr eine Übergabe vereinbaren könnt. Das Buch bleibt dann solange bei dir, bis jemand anderes Interesse äußert - also prinzipiell beliebig lang. Außerdem arbeiten wir gerade an einem digitalen Bücherausleihsystem, um das Prozedere zu vereinfachen.
+Willst du als Mitglied ein Buch entleihen, kontaktiere einfach den [Vereinsvorstand](mailto:vorstand@rpg-librarium.de) und wir teilen dir mit, wer das gewünschte Buch momentan hat, sodass ihr eine Übergabe vereinbaren könnt. Das Buch bleibt dann solange bei dir, bis jemand anderes Interesse äußert - also prinzipiell beliebig lang. Außerdem arbeiten wir gerade an einem digitalen Bücherausleihsystem, um das Prozedere zu vereinfachen.
 
 Im Folgenden findest du den aktuellen Bücherbestand. Vermisst du einen Titel oder hast eine gute Empfehlung? Schreib uns eine [E-Mail](mailto:kontakt@rpg-librarium.de)! Kaufentscheidungen für neue Bücher trifft der Librarium gemeinsam, aber wir setzen deine Wünsche so schnell wie möglich um. Beliebte Titel können wir auch mehrfach beschaffen. 
 

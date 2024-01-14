@@ -31,7 +31,7 @@ Spielrunde einzusteigen ist meist nicht möglich.
 ![Symbolbild Rollenspielabend: Ein Regelwerk, Würfel und ein aufgeschlagenes Buch auf einem Tisch.](/img/Rollenspielabend-min.jpg)
 
 
-Am **Dienstag den 29. November 2022** findet ab **18:30 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Die 2. Spielphase beginnt um 21:15 Uhr mit der Vorstellung der Spielrunden.
+Am **Dienstag, den 29. November 2022** findet ab **18:30 Uhr** der nächste **Rollenspielabend mit der FSMPI** statt. Die 2. Spielphase beginnt um 21:15 Uhr mit der Vorstellung der Spielrunden.
 
 **Wo?:** [**SemiTemp**](https://goo.gl/maps/swq46aj4Nn32), Schinkelstraße 15 (nahe des RWTH Hauptgebäudes, aber es ist NICHT das Semi90, NICHT das Seminargebäude und auch NICHT das Temp)
 
@@ -41,7 +41,7 @@ Am **Dienstag den 29. November 2022** findet ab **18:30 Uhr** der nächste **Rol
 
 Damit der Abend ein voller Erfolg wird, kannst du dich beteiligen! Wenn du Lust hast, eine **Runde zu spielleiten**, brauchen wir folgende Infos von dir:
 
-  * Deinen Name?
+  * Deinen Namen?
   * Welches System?
   * Wie viele Spieler (min/max)?
   * Leitest du eine oder zwei Runden?
