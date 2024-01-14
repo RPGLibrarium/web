@@ -16,7 +16,7 @@ Mittels dieser Datenschutzerklärung möchte unser Verein die Öffentlichkeit ü
 Ferner werden betroffene Personen mittels dieser Datenschutzerklärung über die ihnen zustehenden Rechte aufgeklärt.
 
 Der RPG Librarium Aachen e.V. hat als für die Verarbeitung Verantwortlicher zahlreiche technische und organisatorische Maßnahmen umgesetzt, um einen möglichst lückenlosen Schutz der über diese Internetseite verarbeiteten personenbezogenen Daten sicherzustellen.
-Dennoch können Internetbasierte Datenübertragungen grundsätzlich Sicherheitslücken aufweisen, sodass ein absoluter Schutz nicht gewährleistet werden kann.
+Dennoch können internetbasierte Datenübertragungen grundsätzlich Sicherheitslücken aufweisen, sodass ein absoluter Schutz nicht gewährleistet werden kann.
 
 ## 1. Begriffsbestimmungen
 
@@ -111,7 +111,7 @@ An die von einer betroffenen Person erstmalig für den Newsletterversand eingetr
 Diese Bestätigungsmail dient der Überprüfung, ob der Inhaber der E-Mail-Adresse als betroffene Person den Empfang des Newsletters autorisiert hat.
 
 Bei der Anmeldung zum Newsletter speichern wir ferner die vom Internet-Service-Provider (ISP) vergebene IP-Adresse des von der betroffenen Person zum Zeitpunkt der Anmeldung verwendeten Computersystems sowie das Datum und die Uhrzeit der Anmeldung.
-Die Erhebung dieser Daten ist erforderlich, um den(möglichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem späteren Zeitpunkt nachvollziehen zu können und dient deshalb der rechtlichen Absicherung des für die Verarbeitung Verantwortlichen.
+Die Erhebung dieser Daten ist erforderlich, um den (möglichen) Missbrauch der E-Mail-Adresse einer betroffenen Person zu einem späteren Zeitpunkt nachvollziehen zu können und dient deshalb der rechtlichen Absicherung des für die Verarbeitung Verantwortlichen.
 
 Die im Rahmen einer Anmeldung zum Newsletter erhobenen personenbezogenen Daten werden ausschließlich zum Versand unseres Newsletters verwendet.
 Ferner könnten Abonnenten des Newsletters per E-Mail informiert werden, sofern dies für den Betrieb des Newsletter-Dienstes oder eine diesbezügliche Registrierung erforderlich ist, wie dies im Falle von Änderungen am Newsletterangebot oder bei der Veränderung der technischen Gegebenheiten der Fall sein könnte.
@@ -142,12 +142,12 @@ Möchte eine betroffene Person dieses Bestätigungsrecht in Anspruch nehmen, kan
 Jede von der Verarbeitung personenbezogener Daten betroffene Person hat das vom Europäischen Richtlinien- und Verordnungsgeber gewährte Recht, jederzeit von dem für die Verarbeitung Verantwortlichen unentgeltliche Auskunft über die zu seiner Person gespeicherten personenbezogenen Daten und eine Kopie dieser Auskunft zu erhalten.
 Ferner hat der Europäische Richtlinien- und Verordnungsgeber der betroffenen Person Auskunft über folgende Informationen zugestanden:
 
-  - die Verarbeitungszweckedie Verarbeitungszwecke
-  - die Kategorien personenbezogener Daten, die verarbeitet werdendie Kategorien personenbezogener Daten, die verarbeitet werden
-  - die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationendie Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationen
-  - falls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauerfalls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer
+  - die Verarbeitungszwecke
+  - die Kategorien personenbezogener Daten, die verarbeitet werden
+  - die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationen
+  - falls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer
   - das Bestehen eines Rechts auf Berichtigung oder Löschung der sie betreffenden personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung
-  - das Bestehen eines Beschwerderechts bei einer Aufsichtsbehördedas Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde
+  - das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde
   - wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben werden: Alle verfügbaren Informationen über die Herkunft der Daten
   - das Bestehen einer automatisierten Entscheidungsfindung einschließlich Profiling gemäß Artikel 22 Abs.1 und 4 DS-GVO und — zumindest in diesen Fällen — aussagekräftige Informationen über die involvierte Logik sowie die Tragweite und die angestrebten Auswirkungen einer derartigen Verarbeitung für die betroffene Person
 
@@ -246,7 +246,7 @@ Solche Applikationen können durch die betroffene Person genutzt werden, um eine
 ## 10. Rechtsgrundlage der Verarbeitung
 
 Art. 6 I lit. a DS-GVO dient unserem Verein als Rechtsgrundlage für Verarbeitungsvorgänge, bei denen wir eine Einwilligung für einen bestimmten Verarbeitungszweck einholen.
-Ist die Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorgängen der Fall ist, die für eine Lieferung von Waren oder die Erbringung einer sonstigen Leistung oder Gegenleistung notwendig sind, so beruht die Verarbeitung auf Art. 6 I lit. b DS-GVO. Gleiches gilt für solche Verarbeitungsvorgänge die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zur unseren Produkten oder Leistungen. Unterliegt unser Verein einer rechtlichen Verpflichtung durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6 I lit. c DS-GVO.
+Ist die Verarbeitung personenbezogener Daten zur Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, erforderlich, wie dies beispielsweise bei Verarbeitungsvorgängen der Fall ist, die für eine Lieferung von Waren oder die Erbringung einer sonstigen Leistung oder Gegenleistung notwendig sind, so beruht die Verarbeitung auf Art. 6 I lit. b DS-GVO. Gleiches gilt für solche Verarbeitungsvorgänge die zur Durchführung vorvertraglicher Maßnahmen erforderlich sind, etwa in Fällen von Anfragen zu unseren Produkten oder Leistungen. Unterliegt unser Verein einer rechtlichen Verpflichtung durch welche eine Verarbeitung von personenbezogenen Daten erforderlich wird, wie beispielsweise zur Erfüllung steuerlicher Pflichten, so basiert die Verarbeitung auf Art. 6 I lit. c DS-GVO.
 In seltenen Fällen könnte die Verarbeitung von personenbezogenen Daten erforderlich werden, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen.
 Dies wäre beispielsweise der Fall, wenn ein Besucher in unserem Betrieb verletzt werden würde und daraufhin sein Name, sein Alter, seine Krankenkassendaten oder sonstige lebenswichtige Informationen an einen Arzt, ein Krankenhaus oder sonstige Dritte weitergegeben werden müssten.
 Dann würde die Verarbeitung auf Art. 6 I lit. d DS-GVO beruhen.
