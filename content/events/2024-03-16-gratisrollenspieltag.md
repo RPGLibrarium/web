@@ -18,6 +18,8 @@ draft: false
 ---
 Der Librarium ist beim Gratisrollenspieltag dabei!
 
+![Flyer zum Gratisrollenspieltag 2024](/img/schwefeldraachencon2023_flyer.jpg)
+
 ### Rollenspieltag? Wann, wo?
 Am Samstag, den **16. März 2024** von 13 Uhr bis 21 Uhr, in den Räumen der [meffi.s](https://www.meffis.org/die-4-raumeinheiten/) in der Mefferdatistraße 14-18 in der Nähe von Elisenbrunnen, Büchel und Markt.
 
@@ -38,6 +40,6 @@ Der Gratisrollenspieltag (GRT) ist ein deutschlandweites Rollenspielevent. Mehr 
 ### Was ist mit dem Monatstreffen des Librarium?
 Normalerweise treffen wir uns an jeden 16. des Monats zum Quatschen, Erzählen und manchmal auch zum Spielen. Am 16. März gibt es allerdings kein zusätzliches Treffen. Wir sehen uns beim GRT! 
 
-![Flyer zum Gratisrollenspieltag 2024](/img/schwefeldraachencon2023_flyer.jpeg)
+
 
 
