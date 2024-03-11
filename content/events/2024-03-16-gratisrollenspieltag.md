@@ -18,7 +18,7 @@ draft: false
 ---
 Der Librarium ist beim Gratisrollenspieltag dabei!
 
-![Flyer zum Gratisrollenspieltag 2024](/img/gratisrollenspieltag2024_flyer.jpg)
+![Flyer zum Gratisrollenspieltag 2024](/img/gratisrollenspieltag2024_flyer.jpeg)
 
 ### Rollenspieltag? Wann, wo?
 Am Samstag, den **16. März 2024** von 13 Uhr bis 21 Uhr, in den Räumen der [meffi.s](https://www.meffis.org/die-4-raumeinheiten/) in der Mefferdatistraße 14-18 in der Nähe von Elisenbrunnen, Büchel und Markt.
