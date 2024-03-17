@@ -9,11 +9,11 @@ menu:
 Angaben gemäß § 5 TMG
 
 RPG Librarium Aachen e. V.  
-Schurzelter Straße 469  
-52074 Aachen  
+Adalbertsteinweg 271
+52066 Aachen  
 
 Vertreten durch:
-Franca auf der Heiden
+Dominik Viehhauser
 
 Kontakt:  
 E-Mail: kontakt@rpg-librarium.de

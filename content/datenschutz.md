@@ -65,11 +65,11 @@ Einwilligung ist jede von der betroffenen Person freiwillig für den bestimmten 
 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist der:
 
-Vorsitzende  
-Christine Beck  
+Vorsitzender  
+Dominik Viehhauser  
 RPG Librarium Aachen e.V.  
-Kapuzinergraben 2  
-52062 Aachen  
+Adalbertsteinweg 271 
+52066 Aachen  
 Deutschland  
 
 E-Mail: kontakt at rpg-librarium.de  
@@ -79,10 +79,10 @@ Website: rpg-librarium.de
 
 Der Datenschutzbeauftragte des für die Verarbeitung Verantwortlichen ist:
 
-Yoann Kehler  
+Moritz Battermann
 RPG Librarium Aachen e.V.  
-Kapuzinergraben 2  
-52062 Aachen  
+Roermonder Str. 56  
+52072 Aachen  
 Deutschland  
 
 E-Mail: datenschutz at rpg-librarium.de

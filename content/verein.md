@@ -10,7 +10,7 @@ menu:
 Der RPG Librarium Aachen e.V. ist ein gemeinnütziger Verein, dessen satzungsgemäßes Ziel die Förderung von Kunst und Kultur ist. Der Librarium ist ziemlich stolz auf sein aktives Vereinsleben. Lies weiter, wenn du mehr darüber erfahren willst. 
 
 ## Der Vereinsvorstand
-Unsere Mitglieder wählen jährlich auf der Mitgliederversammlung einen Vorstand, welcher das Jahr über die anfallenden Aufgaben koordiniert. Im Vorstand sind zurzeit **Franca, Dominik, Jan, Don und Ira**. Die Vorstandssitzungen sind grundsätzlich öffentlich. Wenn du über die Sitzungstermine des Vorstands auf dem Laufenden gehalten werden möchtest, schreib uns gerne eine [E-Mail](mailto:vorstand@rpg-librarium.de)  
+Unsere Mitglieder wählen jährlich auf der Mitgliederversammlung einen Vorstand, welcher das Jahr über die anfallenden Aufgaben koordiniert. Im Vorstand sind zurzeit **Dominik, Don, Moritz, Jan und Ira**. Die Vorstandssitzungen sind grundsätzlich öffentlich. Wenn du über die Sitzungstermine des Vorstands auf dem Laufenden gehalten werden möchtest, schreib uns gerne eine [E-Mail](mailto:vorstand@rpg-librarium.de)  
 
 Du willst dem Librarium etwas per Post zukommen lassen? Hier ist unser Postfach:
 
