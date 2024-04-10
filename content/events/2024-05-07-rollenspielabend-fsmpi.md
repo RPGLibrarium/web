@@ -4,7 +4,7 @@ title: "Rollenspielabend mit der Fachschaft I/1"
 date: 2024-05-07
 # triggers publication, don't forget to regularly rebuild the website. Must be set if `date` is in the future or else 
 # the event won't appear.
-publishdate: 2024-04-10
+publishdate: 2024-04-09
 # start date of the event
 eventstart: 2024-05-07
 # end date of the event
