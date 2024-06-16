@@ -1,9 +1,8 @@
 ---
 title: "Monatstreffen / Sommerfest"
-date: 2024-06-16
+date: 2024-06-17
 publishdate: 2024-06-06
 eventstart: 2024-06-16
-eventend: 2024-06-17
 categories:
   - monatstreffen 
 draft: false
