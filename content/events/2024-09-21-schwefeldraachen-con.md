@@ -23,7 +23,7 @@ Es ist zwar nur eine kleine Con, aber hat trotzdem einiges für euch zu bieten.
 
 ### Besucht die Stände auf der Con!
 
-Als Zeichner haben wir [WeirdArtBard](Instagram.com/weirdartbard), [WeissMachtBunt](https://www.instagram.com/weissmachtbunt), [kyomaru_ko](https://x.com/kyomaru_ko), [AnnimelArt](https://www.instagram.com/annimelart), [Don Kringel](https://www.instagram.com/donkringel) und [Sevrin](https://www.instagram.com/sevrins_sketches) mit dabei. Außerdem werden am Sonntag [Michael Kleu](https://fantastischeantike.de) und der [Heinrich Tüffers Verlag](https://www.heinrich-tueffers.de) da sein.
+Als Zeichner haben wir [WeirdArtBard](https://www.instagram.com/weirdartbard/), [WeissMachtBunt](https://www.instagram.com/weissmachtbunt/), [kyomaru_ko](https://x.com/kyomaru_ko/), [AnnimelArt](https://www.instagram.com/annimelart/), [Don Kringel](https://www.instagram.com/donkringel/) und [Sevrin](https://www.instagram.com/sevrins_sketches/) mit dabei. Außerdem werden am Sonntag [Michael Kleu](https://www.fantastischeantike.de/) und der [Heinrich Tüffers Verlag](https://www.heinrich-tueffers.de/) da sein.
 
 
 ### Programmpunkte
@@ -36,7 +36,7 @@ Das Herzstück einer Rollenspiel Con sind aber wie immer die Spielrunden!
 Die Runden können auch auf der Con noch spontan angemeldet werden – wenn ihr also Lust habt, etwas zu spielleiten, nehmt es einfach auf die Con mit und füllt dort nur einen kleinen Zettel aus, oder ihr sagt uns schon vorher bescheid, dann bereiten wir den für euch vor. Die Spieler können sich dann auf der Con selber eintragen in die Runden.
 Über die Tage verteilt ist schon einiges angemeldet! Ihr könnt euch freuen auf: Devilfruits and Haki, Vampire 5e, Tephra, Prowlers and Paragons Ultimate Edition, Masks, Brindlewood Bay und Tiny D6 Dungeons!
 
-**Genauere Infos und die Möglichkeit, auch noch eine Runde anzumelden gibt es hier im**[Etherpad]([https://etherpad.fachschaften.rwth-aachen.de/p/Schwefeldraachen-Con-2024)
+**Genauere Infos und die Möglichkeit, auch noch eine Runde anzumelden gibt es hier im [Etherpad](https://etherpad.fachschaften.rwth-aachen.de/p/Schwefeldraachen-Con-2024/)**
 
 
 ### Kommt vorbei!
