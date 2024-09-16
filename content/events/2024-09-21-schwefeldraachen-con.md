@@ -16,26 +16,33 @@ categories:
 # when you feel ready, set to false. `hugo server -D` to show drafts locally.
 draft: false
 ---
-Der Librarium lädt feierlich ein zur zweiten SchwefeldrAachen Con! 
-
-### Convention? Wann, wo?
-Am Wochenende vom **21. & 22. September 2024**, jeweils ab 10 Uhr, Samstag bis 23:00 und Sonntag bis 18:00, in den Räumen der [meffi.s](https://www.meffis.org/die-4-raumeinheiten/) in der Mefferdatistraße 16-18 in der Nähe von Elisenbrunnen, Büchel und Markt.
-
-### Was ist denn da so los?
-Vor allem: **Pen&Paper- und Brettspielerunden!**  Dazu laden wir dieses Jahr ein paar lokale **Autor* innen und Künstler* innen** ein - Details folgen bald, seid gespannt. Zudem sind Teile unserer **Büchersammlung** vor Ort, sodass nach Herzenslust geschmökert werden kann. Zu guter Letzt gibt's wie immer Gequatsche in guter Gesellschaft über Rollenspiel und andere fantastische Themen, wobei völlige Neulinge genauso willkommen sind wie alte Hasen.
+Die SchwefeldrAachen Con rückt schnell näher!
+Vom 21.-22.09.2024 gibt es von 10 bis 23 Uhr bzw. Sonntags 10-18 Uhr Rollenspiele und mehr in der Mefferdatisstraße 14-16 in Aachen!
+Es ist zwar nur eine kleine Con, aber hat trotzdem einiges für euch zu bieten.
 
 
-### Und was wird gespielt?
-Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand uns vor allem um die Rahmenbedingungen des Events. Das bedeutet: Spielrunden, Workshops etc. werden zum Großteil von unserer Rollenspielcommunity organisiert - 
-wir sind also auf eure Unterstützung angewiesen. **Wenn du ein Lieblingssystem oder -abenteuer hast, dann bring es mit!** Es wird eine Pinnwand o.ä. geben, über welche wir Spielrunden & Co. vor Ort organisieren. Genauso gern sind 
-Brettspielrunden, Kartenspielrunden oder interessante Workshops gesehen. 
+### Besucht die Stände auf der Con!
 
-Wenn ihr eine Spielrunde leiten wollt tragt euch gerne in unser Etherpad ein: [Pad](https://etherpad.fachschaften.rwth-aachen.de/p/Schwefeldraachen-Con-2024)
+Als Zeichner haben wir [WeirdArtBard](Instagram.com/weirdartbard), [WeissMachtBunt](https://www.instagram.com/weissmachtbunt), [kyomaru_ko](https://x.com/kyomaru_ko), [AnnimelArt](https://www.instagram.com/annimelart), [Don Kringel](https://www.instagram.com/donkringel) und [Sevrin](https://www.instagram.com/sevrins_sketches) mit dabei. Außerdem werden am Sonntag [Michael Kleu](https://fantastischeantike.de) und der [Heinrich Tüffers Verlag](https://www.heinrich-tueffers.de) da sein.
 
-### Muss ich mich anmelden? Kostet das was?
-Nein und nein! Komm einfach vorbei. Der Eintritt ist kostenlos, aber wir werden trotzdem ein Spendenglas aufstellen, sodass die Raummiete nicht nur von Vereinsmitteln allein getragen werden muss.
 
-Wenn du schon weißt, dass du etwas spielleiten möchtest, dann freuen wir uns trotzdem, im Voraus von dir zu hören - dann sichern wir dir einen Tisch.
+### Programmpunkte
+
+Samstag um 11:30 Uhr könnt ihr bei einem Workshop zum Karten erstellen mitmachen – mit vielen Infos darüber, wie die verschiedenen Landschaften aufeinander Einfluss haben.
+Wolltet ihr schon immer mal euren Charakter zeichnen, aber eigentlich nicht erst Jahre darauf werfen, ordentlich zeichnen zu lernen? Am Samstag um 14:30 Uhr könnt ihr im Workshop schnelle Tricks ausprobieren, um ein Bild zu malen, wenn man das eigentlich gar nicht kann.
+Sonntag gibt es ab 11 Uhr einen Vortrag zum Thema “Von Lake Geneva nach Hollywood: Eine Zeitreise durch 50 Jahre Pen & Paper”.
+
+Das Herzstück einer Rollenspiel Con sind aber wie immer die Spielrunden!
+Die Runden können auch auf der Con noch spontan angemeldet werden – wenn ihr also Lust habt, etwas zu spielleiten, nehmt es einfach auf die Con mit und füllt dort nur einen kleinen Zettel aus, oder ihr sagt uns schon vorher bescheid, dann bereiten wir den für euch vor. Die Spieler können sich dann auf der Con selber eintragen in die Runden.
+Über die Tage verteilt ist schon einiges angemeldet! Ihr könnt euch freuen auf: Devilfruits and Haki, Vampire 5e, Tephra, Prowlers and Paragons Ultimate Edition, Masks, Brindlewood Bay und Tiny D6 Dungeons!
+
+**Genauere Infos und die Möglichkeit, auch noch eine Runde anzumelden gibt es hier im [Etherpad]([https://etherpad.fachschaften.rwth-aachen.de/p/Schwefeldraachen-Con-2024)**
+
+
+### Kommt vorbei!
+
+Der Eintritt ist frei, aber wir werden eine kleine Spendendose aufstellen.
+Egal ob Neuling oder alter Hase, ob ihr für ein paar Minuten oder viele Stunden da seid – kommt vorbei, spielt, und erlebt eine schöne Con mit uns!
 
 
 ![Flyer zur Schwefeldraachen-Con 2024](/img/schwefeldraachencon2024_flyer.jpg)
