@@ -1,5 +1,5 @@
 ---
-title: "Monatstreffen / Sommerfest"
+title: "Monatstreffen"
 date: 2024-10-17
 publishdate: 2024-10-15
 eventstart: 2024-10-16
