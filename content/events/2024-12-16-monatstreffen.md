@@ -1,6 +1,6 @@
 ---
 title: "Monatstreffen"
-date: 2024-12-17
+date: 2024-12-16
 publishdate: 2024-12-09
 eventstart: 2024-12-16
 categories:
