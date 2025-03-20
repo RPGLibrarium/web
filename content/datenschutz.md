@@ -80,7 +80,7 @@ Website: rpg-librarium.de
 Der Datenschutzbeauftragte des für die Verarbeitung Verantwortlichen ist:
 
 Moritz Battermann
-RPG Librarium Aachen e.V.  
+RPG Librarium Aachen e.V.
 Roermonder Str. 56  
 52072 Aachen  
 Deutschland  
