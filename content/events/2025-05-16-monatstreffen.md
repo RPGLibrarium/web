@@ -1,7 +1,7 @@
 ---
 title: "Monatstreffen"
 date: 2025-05-16
-publishdate: 2025-05-02
+publishdate: 2025-05-03
 eventstart: 2025-05-16
 categories:
   - monatstreffen 
