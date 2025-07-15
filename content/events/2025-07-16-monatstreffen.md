@@ -7,7 +7,6 @@ categories:
   - monatstreffen 
 draft: false
 ---
-
 **UPDATE**
 **Aufgrund der erwateten morgigen Wetterlage verschieben wir unser Sommerfest und treffen uns stattdessen wie üblich im Papillon in der Pontstraße ab 19:00. Wir werden also leider nicht grillen, versuchen aber unser Sommerfest im nächsten Monat nachzuholen.**
 
