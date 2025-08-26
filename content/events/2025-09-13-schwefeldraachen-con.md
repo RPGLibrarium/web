@@ -16,13 +16,15 @@ categories:
 # when you feel ready, set to false. `hugo server -D` to show drafts locally.
 draft: false
 ---
-Auch dieses Jahr findet wieder die SchwefeldrAachen Con statt, unsere kleine Rollenspiel Con in Aachen!
-Vom 13.-14.09.2025 gibt es von 10 bis 23:30 Uhr bzw. Sonntags 10-19 Uhr Rollenspiele und mehr in der Mefferdatisstraße 14-16. Es ist zwar nur eine kleine Con, aber hat trotzdem einiges für euch zu bieten. 
+Auch dieses Jahr findet wieder die SchwefeldrAachen Con statt, unsere kleine Pen&Paper Rollenspiel Con in Aachen! Vom 13.-14.09.2025 gibt es am Samstag von 10 bis 23:30 Uhr bzw. am Sonntag von 10 bis 19 Uhr Rollenspiele und mehr in der Mefferdatisstraße 14-18. Es ist eine kleine, familiäre Con, die einiges zu bieten hat. 
 
-Merkt euch jetzt das Datum vor! 
+Der Eintritt ist frei! 
 
-Mehr Informationen zu Spielrunden und Programmpunkten folgen noch. Auf jeden Fall gibt es wieder ein paar Zeichnerstände, Workshops, und Pen & Paper Rollenspiel Runden!
+Die Anmeldung zu Spielrunden findet auf der Convention statt. Neben Spielrunden und Workshops wird es auch ein paar Stände mit verschiedenen Holzwaren mit Rollenspielbezug und Merchandise von Zeichner\*innen geben.
+Die genauen Uhrzeiten der Programmpunkte folgen noch. Updates gibt es direkt HIER, oder auf unserem ![Instagram](https://www.instagram.com/rpglibrarium)
+Wenn ihr selber eine Spielrunde anbieten wollt (und bisher noch keinen Kontakt zum Verein hattet) meldet euch gerne kurz unter vorstand@rpg-librarium.de
 
-![Flyer zur Schwefeldraachen-Con 2025](/img/schwefeldraachencon2025_flyer.jpg)
+Ob Neuling oder alter Hase, kommt vorbei und spielt mit!
+![Flyer zur Schwefeldraachen-Con 2025](/img/schwefeldraachencon2025online.jpg)
 
 
