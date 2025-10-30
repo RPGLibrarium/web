@@ -14,7 +14,7 @@ categories:
   - rollenspielabend
 
 # when you feel ready, set to false. `hugo server -D` to show drafts locally.
-draft: true
+draft: false
 ---
 Mit der [Fachschaft I/1](https://fsmpi.eu/) für Mathe, Physik und Informatik an der 
 RWTH und mit der [Katholischen Hochschule Aachen](http://asta.aachen.katho-nrw.de/) kooperieren wir regelmäßig, um für 
