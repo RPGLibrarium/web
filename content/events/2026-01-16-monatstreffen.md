@@ -1,6 +1,6 @@
 ---
 title: "Monatstreffen"
-date: 2026-01-16
+date: 2026-01-15
 publishdate: 2026-01-01
 eventstart: 2026-01-16
 categories:
