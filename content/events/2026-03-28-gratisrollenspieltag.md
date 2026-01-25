@@ -1,14 +1,14 @@
 ---
 title: "Gratis Rollenspiel Tage 2026"
 # used for sorting probably the eventstart date
-date: 2025-03-28
+date: 2026-03-28
 # triggers publication, don't forget to regularly rebuild the website. Must be set if `date` is in the future or else 
 # the event won't appear.
-publishdate: 2025-01-01
+publishdate: 2026-01-01
 # start date of the event
-eventstart: 2025-03-28
+eventstart: 2026-03-28
 # end date of the event
-eventend: 2025-03-28
+eventend: 2026-03-28
 # set categories to automagically replace placeholders.
 categories:
   - convention-local
