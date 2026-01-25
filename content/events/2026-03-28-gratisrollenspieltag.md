@@ -20,8 +20,6 @@ Der Librarium ist bei den Gratis Rollenspiel Tagen dabei!
 
 Du wolltest schon immer mal Rollenspiel ausprobieren? Oder ein neues System kennen lernen? Komm vorbei! Es gibt Spielrunden, Material, Informationen, und natürlich nette Leute, die auch gerne spielen.
 
-# ![Flyer zum Gratisrollenspieltag 2025](/img/gratisrollenspieltag2025_flyer.jpg)
-
 ### Rollenspieltag? Wann, wo?
 Am Samstag, den **28. März 2026** von 11 Uhr bis 19 Uhr, in den Räumen der [meffi.s](https://www.meffis.org/die-4-raumeinheiten/) in der Mefferdatistraße 14-18 in der Nähe von Elisenbrunnen, Büchel und Markt.
 
