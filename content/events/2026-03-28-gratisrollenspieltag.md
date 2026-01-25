@@ -4,7 +4,7 @@ title: "Gratis Rollenspiel Tage 2026"
 date: 2025-03-28
 # triggers publication, don't forget to regularly rebuild the website. Must be set if `date` is in the future or else 
 # the event won't appear.
-publishdate: 2025-01-24
+publishdate: 2025-01-01
 # start date of the event
 eventstart: 2025-03-28
 # end date of the event
