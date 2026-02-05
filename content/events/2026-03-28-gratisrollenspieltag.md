@@ -27,7 +27,7 @@ Am Samstag, den **28. März 2026** von 11 Uhr bis 19 Uhr, in den Räumen der [me
 Das hängt von euch ab! Wie auf der Librarium-Freizeit kümmern wir als Vorstand uns vor allem um die Rahmenbedingungen des Events. Das bedeutet: Spielrunden werden zum Großteil von unserer Rollenspielcommunity organisiert, 
 wir sind also auf eure Unterstützung angewiesen. **Wenn du ein Lieblingssystem oder -abenteuer hast, dann bring es mit und spielleite!** 
 
-Hier geht's zum Pad(Link folgt), über welches Rollenspielrunden angekündigt werden können. Seid dabei und verdient euch den prestigeträchtigen Librarium-Button für Spielleitungen.
+Hier geht's zum [Pad](https://etherpad.rpg-librarium.de/p/GratisRollenspielTage2026), über welches Rollenspielrunden angekündigt werden können. Seid dabei und verdient euch den prestigeträchtigen Librarium-Button für Spielleitungen.
 
 ### Muss ich mich anmelden? Kostet das was?
 Nein und nein! Komm einfach vorbei. Der Eintritt ist kostenlos (darum Gratis Rollenspiel Tage).
