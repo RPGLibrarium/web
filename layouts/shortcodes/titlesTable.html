@@ -1,7 +1,5 @@
 {{/* fetch JSON from file */}}
 {{ $titles := getJSON "https://liberation.rpg-librarium.de/v1/titles?recursive=true" }}
-{{ if $titles }}
-  {{ $sorted := sort $titles ".rpg_system.name" "asc" }}
 {{/* generate HTML */}}
 <div class="multiversumTable">
   <table class="titles">
@@ -27,6 +25,3 @@
     </tbody>
   </table>
 </div>
-{{ else }}
-  <p>Titles are currently unavailable.</p>
-{{ end }}
