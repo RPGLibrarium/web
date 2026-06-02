@@ -79,10 +79,10 @@ Website: rpg-librarium.de
 
 Der Datenschutzbeauftragte des für die Verarbeitung Verantwortlichen ist:
 
-Dominik Viehhauser
-RPG Librarium Aachen e.V.
-Aureliusstrasse 40
-52064 Aachen
+Dominik Viehhauser  
+RPG Librarium Aachen e.V.  
+Aureliusstrasse 40  
+52064 Aachen  
 Deutschland  
 
 E-Mail: datenschutz at rpg-librarium.de

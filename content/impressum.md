@@ -9,7 +9,7 @@ menu:
 Angaben gemäß § 5 TMG
 
 RPG Librarium Aachen e. V.  
-Warmweiherstr. 50
+Warmweiherstr. 50  
 52066 Aachen  
 
 Vertreten durch:
