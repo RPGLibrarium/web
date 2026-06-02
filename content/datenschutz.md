@@ -66,9 +66,9 @@ Einwilligung ist jede von der betroffenen Person freiwillig für den bestimmten 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist der:
 
 Vorsitzender  
-Dominik Viehhauser  
+Don Kringel  
 RPG Librarium Aachen e.V.  
-Adalbertsteinweg 271 
+Warmweiherstr. 50 
 52066 Aachen  
 Deutschland  
 
@@ -79,10 +79,10 @@ Website: rpg-librarium.de
 
 Der Datenschutzbeauftragte des für die Verarbeitung Verantwortlichen ist:
 
-Moritz Battermann
+Dominik Viehhauser
 RPG Librarium Aachen e.V.
-Roermonder Str. 56  
-52072 Aachen  
+Aureliusstrasse 40
+52064 Aachen
 Deutschland  
 
 E-Mail: datenschutz at rpg-librarium.de
