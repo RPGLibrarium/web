@@ -32,11 +32,11 @@ Es gibt zwei Spielphasen à 2 Stunden. Die Spielrunden werden jeweils um 16:00 U
 
 Als Spielleitung kannst du entweder:
 
-    * eine oder zwei kurze Runden innerhalb einer einzelnen Spielphase leiten (One-Shot, bis zu 2 Stunden)
+* eine oder zwei kurze Runden innerhalb einer einzelnen Spielphase leiten (One-Shot, bis zu 2 Stunden)
 
 oder
 
-    * eine lange Runde über beide Spielphasen hinweg anbieten (Double-Shot, bis zu 4,5 Stunden inklusive Pause). Double-Shots starten ausschließlich zu Beginn der ersten Spielphase.
+* eine lange Runde über beide Spielphasen hinweg anbieten (Double-Shot, bis zu 4,5 Stunden inklusive Pause). Double-Shots starten ausschließlich zu Beginn der ersten Spielphase.
 
 Wichtig: Der Abend kann nur stattfinden, wenn sich ausreichend viele Spielleitungen melden. Deshalb ist es für unsere Planung sehr wichtig, dass du dich bis spätestens 30. Juni meldest, wenn du eine Runde leiten möchtest. Danach können wir anfangen, explizit für Spieler:innen zu werben.
 
